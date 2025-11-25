@@ -1,0 +1,294 @@
+/*Image animation*/
+.hoverGrid {
+  overflow: hidden;
+  position: relative;
+  -webkit-transform: translateY(30px);
+  transform: translateY(30px);
+  opacity: 0;
+}
+
+.hoverGrid.is-visible {
+  animation: fadeInUp 0.6s 0s forwards;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+    transform: matrix(1, 0, 0, 1, 0, 0);
+  }
+}
+
+/*上から*/
+.hoverGrid:before {
+  position: absolute;
+  z-index: 1;
+  background: #000;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  display: block;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+
+.hoverGrid.is-visible:before {
+  animation: fromTop .4s 2s forwards;
+}
+
+@keyframes fromTop {
+  0% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  100% {
+    -webkit-transform: translateY(101%);
+    transform: translateY(101%);
+  }
+}
+
+
+/*下から*/
+.hoverGrid.bottomUp:before {
+  position: absolute;
+  z-index: 1;
+  background: #000;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  display: block;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+
+.hoverGrid.bottomUp.is-visible:before {
+  animation: fromBottom .4s 2s forwards;
+}
+
+@keyframes fromBottom {
+  0% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  100% {
+    -webkit-transform: translateY(-101%);
+    transform: translateY(-101%);
+  }
+}
+
+/*左から*/
+.hoverGrid.leftToRight:before {
+  position: absolute;
+  z-index: 1;
+  background: #000;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  display: block;
+  -webkit-transform: translateX(0);
+  transform: translateX(0)
+}
+
+.hoverGrid.leftToRight.is-visible:before {
+  animation: fromLeftToRight .4s 2s forwards;
+}
+
+@keyframes fromLeftToRight {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  100% {
+    -webkit-transform: translateX(101%);
+    transform: translateX(101%);
+  }
+}
+
+/*右から*/
+.hoverGrid.rightToLeft:before {
+  position: absolute;
+  z-index: 1;
+  background: #000;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  display: block;
+  -webkit-transform: translateX(0);
+  transform: translateX(0)
+}
+
+.hoverGrid.rightToLeft.is-visible:before {
+  animation: fromLeftToRight .4s 2s forwards;
+}
+
+@keyframes fromRightToLeft {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  100% {
+    -webkit-transform: translateX(-101%);
+    transform: translateX(-101%);
+  }
+}
+
+/*テキストアニメーション*/
+.is-left-slide {
+  opacity: 0;
+  -webkit-transform: translateX(-30px);
+  transform: translateX(-30px);
+  -webkit-transition: -webkit-transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: -webkit-transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s, -webkit-transform .8s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+}
+
+.is-left-slide.is-visible {
+  animation: fadeIn .4s forwards;
+}
+
+.is-right-slide {
+  opacity: 0;
+  -webkit-transform: translateX(30px);
+  transform: translateX(30px);
+  -webkit-transition: -webkit-transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: -webkit-transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s, -webkit-transform .8s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+}
+
+.is-right-slide.is-visible {
+  animation: fadeIn .4s forwards;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+  }
+}
+
+.is-down-slide {
+  opacity: 0;
+  -webkit-transform: translateY(-30px);
+  transform: translateY(-30px);
+  -webkit-transition: -webkit-transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: -webkit-transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s, -webkit-transform .8s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+}
+
+.is-down-slide.is-visible {
+  animation: fadeIn .4s forwards;
+}
+
+@keyframes fadeInY {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+  }
+}
+
+.is-up-slide {
+  opacity: 0;
+  -webkit-transform: translateY(30px);
+  transform: translateY(30px);
+  -webkit-transition: -webkit-transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: -webkit-transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+  transition: transform .4s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s, -webkit-transform .8s cubic-bezier(0.215, 0.61, 0.355, 1) 0.4s;
+}
+
+.is-up-slide.is-visible {
+  animation: fadeIn .4s forwards;
+}
+
+@keyframes fadeInY {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+  }
+}
+
+.is-down-bounce {
+  opacity: 0;
+  -webkit-transform: translateY(-40px);
+  transform: translateY(-40px);
+}
+
+.is-down-bounce.is-visible {
+  animation: bounceIn .4s forwards;
+}
+
+@keyframes bounceIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-40px);
+  }
+
+  20% {
+    opacity: 0.4;
+    transform: translateY(-10px);
+  }
+
+  40% {
+    opacity: 0.6;
+    transform: translateY(5px);
+  }
+
+  80% {
+    opacity: 0.8;
+    transform: translateY(-10px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+.is-fadeIn {
+  opacity: 0;
+}
+
+.is-fadeIn.is-visible {
+  animation: fadeInImage 3s forwards;
+}
+
+@keyframes fadeInImage {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}

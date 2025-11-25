@@ -1,0 +1,554 @@
+@charset "UTF-8";
+
+.pnav { text-align: right;}
+.pnav li{ display: inline-block; font-size: 10px; line-height: 1;}
+.pnav li a{ color: #22ADAF; }
+.pnav li a span{border-bottom: 1px solid #22ADAF;}
+.pnav li a:after{ content: ""; display: inline-block; width: 2px; height: 3px; background: url("../common/img/ pnavarw.svg") left top no-repeat; vertical-align: middle; margin: 0 2px 0 5px;}
+
+.secondmaiTit{ padding-top: 48px; text-align: left;   
+}
+
+.secontTitWrapp{align-items: center; /* 横線を上下中央 */
+  display: flex; /* 文字と横線を横並び */}
+
+
+.secontTitWrapp:after {
+    background-color: #000;
+    content: "";
+    height: 1px;
+    width: 100%;
+    margin-top: 60px;
+}
+
+.secondmaiTit dt{ font-size: 14px; margin-bottom: 0;}
+.secondmaiTit dd{ font-size: 34px;}
+
+.aboudttit dt{ font-size: 45px; text-align: center; font-weight: bold; margin-bottom: 40px;} 
+.aboudttit span{ background: url(../common/img/boder_under.svg) left bottom repeat-x;
+    padding-bottom: 5px;}
+.aboudttit dd{ font-size: 16px; line-height: 40px; font-weight: bold;} 
+
+.secaboutread .readArea {
+	max-width: 660px;}
+
+.representativeImg{ width: 27%; display: inline-block; vertical-align: top;}
+.representativeImg img{ width: 100%; height: auto;}
+.representativeTxt{ width: 70%; display: inline-block; vertical-align: top; box-sizing: border-box; padding-left: 60px; position: relative;}
+.representativeTxt .sectt{ text-align: left;}
+.representativeTxt p{ margin-top: 30px; font-size: 16px; line-height: 34px;}
+.name{ font-size: 14px; padding-top: 40px;}
+
+.representativeTxtimg{ width: 231px; position: absolute; right: -50px; bottom: -80px;}
+.representativeTxtimg img{ width: 100%; height: auto;}
+.aboutsecond{ margin-bottom: 56px;}
+
+.svlists{ font-size: 0; letter-spacing: 0; padding-top: 90px;}
+/*.svlists li{ width: 50%; display: inline-block; vertical-align: top; box-sizing: border-box;}*/
+.svlists li{ width: 100%;}
+.svlists li img{ width: 100%; height: auto;}
+
+.svlists li dt{ color: #22ADAF; font-size: 14px; font-weight: bold; padding: 15px 0 4px 0;}
+.svlists li dd{ font-size: 16px; line-height: 27px;}
+.svlists li:nth-child(odd){ padding-right: 22px;}
+.svlists li:nth-child(even){ padding-left: 22px;}
+
+.servicelists{ padding-top: 90px;}
+.servicelists.pt20{ padding-top: 20px;}
+.servicelists .sectt{ text-align: left;}
+.servicelists .svlists{ padding-top: 17px;}
+
+.outline{ background: #fff; background: #FFFFFF;
+    border-radius: 30px;
+    padding: 50px 0;
+}
+.outline .sectt{ text-align: left;}
+.outList{ padding-top: 30px;}
+.outline li{ font-size: 0; margin-bottom: 20px;}
+.outline li dt{ font-size: 16px; font-weight: bold; display: inline-block; width: 23%; border-bottom: 2px solid #000; padding-bottom: 14px; vertical-align: top;}
+.outline li dd{ font-size: 16px;  display: inline-block;  width: 72%;  border-bottom: 1px solid #000; margin-left: 5%;  padding-bottom: 14px; vertical-align: top;}
+.outlineWrapp{ margin-bottom: 70px;}
+
+
+.event{ padding:0 20px; margin-top: 50px}
+.eventin{ background: #004589}
+	.readArea .contentInner {
+    padding-top: 0;
+}
+
+@media screen and (max-width:900px) {
+	
+	.secontTitWrapp {
+    align-items: center;
+    display: block;
+        
+}
+    
+    .sectt dd{padding-bottom: 20px;}
+    .pnav{ padding-top: 10px;}
+	.secondmaiTit{ border-bottom:  1px solid #000;}
+	
+
+	.aboudttit dt {
+    font-size: 36px;
+}
+	.readcontets {
+    margin-bottom: 80px;
+    position: relative;
+}
+	.aboutsecond{ position: relative;}
+	
+	.representativeTxt .sectt {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    top: 40px;
+}
+	
+	.representativeImg {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+	
+	.representativeTxt {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding-left: 0;
+    position: static;
+}
+	.representativeImg {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 90px;
+}
+	.dhycont{ position: relative;}
+	.representativeTxtimg {
+    width: 151px;
+    position: absolute;
+    right: -11px;
+    bottom: -100px;
+}
+	.svlists li:nth-child(odd) {
+    padding-right: 0;
+		margin-bottom: 40px;
+}
+	.svlists li {
+    width: 100%;
+	}
+	.svlists li:nth-child(even) {
+    padding-left: 0;
+}
+	.outline li dt { font-size: 14px;}
+	.outline li dd{ font-size: 14px;}
+    
+
+}
+
+
+
+
+.event{ padding: 0 50px;}
+.eventin{ border-radius: 46px; color: #fff; text-align: left; box-sizing: border-box; padding: 0 70px;}
+.eventin .sectt{color: #fff; text-align: left;}
+.eventin .sectt dt,.eventin .sectt dd{color: #fff; }
+.eventin .sectt dd{ display: inline-block; margin-right: 20px;}
+.eventin{ padding-top: 35px}
+
+.eventin .svlists{ padding-top: 35px; padding-bottom: 20px;}
+.eventin .svlists li{ width: 33%;}
+.eventin .svlists li{ padding: 0 30px;}
+.eventin .svlists li a{ color: #fff;}
+
+
+
+.eventin .svlists li dt { color: #fff; font-weight: normal;}
+.calender { margin-top: 60px;}
+.calender iframe {
+  width: 100%;
+  height: 400px;
+}
+@media all and (min-width: 900px) {
+  .calender iframe {
+	height: 600px;
+  }
+    
+    
+    
+}
+
+.mapcontent{ margin-top: 30px; margin-bottom: 60px; word-break: break-all;} 
+.mapcontent dl{ font-size: 16px;  width: 45%; display: inline-block; vertical-align: top; word-break: break-all; box-sizing: border-box; padding-right: 20px;}
+.mapcontent dl dt{ font-weight: bold;margin-bottom: 10px;}
+.mapimg{ width: 55%; display: inline-block; vertical-align: top;}
+.mapimg img{ width: 100%; height: auto;}
+.mapcontent a{ margin-top: 5px;}
+
+
+.svscon img{ width: 100%; height: auto;}
+.svsTxt {  font-size: 16px;}
+
+.svsTxt dt{ color: #004589; padding: 20px 0; font-weight: bold; padding-bottom: 5px;}
+
+.harfcon .svscon{ width: 50%; display: inline-block; box-sizing: border-box;}
+.harfcon .svscon:nth-child(odd){ padding-right: 20px;}
+.harfcon .svscon:nth-child(even){ padding-left: 20px;}
+.harfcon{ margin-top: 65px;}
+
+.selsttxt{ text-align: center; font-size: 16px; padding-top: 40px; margin-bottom: -20px;}
+.selsttxt dt{ font-weight: bold; margin-bottom: 10px;}
+
+.servesecon {
+    background: url(../img/bg_servise.png)left top repeat #fff;
+	border-radius: 570px 570px 20px 20px;}
+
+
+@media all and (max-width: 900px) {
+.event {
+    padding: 0;
+}
+	.eventin {
+    padding: 0 20px;
+}
+	
+	.eventin .sectt {
+    color: #fff;
+    text-align: center;
+}
+	
+	.eventin .svlists li {
+    padding: 0;
+		width: 100%;
+		margin-bottom: 30px;
+}
+	.mapcontent dl {
+    font-size: 16px;
+    width: 100%;
+}
+	.mapimg {
+    width: 100%;
+    display: inline-block;
+		
+		
+    vertical-align: top;
+}
+	
+	.harfcon .svscon {
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+	.harfcon .svscon:nth-child(odd){ padding-right: 0; margin-bottom: 30px;}
+	.harfcon .svscon:nth-child(even) {
+    padding-left: 0;
+}
+	.mapcontent dl{ padding-right: 0;}
+}
+
+
+.serchis{ text-align: center; margin-top: 20px; font-size: 14px; }
+.serchis input{ padding: 0 10px;}
+
+.infists{ font-size: 0;}
+.infists li{ width: 33%; display: inline-block; vertical-align: top; box-sizing: border-box; padding: 0 25px; margin-bottom: 50px;}
+.infists li img{ width: 100%; height: auto; height: 200px; object-fit: cover; border-radius: 20px;}
+.infists{ padding-top: 70px;}
+.imginfifo{ position: absolute; right: 40px; top: -70px; width: 153px; display: none;}
+.imginfifo img{ width: 100%; height: auto;}
+.infists li dt{ font-size: 12px; padding: 10px 0;}
+.infists li dd{ font-size: 14px; padding: 10px 0; padding-top: 0; font-weight: bold;text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;}
+
+.infists .ctgList li{background:#8A2FA0; font-size: 12px; color: #fff; border-radius: 30px; display: inline-block; padding: 5px 10px; margin-right: 10px; width: auto;}
+.ctgList li.event {background: #1639A;}
+.ctgList li.news{ background: #408959;}
+.ctgList li.media{ background: #8A2FA0;}
+.infists .ctgList li.event{ margin-top: 0;}
+
+
+.cdp {
+    position: relative;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 0;
+    z-index: 6;
+    margin: 50px 0;
+    animation: cdp-in 500ms ease both;
+    animation-timeout: 200ms;
+	font-size: 14px;
+}
+
+.cdp a {
+    font-size: 14px;
+    text-decoration: none;
+
+    display: inline-block;
+    text-transform: uppercase;
+    margin: 0 3px 6px;
+    height: 38px;
+    min-width: 38px;
+    border-radius: 38px;
+    border: 2px solid #000;
+    line-height: 38px;
+    padding: 0;
+    color: #000;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+	background: #fff;
+}
+.cdp a.active{ background: #000; color: #fff;}
+.cdp_i:first-child, .cdp_i:last-child {
+    padding: 0 16px;
+    margin: 0 12px 6px;
+}
+
+
+@media all and (max-width: 900px) {
+	.infists li{ width: 100%; padding: 0; margin-bottom: 34px}
+}
+
+.dtcon { padding: 0 50px;}
+.dtcon img{ max-width: 100%; height: auto}
+.ctgdate { margin-bottom: 15px;}
+.ctgdate dd{ display: inline-block; padding-left: 0; vertical-align: middle}
+.ctgdate dt{background:#8A2FA0; font-size: 12px; color: #fff; border-radius: 30px; display: inline-block; padding: 5px 20px; margin-right: 10px; width: auto; vertical-align: middle;} 
+.ctgdate dt.event {background: #1639AD;}
+.ctgdate dt.news{ background:#408959 ;}
+ .ctgdate dt.event{ margin-top: 0}
+
+.dtcon h1{ font-size: 36px; line-height: 48px; margin-bottom: 30px;}
+.dtcon h2{ font-size: 30px; line-height: 42px; padding: 50px 0;}
+.dtcon h2:after{ content:""; display: block; width: 60px; height: 2px; background: #ACACAC; margin-top: 30px;}
+.dtcon h3{ font-size: 24px; line-height: 36px; padding: 30px 0;}
+.dtcon h4{ font-size: 18px; line-height: 34px; padding: 35px 0;}
+.dtcon h5{ font-size: 16px; line-height: 34px; padding: 35px 0;}
+.dtcon p{ font-size: 14px; line-height: 30px;}
+.listbackBtn{ text-align: center; margin-top: 40px;}
+
+
+@media all and (max-width: 900px) {
+.dtcon {
+    padding: 0;
+}
+	
+.dtcon h1{ font-size: 26px; line-height: 42px; margin-bottom: 30px;}
+.dtcon h2{ font-size: 22px; line-height: 42px; padding: 50px 0;}
+.dtcon h2:after{ content:""; display: block; width: 60px; height: 2px; background: #ACACAC; margin-top: 30px;}
+.dtcon h3{ font-size: 20px; line-height: 36px; padding: 30px 0;}
+.dtcon h4{ font-size: 18px; line-height: 34px; padding: 35px 0;}
+.dtcon h5{ font-size: 16px; line-height: 34px; padding: 35px 0;}
+.dtcon p{ font-size: 14px; line-height: 30px;}
+
+}
+
+
+.contactTit{ font-size:16px; font-weight:bold; margin-bottom: 40px; text-align: center;}  
+
+.formlist{ font-size: 16px;}
+.formlist dt{ width: 20%; display: inline-block; vertical-align: top; font-size: 16px;}
+.formlist dd{ width: 75%; display: inline-block; vertical-align: top; font-size: 16px;}
+.formlist dd input,.formlist dd textarea{ width: 100%; border: 1px solid #707070; border-radius: 20px; padding: 20px; box-sizing: border-box; font-size: 16px;}
+.formlist li{ margin-bottom: 30px;}
+
+
+.conatdtxt{ font-size: 12px; }
+.conatdtxt a{ text-decoration: underline; color: #000AFF;}
+
+.conatdtxt{ text-align: center; margin-top: 50px;}
+
+
+@media all and (max-width: 900px) { 
+.formlist dt{ width: 100%; margin-bottom: 15px;}
+	.formlist dd{ width: 100%;}
+
+}
+
+.rtxt{ color: #FF0000; margin-top: 20px;}
+
+.morerink.norink a{ background: #EBEBEB}
+
+
+.ontxt dt{ color: #22ADAF; font-size: 40px; font-weight: bold;}
+.ontxt dd{ color: #454545; font-size: 16px;}
+.ontxt{display: inline-block; vertical-align: middle}
+.onlimg{ width: 70%; display: inline-block; vertical-align: middle; transform: translateX(60px);}
+.onlimg img{ width: 100%; height: auto;}
+
+.pnav{ margin-bottom: 50px;}
+
+
+@media all and (max-width: 900px) { 
+	.ontxt { display: block; width: 100%; margin-bottom: 20px; text-align: center;
+	
+	}
+	.onlimg{ width: 100%; transform: translateX(0);}
+	.online .svinner{ padding: 0;}
+	.pnav{ margin-bottom: 20px;}
+
+	.imginfifo{ display: none;}
+    .servicelists.pt20 {
+    padding-top: 0;
+}
+    .svlists li:nth-child(odd){ margin-bottom: 0;}
+    .event{padding-bottom: 60px;}
+    .contact:before{ display: none;}
+   /* .istomg{ padding-top: 0;}*/
+    .eventin .sectt { padding-top: 50px;}
+    .sectt dd.titredas{ line-height: 1.4em;}
+    .eventin .sectt{ margin-bottom: 0;}
+    .eventin .sectt dd {
+    display: inline-block;
+    margin-right: 0;
+        padding-bottom: 0;
+}
+    .secondmaiTit {
+    padding-top: 20px;
+    text-align: left;
+}
+.sectt dd {
+  /*  font-size: 26px;
+    font-weight: bold;
+    line-height: 1;
+    margin-bottom: 0;
+    line-height: 40px;*/
+}
+    
+    .servesecon{     border-radius:20px;}
+}
+
+.searchandfilter ul ul{ display: inline-block; vertical-align: middle;}
+
+.searchandfilter li{ display: inline-block; vertical-align: middle;}
+.searchandfilter input[type=submit]{ background: #000; color: #fff; border-right: 20px; padding: 10 15px; width: 120px; margin-left: 20px; border-radius: 20px;}
+.searchandfilter input{ vertical-align: top;}
+/*.searchandfilter ul ul li:first-child{ display: none;}*/
+@media all and (max-width: 900px) { .searchandfilter li{ display: block; text-align: center;
+    
+	}
+	.searchandfilter input[type=submit]{  padding: 10px 10px; width: 120px; margin-left: 0; margin-top: 20px; }
+    .searchandfilter select{ width: 100%; height: 50px; font-size: 15px; color: #000;}
+    .secontTitWrapp.sectt dd {
+    padding-bottom: 10px;
+}
+    
+    .searchandfilter li {
+    display: inline-block;
+    text-align: center;
+        line-height: 1; margin-bottom: 5px;
+}
+    .svsTxt dt {
+    padding: 10px 0;
+}
+    .sectt dd {
+    padding-bottom: 0;
+}
+    .servisecontant {
+    padding: 30px 0 30px;
+}
+    
+        .infists li dt {
+    font-size: 12px;
+    padding: 10px 0 0 0;
+}
+    .infists li dd {
+        font-size: 16px;}
+    .infists .ctgList li{ padding: 0 15px;}
+    
+    .infists li dd {
+    padding: 0 0 5px 0;
+        font-size: 16px;
+   
+}
+    .searchandfilter li{line-height: 17px;}
+    
+    .infists {
+    padding-top: 30px;
+}
+    .rectXt{ margin-top: 10px;}
+    
+    .outlineWrapp {
+    margin-bottom: 40px;
+}
+    .mapimg{ margin-top: 20px;}
+    .eventin {
+    padding: 0 20px 20px ;
+}
+    .eventin .sectt {
+    padding-top: 30px;
+}
+    
+    .dtcon h2 {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 20px 0;
+}
+    .dtcon h3 {
+    font-size: 16px;
+    line-height: 36px;
+    padding: 10px 0;
+}
+        .dtcon h4 {
+    font-size: 16px;
+    line-height: 36px;
+    padding: 10px 0;
+}
+    .wp-block-cover{ min-height: inherit !important;}
+    .dtcon p.listbackBtn{ padding: 0;}
+    
+    .pnav li:last-child {
+    max-width: 42%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    line-height: 1;
+        position: relative;
+    top: 2px;
+}
+     
+}
+@media (min-width: 901px){
+.pnav {
+    margin-top: -10px;
+}
+    
+    .searchandfilter li {    line-height: 19px;}
+    
+    .secontTitWrapp{ position: relative; display: block;}
+    .secontTitWrapp:after{ display: block; position: absolute; top: 32px;}
+    .secondmaiTit dd{ display: block; background:#F7F7E7; }
+   .secondmaiTit{ display: inline-block;
+    background: #F7F7E7;
+    position: relative;
+    z-index: 10; padding-right: 30px; }
+    
+    .eventin .svlists li{ display: inline-block; box-sizing: border-box; padding: 0 15px;}
+
+	}
+
+.ctgList li.yorimichiya {
+    background: #53ABAE;
+}
+
+.ctgdate dt.yorimichiya {
+    background: #53ABAE;
+}
+
+.mapcontent a {
+    background: #53ABAE;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    height: 38px;
+    line-height: 38px;
+    border-radius: 19px;
+    display: inline-block;
+    padding: 0 25px;
+}
+
+.dtcon ul li{ list-style: disc;}
+

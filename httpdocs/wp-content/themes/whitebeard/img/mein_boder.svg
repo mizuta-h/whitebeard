@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="5" viewBox="0 0 50 5">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="50" height="5" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="リピートグリッド_37" data-name="リピートグリッド 37" clip-path="url(#clip-path)">
+    <g transform="translate(-20 -479)">
+      <circle id="楕円形_338" data-name="楕円形 338" cx="2" cy="2" r="2" transform="translate(20 479)" fill="#ca4d2c"/>
+      <circle id="楕円形_339" data-name="楕円形 339" cx="2" cy="2" r="2" transform="translate(30 479)" fill="#ca4d2c"/>
+    </g>
+    <g transform="translate(0 -479)">
+      <circle id="楕円形_338-2" data-name="楕円形 338" cx="2" cy="2" r="2" transform="translate(20 479)" fill="#ca4d2c"/>
+      <circle id="楕円形_339-2" data-name="楕円形 339" cx="2" cy="2" r="2" transform="translate(30 479)" fill="#ca4d2c"/>
+    </g>
+    <g transform="translate(20 -479)">
+      <circle id="楕円形_338-3" data-name="楕円形 338" cx="2" cy="2" r="2" transform="translate(20 479)" fill="#ca4d2c"/>
+      <circle id="楕円形_339-3" data-name="楕円形 339" cx="2" cy="2" r="2" transform="translate(30 479)" fill="#ca4d2c"/>
+    </g>
+  </g>
+</svg>

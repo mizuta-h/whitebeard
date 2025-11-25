@@ -1,0 +1,4879 @@
+# Translation of Plugins - WP Activity Log - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WP Activity Log - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-10 13:14:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Activity Log - Stable (latest release)\n"
+
+#: defaults.php:2737
+msgid "Added / removed the integrations connection %name%"
+msgstr "統合接続 %name% を追加 / 削除しました。"
+
+#: defaults.php:2438
+msgid "Deleted all the data about the %deleted_data_type% %deleted_data% from the activity log."
+msgstr "アクティビティログから %deleted_data_type% %deleted_data% についてのすべてのデータを削除しました。"
+
+#: defaults.php:2437
+msgid "Deleted all the data of a specific type from the activity log."
+msgstr "アクティビティログから特定タイプのすべてのデータを削除しました。"
+
+#: classes/Views/class-setup-wizard.php:778
+msgid "please get in touch!"
+msgstr "連絡を取りましょう"
+
+#: defaults.php:2205
+msgid "Changed the Automatic updates setting for a theme."
+msgstr "テーマの自動更新設定を変更しました。"
+
+#: defaults.php:265
+msgid "The plugin terminated an idle session for a user"
+msgstr "プラグインがユーザーのアイドルセッションを終了させました"
+
+#: defaults.php:115
+msgid "View attachment page"
+msgstr "添付ページを表示"
+
+#: defaults.php:2424
+msgid "Deleted all the data about the user <strong>%user%</strong> from the activity log."
+msgstr "アクティビティログから<strong>%user%</strong>ユーザーについてのすべてのデータを削除しました。"
+
+#: defaults.php:2423
+msgid "Deleted all the data about a user from the activity log."
+msgstr "アクティビティログからユーザについてのすべてのデータを削除しました。"
+
+#: defaults.php:2206
+msgid "Changed the Automatic updates setting for the theme %name%."
+msgstr "%name% テーマの自動更新設定を変更しました。"
+
+#: defaults.php:2193
+msgid "Changed the Automatic updates setting for the plugin %name%."
+msgstr "%name% プラグインの自動更新設定を変更しました。"
+
+#: defaults.php:2192
+msgid "Changed the Automatic updates setting for a plugin."
+msgstr "プラグインの自動更新設定を変更しました。"
+
+#: defaults.php:266
+msgid "The plugin terminated an idle session for the user %username%."
+msgstr "プラグインが%username%ユーザーのアイドルセッションを終了させました。"
+
+#: classes/Views/Settings.php:108
+msgid "Activity log viewer"
+msgstr "アクティビティログビュワー"
+
+#: classes/Views/Settings.php:115
+msgid "File changes"
+msgstr "ファイル変更"
+
+#: classes/Views/Settings.php:1853
+msgid "Days"
+msgstr "日間"
+
+#: classes/Views/class-setup-wizard.php:778
+msgid "We trust this plugin meets all your activity log requirements. Should you encounter any problems, have feature requests or would like to share some feedback"
+msgstr "このプラグインは、すべてのアクティビティログの要件を満たしていると信じています。何か問題が発生した場合は、機能要求していただくか、いくつかフィードバックを共有したいと思います"
+
+#: classes/Views/Settings.php:421
+msgid "Do you want to remove all data when the plugin is deleted?"
+msgstr "プラグインが削除された時、すべてのデータを削除しますか?"
+
+#: classes/Views/AuditLog.php:221
+msgid "Read more about what data we collect and how."
+msgstr "どんなデータをどのように収集するかについては、こちらをご覧ください。"
+
+#. translators: User's first name
+#: classes/class-wp-security-audit-log.php:582
+#: classes/class-wp-security-audit-log.php:610
+msgid "Hey %s"
+msgstr "%s さん、こんにちは"
+
+#: classes/Views/AuditLog.php:221
+msgid "You can help us improve the plugin by opting in to share non-sensitive data about the plugin usage. The technical data will be shared over a secure channel. Activity log data will never be shared. When you opt-in, you also subscribe to our announcement and newsletter (you can opt-out at any time). If you would rather not opt-in, we will not collect any data."
+msgstr "プラグインの使用状況に関する非機密データの共有をオプトインすることで、プラグインの改善にご協力いただけます。技術的なデータは、安全なチャネルを介して共有されます。アクティビティログのデータが共有されることはありません。オプトインすると、当社からのお知らせやニュースレターを購読することにもなります (いつでも解除できます)。オプトインを希望されない場合は、データを収集することはありません。"
+
+#: classes/Helpers/class-user-utils.php:131
+#: classes/MainWPAddon/class-mainwp-helper.php:851
+msgid "Nickname: "
+msgstr "ニックネーム:"
+
+#: classes/Helpers/class-user-utils.php:129
+#: classes/MainWPAddon/class-mainwp-helper.php:849
+msgid "Last Name: "
+msgstr "姓:"
+
+#: classes/Helpers/class-user-utils.php:128
+#: classes/MainWPAddon/class-mainwp-helper.php:848
+msgid "First name: "
+msgstr "氏:"
+
+#: classes/Helpers/class-user-utils.php:130
+#: classes/MainWPAddon/class-mainwp-helper.php:850
+msgid "Email: "
+msgstr "メール:"
+
+#: defaults.php:2761
+msgid "Deleted the integrations connection %name%."
+msgstr "統合接続 %name% を削除しました。"
+
+#: defaults.php:2760
+msgid "Deleted a integrations connection"
+msgstr "統合接続を削除しました"
+
+#: defaults.php:2725
+msgid "Modified the default %template_name% notification template."
+msgstr "デフォルトの %template_name% 通知 テンプレートを変更しました。"
+
+#: defaults.php:2724
+msgid "Modified a default notification template"
+msgstr "デフォルトの通知テンプレートを変更しました"
+
+#: defaults.php:2715
+msgid "Deleted the custom notification %notification_name%."
+msgstr "カスタム通知 %notification_name% を削除しました。"
+
+#: defaults.php:2714
+msgid "Deleted a custom notification"
+msgstr "カスタム通知を削除しました"
+
+#: defaults.php:2705
+msgid "Changed the status of the custom notification %notification_name%."
+msgstr "カスタム通知 %notification_name% のステータスを変更。"
+
+#: defaults.php:2693
+msgid "Modified the custom notification %notification_name%."
+msgstr "カスタム通知 %notification_name% を変更しました。"
+
+#: defaults.php:2683 defaults.php:2695
+msgid "Recipient(s)"
+msgstr "受信者"
+
+#: defaults.php:2681
+msgid "Added a new custom notification %notification_name%."
+msgstr "新しいカスタム通知 %notification_name% を追加しました。"
+
+#: defaults.php:2680
+msgid "Added a new custom notification"
+msgstr "新しいカスタム通知を追加しました"
+
+#: defaults.php:2671
+msgid "Previous recipient(s)"
+msgstr "以前の受信者"
+
+#: defaults.php:2670
+msgid "New recipient(s)"
+msgstr "新しい受信者"
+
+#: defaults.php:2668
+msgid "Modified the recipient(s) of the built in notification %notification_name%."
+msgstr "組み込み通知 %notification_name% の受信者を変更しました。"
+
+#: defaults.php:2667
+msgid "Modified the recipient(s) of the built a notification"
+msgstr "組み込み通知の受信者を変更しました"
+
+#: defaults.php:2658
+msgid "Changed the status of the built in notification %notification_name%."
+msgstr "組み込み通知 %notification_name% の状態を変更しました。"
+
+#: defaults.php:2657
+msgid "Changed the status of a built in notification"
+msgstr "組み込み通知の状態を変更しました"
+
+#: defaults.php:2648
+msgid "Previous recipient"
+msgstr "前の受信者"
+
+#: defaults.php:2647
+msgid "New recipient"
+msgstr "新しい受信者"
+
+#: defaults.php:2630
+msgid "Notifications & Integrations"
+msgstr "通知と統合"
+
+#: defaults.php:2608
+msgid "The custom field %custom_field% to / from the list of excluded user profile custom fields from the activity log."
+msgstr "アクティビティ ログから除外されたユーザー プロファイル カスタムフィールドの一覧へ / からカスタムフィールド %custom_field%。"
+
+#: defaults.php:2607
+msgid "A custom field was added to / from the list of excluded user profile custom fields from the activity log"
+msgstr "アクティビティ ログから除外されたユーザー プロファイル のカスタムフィールドの一覧へ / からカスタムフィールドが追加されました"
+
+#: defaults.php:2598
+msgid "Previous list of Custom fields"
+msgstr "カスタムフィールドの前のリスト"
+
+#: defaults.php:2596
+msgid "The custom field %custom_field% to / from the list of excluded custom fields from the activity log."
+msgstr "アクティビティ ログから除外されたカスタムフィールドの一覧へ / からカスタムフィールド %custom_field%。"
+
+#: defaults.php:2595
+msgid "A custom field was added to / from the list of excluded custom fields from the activity log"
+msgstr "アクティビティ ログから除外されたカスタムフィールドの一覧へ / からカスタムフィールドが追加されました"
+
+#: defaults.php:2574
+msgid "Previous list of Post types"
+msgstr "投稿タイプの前のリスト"
+
+#: defaults.php:2572
+msgid "The post type %post_type% to / from the list of excluded post types from the activity log."
+msgstr "アクティビティ ログから除外された投稿タイプのリストへ / から投稿タイプ %post_type%。"
+
+#: defaults.php:2571
+msgid "A post type was added to / from the list of excluded post types from the activity log"
+msgstr "アクティビティ ログから除外された投稿タイプの一覧へ / から投稿タイプが追加されました"
+
+#: defaults.php:2562
+msgid "Previous list of IPs"
+msgstr "IP の前のリスト"
+
+#: defaults.php:2560
+msgid "The IP address %ip% to / from the list of excluded IP addresses from the activity log."
+msgstr "アクティビティ ログから除外された IP アドレスの一覧へ / から IP アドレス %ip%。"
+
+#: defaults.php:2559
+msgid "An IP address was added to / from the list of excluded IP addresses from the activity log"
+msgstr "アクティビティ ログから除外された IP アドレスの一覧へ / から IP アドレスが追加されました"
+
+#: defaults.php:2548
+msgid "The user role %role% to / from the list of excluded roles from the activity log."
+msgstr "アクティビティ ログから除外されたロールの一覧へ / からのユーザー ロール %role%。"
+
+#: defaults.php:2547
+msgid "A user role was added to / from the list of excluded roles from the activity log"
+msgstr "アクティビティ ログから除外されたロールの一覧へ / からユーザー ロールが追加されました"
+
+#: defaults.php:2538 defaults.php:2550
+msgid "Previous list of users"
+msgstr "以前のユーザー一覧"
+
+#: defaults.php:2536
+msgid "The user %user% to / from the list of excluded users from the activity log."
+msgstr "アクティビティ ログから除外されたユーザーのリストへ / からユーザー%user%。"
+
+#: defaults.php:2535
+msgid "A user was added to / from the list of excluded users from the activity log"
+msgstr "アクティビティ ログから除外されたユーザーの一覧へ / からユーザーが追加されました"
+
+#: defaults.php:2514
+msgid "Changed the status of the <strong>Hide plugin in plugins page</strong> setting."
+msgstr "<strong>プラグインページ設定のプラグインを非表示</strong> のステータスを変更しました。"
+
+#: defaults.php:2513
+msgid "Changed the status of the Hide plugin in plugins page setting"
+msgstr "プラグインページのプラグインを非表示のステータス設定を変更しました"
+
+#: defaults.php:2502
+msgid "The user %user% to / from the list of users who can view the activity log."
+msgstr "アクティビティ ログを表示できるユーザーのリストへ / からユーザー%user%。"
+
+#: defaults.php:2501
+msgid "The user %user% to / from the list of users who can view the activity log"
+msgstr "アクティビティ ログを表示できるユーザーの一覧へ / からユーザー %user%"
+
+#: defaults.php:2490
+msgid "Changed the <strong>Restrict plugin access</strong> setting to %new_setting%."
+msgstr "<strong>プラグインのアクセス制限</strong>設定を %new_setting% に変更しました。"
+
+#: defaults.php:2489
+msgid "Changed the Restrict plugin access setting"
+msgstr "プラグインアクセス制限の設定を変更しました"
+
+#: defaults.php:2480
+msgid "Changed the status of the <strong>Reverse proxy / firewall option.</strong>"
+msgstr "<strong>リバースプロキシ / ファイアウォールオプション</strong>のステータスを変更しました。"
+
+#. translators: name of meta field (in bold)
+#: classes/class-wp-security-audit-log.php:833
+msgid "Custom field %s is no longer being monitored."
+msgstr "カスタム フィールド %s はもはや監視されません。"
+
+#: defaults.php:2782
+msgid "Modified an activity log mirror"
+msgstr "アクティビティ ログ ミラーを変更"
+
+#: defaults.php:2771
+msgid "Added a new activity log mirror %name%."
+msgstr "新しいアクティビティ ログ ミラー %name% を追加。"
+
+#: defaults.php:2770
+msgid "Added a new activity log mirror"
+msgstr "新しいアクティビティ ログ ミラーを追加"
+
+#: defaults.php:2645
+msgid "Modified the recipients of the <strong>Daily Summary of Activity Log</strong>."
+msgstr "<strong>アクティビティ ログの日次サマリー</strong>の受取人を修正。"
+
+#: defaults.php:2634
+msgid "Changed the status of the Daily Summary of Activity Log"
+msgstr "アクティビティ ログの日次サマリーのステータスを変更"
+
+#: defaults.php:2635
+msgid "Changed the status of the <strong>Daily Summary of Activity Log.</strong>."
+msgstr "<strong>アクティビティ ログの日次サマリー</strong>のステータスを変更。"
+
+#: defaults.php:2644
+msgid "Modified the recipients of the Daily Summary of Activity Log."
+msgstr "アクティビティ ログの日次サマリーの受信者を修正。"
+
+#: defaults.php:2807
+msgid "Deleted the activity log mirror %name%."
+msgstr "アクティビティ ログ ミラー %name% を削除。"
+
+#: defaults.php:2806
+msgid "Deleted an activity log mirror"
+msgstr "アクティビティ ログ ミラーを削除"
+
+#: defaults.php:2795
+msgid "Changed the status of the activity log mirror %name%."
+msgstr "アクティビティ ログ ミラー %name% の状態を変更。"
+
+#: defaults.php:2794
+msgid "Changed the status of an activity log mirror"
+msgstr "アクティビティ ログ ミラーのステータスを変更"
+
+#: defaults.php:2783
+msgid "Modified the activity log mirror %name%."
+msgstr "アクティビティ ログ ミラー %name% を変更。"
+
+#: defaults.php:2523
+msgid "Changed the Activity log retention setting"
+msgstr "アクティビティログの保持設定を変更しました"
+
+#: defaults.php:2524
+msgid "Changed the <strong>Activity log retention</strong> to %new_setting%."
+msgstr "<strong>アクティビティログの保存期間</strong>を%new_setting%に変更しました。"
+
+#: defaults.php:2504
+msgid "Previous list of users who had access to view the activity log"
+msgstr "アクティビティログを閲覧する権限を持つユーザーのかつてのリスト"
+
+#: defaults.php:2773 defaults.php:2785 defaults.php:2797
+msgid "Connection used by this mirror"
+msgstr "このミラーで使われた接続"
+
+#: defaults.php:2816
+msgid "Changed the status of Logging of events to the database"
+msgstr "データベースへのイベントのログ記録の状態を変更"
+
+#: defaults.php:2739 defaults.php:2751
+msgid "Connection type"
+msgstr "接続形式"
+
+#: defaults.php:2736
+msgid "Added a new integrations connection"
+msgstr "新しい統合接続を追加"
+
+#: defaults.php:2749
+msgid "Modified the integrations connection %name%."
+msgstr "統合接続 %name% を修正。"
+
+#: defaults.php:2748
+msgid "Modified an integrations connection"
+msgstr "統合接続を修正"
+
+#: defaults.php:2692
+msgid "Modified a custom notification"
+msgstr "カスタム通知を修正"
+
+#: defaults.php:2704
+msgid "Changed the status of a custom notification"
+msgstr "カスタム通知の状態を変更"
+
+#: defaults.php:2817
+msgid "Changed the status of <strong>Logging of events to the database</strong>."
+msgstr "<strong>イベントのデータベースへのログ記録</strong>の状態を変更。"
+
+#. translators: setting tab name "Excluded Objects"
+#: classes/class-wp-security-audit-log.php:839
+msgid "Enable the monitoring of this custom field again from the %s tab in the plugin settings."
+msgstr "プラグイン設定の %s タブから、このカスタムフィールドのモニタリングを再度有効にしてください。"
+
+#: defaults.php:2586 defaults.php:2610
+msgid "Previous list of user profile Custom fields"
+msgstr "ユーザープロファイルのカスタムフィールドの以前の一覧"
+
+#: defaults.php:2479
+msgid "Changed the status of the Reverse proxy / firewall option"
+msgstr "リバースプロキシ / ファイアウォールオプションのステータスを変更しました"
+
+#: defaults.php:2470
+msgid "Changed the text of the <strong>Login Page Notification.</strong>"
+msgstr "<strong>ログインページ通知</strong>のテキストを変更しました。"
+
+#: defaults.php:2469
+msgid "Changed the text of the Login Page Notification"
+msgstr "ログインページ通知のテキストを変更しました"
+
+#: defaults.php:2460
+msgid "Changed the status of the <strong>Login Page Notification.</strong>"
+msgstr "<strong>ログインページ通知</strong>のステータスを変更しました。"
+
+#: defaults.php:2459
+msgid "Changed the status of the Login Page Notification"
+msgstr "ログインページ通知のステータスを変更しました"
+
+#: classes/Helpers/settings/class-settings-builder.php:1956
+#: classes/Views/Settings.php:785 classes/Views/Settings.php:1136
+#: classes/Views/Settings.php:1157 classes/Views/Settings.php:1178
+#: classes/Views/Settings.php:1200 classes/Views/Settings.php:1222
+#: classes/Views/Settings.php:1279 classes/Views/Settings.php:1535
+msgid "Remove"
+msgstr "削除"
+
+#: classes/Views/Settings.php:768 classes/Views/Settings.php:1129
+#: classes/Views/Settings.php:1150 classes/Views/Settings.php:1171
+#: classes/Views/Settings.php:1193 classes/Views/Settings.php:1215
+#: classes/Views/Settings.php:1271
+msgid "Add"
+msgstr "追加"
+
+#: classes/Helpers/class-settings-helper.php:1096
+#: classes/WPSensors/class-wp-2fa-sensor.php:76
+#: classes/WPSensors/class-wp-2fa-sensor.php:77
+#: classes/WPSensors/class-wp-2fa-sensor.php:86
+#: classes/WPSensors/class-wp-2fa-sensor.php:87
+#: classes/WPSensors/class-wp-2fa-sensor.php:96
+#: classes/WPSensors/class-wp-2fa-sensor.php:97
+#: classes/WPSensors/class-wp-2fa-sensor.php:106
+#: classes/WPSensors/class-wp-2fa-sensor.php:107
+msgid "None provided"
+msgstr "提供なし"
+
+#: classes/Views/Settings.php:1243
+msgid "Exclude custom user fields:"
+msgstr "カスタム ユーザー フィールドを除外:"
+
+#: classes/Views/Settings.php:1234
+msgid "Exclude custom post fields:"
+msgstr "カスタム投稿フィールドを除外:"
+
+#: defaults.php:726
+msgid "Created the tag %TagName%."
+msgstr "タグ %TagName% を作成しました。"
+
+#: defaults.php:1702
+msgid "Created the new user: %NewUserData->Username%."
+msgstr "新しいユーザーを作成しました: %NewUserData->Username%。"
+
+#: defaults.php:2920
+msgid "Changed the status of the WordPress setting <strong>Automatically close comments after %Value% days</strong>."
+msgstr "<strong>%Value% 日後に コメントを自動的に閉じる</strong> WordPress 設定のステータスを変更しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:66
+msgid "Added the new site %SiteName% to the network."
+msgstr "新しいサイト %SiteName% をネットワークに追加しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:78
+msgid "Archived the site %SiteName% on the network."
+msgstr "サイト %SiteName% をネットワーク上でアーカイブしました。"
+
+#: defaults.php:2866
+msgid "Changed the <strong>WordPress permalinks</strong>."
+msgstr "<strong>WordPress のパーマリンク</strong>を変更しました。"
+
+#: defaults.php:2879
+msgid "Changed the status of the WordPress setting <strong>Search engine visibility</strong> (Discourage search engines from indexing this site)"
+msgstr "<strong>WordPress</strong>設定検索エンジンの可視性の状態を変更しました (このサイトのインデックス作成から検索エンジンを思いとどまらせます)"
+
+#: defaults.php:2889
+msgid "Changed the status of the WordPress setting <strong>Allow people to submit comments on new posts</strong>."
+msgstr "WordPress 設定のステータスを変更して、 <strong>新しい投稿に対するコメントを送信できるようにします</strong>。"
+
+#: defaults.php:2910
+msgid "Changed the status of the WordPress setting <strong>Users must be registered and logged in to comment</strong>."
+msgstr "WordPress 設定のステータスを変更しました、 <strong>ユーザーはコメントするために登録、ログインする必要があります</strong>。"
+
+#: defaults.php:2942
+msgid "Changed the value of the WordPress setting <strong>Comments must be manualy approved</strong>."
+msgstr "<strong>コメントを手動承認する必要があります</strong> WordPress 設定の値を変更しました。"
+
+#: defaults.php:2952
+msgid "Changed the value of the WordPress setting <strong>Comment author must have a previously approved comment</strong>."
+msgstr "<strong>コメントの作成者は以前に承認されたコメントを持っている必要があります</strong> WordPress 設定の値を変更しました。"
+
+#: defaults.php:2962
+msgid "Changed the value of the WordPress setting <strong>Hold a comment in the queue if it contains links</strong> to %NewValue% links."
+msgstr "<strong>リンクが含まれている場合はキューにコメントを保持</strong> WordPress 設定の値を %NewValue% に変更しました。"
+
+#: defaults.php:2994
+msgid "Changed the <strong>WordPress address (URL)</strong> tp %new_url%."
+msgstr "<strong>WordPress アドレス (URL)</strong> を %new_url% に変更しました。"
+
+#: defaults.php:3006
+msgid "Changed the <strong>Site address (URL)</strong> to %new_url%."
+msgstr "<strong>サイトアドレス (URL)</strong> を %new_url% に変更しました。"
+
+#: defaults.php:3018
+msgid "Changed the <strong>Your homepage displays</strong> WordPress setting to %new_homepage%."
+msgstr "WordPress の設定で<strong>ホームページの表示</strong>を %new_homepage% に変更しました。"
+
+#: defaults.php:3030
+msgid "Changed the <strong>Homepage</strong> in the WordPress settings to %new_page%."
+msgstr "WordPress の設定で <strong>ホームページ</strong> を %new_page% に変更しました。"
+
+#: defaults.php:3042
+msgid "Changed the <strong> Posts</strong>  page in the WordPress settings to %new_page%."
+msgstr "WordPress の設定で <strong>投稿</strong> ページを %new_page% に変更しました。"
+
+#: defaults.php:3055
+msgid "Changed the <strong>Timezone</strong> in the WordPress settings to %new_timezone%."
+msgstr "WordPress の設定で <strong>タイムゾーン</strong> を %new_timezone% に変更しました。"
+
+#: defaults.php:3067
+msgid "Changed the <strong>Date format</strong> in the WordPress settings to %new_date_format%."
+msgstr "WordPress の設定で <strong>日付の形式</strong> を %new_date_format% に変更しました。"
+
+#: defaults.php:3079
+msgid "Changed the <strong>Time format</strong> in the WordPress settings to %new_time_format%."
+msgstr "WordPress の設定で <strong>時刻の形式</strong> を %new_time_format% に変更しました。"
+
+#: defaults.php:3105
+msgid "Changed the <strong>Site Language</strong> to %new_value%."
+msgstr "<strong>サイトの言語</strong>を %new_value% に変更しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:170
+msgid "Changed the network setting <strong>Upload file types (list of allowed file types)</strong>."
+msgstr "ネットワーク設定の<strong>アップロードファイルの種類 (許可されているファイルの種類の一覧)</strong> を変更しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:114
+msgid "Deactiveated the site %SiteName% on the network."
+msgstr "ネットワーク上のサイト%SiteName%を非アクティブ化しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:183
+msgid "Changed the <strong>Max upload file size</strong> network setting to %new_value%."
+msgstr "<strong>最大アップロード ファイル サイズ</strong> 設定を%new_value%に変更しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:195
+msgid "Changed the <strong>Allow new registrations</strong> setting to %new_setting%."
+msgstr "<strong>[新規登録を許可]</strong>設定を%new_setting%に変更しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:158
+msgid "Changed the file size in the <strong>Site upload space</strong> network setting to %new_value%."
+msgstr "<strong>[最大アップロード スペース]</strong> 設定を%new_value%に変更しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:138
+msgid "Changed the status of the network setting <strong>Allow site administrators to add new users to their sites</strong>."
+msgstr "「<strong>サイト管理者がサイトに新しいユーザーを追加することを許可する</strong>」ネットワーク設定の状態を変更しました。"
+
+#: defaults.php:2900
+msgid "Changed the status of the WordPress setting <strong>.Comment author must fill out name and email</strong>."
+msgstr "WordPress の設定の状態を変更しました。<strong>コメントの作成者は、名前と電子メールを入力しなければなりません</strong>。"
+
+#: defaults.php:166
+msgid "User logged in."
+msgstr "ユーザーがログインしました。"
+
+#: defaults.php:176
+msgid "User logged out."
+msgstr "ユーザーがログアウトしました。"
+
+#: defaults.php:241
+msgid "Terminated the session of the user %TargetUserName%."
+msgstr "ユーザー %TargetUserName% のセッションを終了。"
+
+#: defaults.php:254
+msgid "Switched the session to being logged in as %TargetUserName%."
+msgstr "セッションを %TargetUserName% としてログインに切り替えました。"
+
+#: defaults.php:418
+msgid "Changed the author of the post %PostTitle% to %NewAuthor%."
+msgstr "投稿 %PostTitle% の作成者を %NewAuthor% に変更しました。"
+
+#: defaults.php:433
+msgid "Changed the status of the post %PostTitle% to %NewStatus%."
+msgstr "投稿 %PostTitle% のステータスを %NewStatus% に変更しました。"
+
+#: defaults.php:447
+msgid "Changed the visibility of the post %PostTitle% to %NewVisibility%."
+msgstr "投稿 %PostTitle% の表示設定を %NewVisibility% に変更しました。"
+
+#: defaults.php:462
+msgid "Changed the date of the post %PostTitle% to %NewDate%."
+msgstr "投稿 %PostTitle% の日付を %NewDate% に変更しました。"
+
+#: defaults.php:477
+msgid "Changed the parent of the post %PostTitle% to %NewParentName%."
+msgstr "投稿 %PostTitle% の親を %NewParentName% に変更しました。"
+
+#: defaults.php:492
+msgid "Changed the template of the post %PostTitle% to %NewTemplate%."
+msgstr "投稿 %PostTitle% のテンプレートを %NewTemplate% に変更しました。"
+
+#: defaults.php:762
+msgid "Changed the slug of the tag %tag% to %new_slug%."
+msgstr "タグ %tag% のスラッグを %new_slug% に変更しました。"
+
+#: defaults.php:1214
+msgid "Added the item %ContentName% to the menu %MenuName%."
+msgstr "項目 %ContentName% をメニュー %MenuName% に追加しました。"
+
+#: defaults.php:1226
+msgid "Removed the item %ContentName% from the menu %MenuName%."
+msgstr "項目 %ContentName% をメニュー %MenuName% から削除しました。"
+
+#: defaults.php:1248
+msgid "The setting %MenuSetting% in the menu %MenuName%."
+msgstr "メニュー %MenuName% 内の設定 %MenuSetting% です。"
+
+#: defaults.php:1258
+msgid "Modified the item %ContentName% in the menu %MenuName%."
+msgstr "メニュー %MenuName% 内の項目 %ContentName% を変更しました。"
+
+#: defaults.php:1270
+msgid "Renamed the menu %OldMenuName% to %MenuName%."
+msgstr "メニューの名前を %OldMenuName% から %MenuName% に変更しました 。"
+
+#: defaults.php:1290
+msgid "Moved items as sub-items in the menu %MenuName%."
+msgstr "メニュー %MenuName% のサブ項目として項目を移動しました。"
+
+#: defaults.php:1690
+msgid "A new user %NewUserData->Username% is created via registration."
+msgstr "新しいユーザー %NewUserData->Username% が登録を介して作成されました。"
+
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:450
+#: defaults.php:1716
+msgid "Changed the role of user %TargetUsername% to %NewRole%."
+msgstr "ユーザー %TargetUsername% のロールを %NewRole% に変更しました。"
+
+#: defaults.php:1788
+msgid "Deleted the user %TargetUserData->Username%."
+msgstr "ユーザー %TargetUserData->Username% を削除しました。"
+
+#: defaults.php:1847
+msgid "Changed the first name of the user %TargetUsername% to %new_firstname%."
+msgstr "ユーザー %TargetUsername% の名を %new_firstname% に変更しました。"
+
+#: defaults.php:1861
+msgid "Changed the last name of the user %TargetUsername% to %new_lastname%."
+msgstr "ユーザー %TargetUsername% の姓を %new_lastname% に変更しました。"
+
+#: defaults.php:1875
+msgid "Changed the nickname of the user %TargetUsername% to %new_nickname%."
+msgstr "ユーザー %TargetUsername% のニックネームを %new_nickname% に変更しました。"
+
+#: defaults.php:1890
+msgid "Changed the display name of the user %TargetUsername% to %new_displayname%."
+msgstr "ユーザー %TargetUsername% の表示名を %new_displayname% に変更しました。"
+
+#: defaults.php:2096
+msgid "Installed the plugin %Plugin->Name%."
+msgstr "プラグイン %Plugin->Name% をインストールしました。"
+
+#: defaults.php:2109
+msgid "Activated the plugin %PluginData->Name%."
+msgstr "プラグイン %PluginData->Name% を有効にしました。"
+
+#: defaults.php:2122
+msgid "Deactivated the plugin %PluginData->Name%."
+msgstr "プラグイン %PluginData->Name% を無効にしました。"
+
+#: defaults.php:2135
+msgid "Uninstalled the plugin %PluginData->Name%."
+msgstr "プラグイン %PluginData->Name% をアンインストールしました。"
+
+#: defaults.php:2148
+msgid "Updated the plugin %PluginData->Name%."
+msgstr "プラグイン %PluginData->Name% を更新しました。"
+
+#: defaults.php:3148
+msgid "The plugin %Plugin->Name% created this table in the database."
+msgstr "プラグイン %Plugin->Name% がデータベース内のこのテーブルを作成しました。"
+
+#: defaults.php:3160
+msgid "The plugin %Plugin->Name% modified the structure of a database table."
+msgstr "プラグイン %Plugin->Name% がデータベーステーブルの構造を変更しました。"
+
+#: defaults.php:3172
+msgid "The plugin %Plugin->Name% deleted this table from the database."
+msgstr "プラグイン %Plugin->Name% dデータベースからこのテーブルを取得しました。"
+
+#: defaults.php:2232
+msgid "Installed the theme %Theme->Name%."
+msgstr "テーマ %Theme->Name% をインストールしました。"
+
+#: defaults.php:2258
+msgid "Deleted the theme %Theme->Name%."
+msgstr "%Theme->Name% を削除しました。"
+
+#: defaults.php:3184
+msgid "The theme %Theme->Name% created this tables in the database."
+msgstr "テーマ %Theme->Name% がデータベース内のテーブルを作成しました。"
+
+#: defaults.php:3196
+msgid "The theme %Theme->Name% modified the structure of this database table"
+msgstr "テーマ %Theme->Name% がこのデータベース テーブルの構造を変更しました"
+
+#: defaults.php:3208
+msgid "The theme %Theme->Name% deleted this table from the database."
+msgstr "テーマ %Theme->Name% がデータベースからこのテーブルを削除しました。"
+
+#: defaults.php:2271
+msgid "Updated the theme %Theme->Name%."
+msgstr "テーマ %Theme->Name% を更新しました。"
+
+#: defaults.php:2393
+msgid "System automatically deleted %EventCount% events from the activity log."
+msgstr "システムが自動的にアクティビティログから %EventCount% イベントを削除しました。"
+
+#: defaults.php:279
+msgid "Uploaded a file called %FileName%."
+msgstr "%FileName% という名称のファイルをアップロードしました。"
+
+#: defaults.php:831
+msgid "Changed the parent of the category %CategoryName% to %NewParent%."
+msgstr "カテゴリ %CategoryName% の親を %NewParent% に変更。"
+
+#: defaults.php:219
+msgid "User logged in however there are other session(s) already for this user."
+msgstr "しかし、ログインしたユーザーにはすでに他のセッションがあります。"
+
+#: defaults.php:844
+msgid "Renamed the category %old_name% to %new_name%."
+msgstr "カテゴリ %old_name%を%new_name%へ名前を変更しました。"
+
+#: defaults.php:1758
+msgid "Changed the email address to %NewEmail%."
+msgstr "電子メール アドレスを%NewEmail%に変更しました。"
+
+#: defaults.php:856
+msgid "Changed the slug of the category %CategoryName% to %new_slug%."
+msgstr "カテゴリ %CategoryName%のスラグを%new_slug%に変更しました。"
+
+#: defaults.php:2284
+msgid "Modified the file %Theme%/%File% with the theme editor."
+msgstr "テーマ エディタで%theme%/%File%ファイルを変更しました。"
+
+#: defaults.php:2245
+msgid "Activated the theme %Theme->Name%."
+msgstr "%Theme->Name%テーマを有効化しました。"
+
+#: defaults.php:2219
+msgid "Modified the file %File% with the plugin editor."
+msgstr "プラグインエディタでファイル%File%を変更しました。"
+
+#: defaults.php:1922
+msgid "The application password %friendly_name%."
+msgstr "アプリケーションパスワード %friendly_name%。"
+
+#: defaults.php:1802
+msgid "Opened the profile page of user %TargetUsername%."
+msgstr "%TargetUsername%ユーザーのプロファイル ページを開きました。"
+
+#: defaults.php:1773
+msgid "Changed the email address of the user %TargetUsername% to %NewEmail%."
+msgstr "%TargetUsername%ユーザーの電子メール アドレスを%NewEmail%に変更しました。"
+
+#: defaults.php:1816
+msgid "Changed the value of the custom field %custom_field_name% in the user profile %TargetUsername%."
+msgstr "%TargetUsername%ユーザー プロファイル中のカスタムフィールド%custom_field_name%の値を変更しました。"
+
+#: defaults.php:1936
+msgid "The application password %friendly_name% for the user %login%."
+msgstr "%login%ユーザーのアプリケーションパスワード %friendly_name%です。"
+
+#: defaults.php:1832
+msgid "Created the custom field %custom_field_name% in the user profile %TargetUsername%."
+msgstr "ユーザープロフィール %TargetUsername% 中のカスタムフィールド %custom_field_name% を作成しました。"
+
+#: defaults.php:916
+msgid "Renamed the custom field %MetaKeyOld% on post %PostTitle% to %MetaKeyNew%."
+msgstr "投稿 %PostTitle% 内のカスタムフィールド %MetaKeyOld% の名前を %MetaKeyNew% に変更しました。"
+
+#: classes/AlertFormatter.php:144
+msgid "unknown"
+msgstr "不明"
+
+#: defaults.php:985
+msgid "Unapproved the comment posted by %Author% on the post %PostTitle%."
+msgstr "投稿 %PostTitle% 上で %Author% によって投稿されたコメントを未承認にしました。"
+
+#: defaults.php:1000
+msgid "Replied to the comment posted by %Author% on the post %PostTitle%."
+msgstr "投稿 %PostTitle% 上で %Author% によって投稿されたコメントに返信しました。"
+
+#: defaults.php:1015
+msgid "Edited the comment posted by %Author% on the post %PostTitle%."
+msgstr "投稿 %PostTitle% 上で %Author% によって投稿されたコメントを編集しました。"
+
+#: defaults.php:1030
+msgid "Marked the comment posted by %Author% on the post %PostTitle% as spam."
+msgstr "投稿 %PostTitle% 中の %Author% が投稿したコメントをスパムとマークしました。"
+
+#: defaults.php:1045
+msgid "Marked the comment posted by %Author% on the post %PostTitle% as not spam."
+msgstr "投稿 %PostTitle% 中の %Author% が投稿したコメントをスパムではないとマークしました。"
+
+#: defaults.php:1060
+msgid "Moved the comment posted by %Author% on the post %PostTitle% to trash."
+msgstr "投稿 %PostTitle% 上の %Author% が投稿したコメントをゴミ箱に移動しました。"
+
+#: defaults.php:1075
+msgid "Restored the comment posted by %Author% on the post %PostTitle% from trash."
+msgstr "投稿 %PostTitle% 上の %Author% が投稿したコメントをゴミ箱から復元しました。"
+
+#: defaults.php:1090
+msgid "Permanently deleted the comment posted by %Author% on the post %PostTitle%."
+msgstr "投稿 %PostTitle% 上の %Author% が投稿したコメントを完全に削除しました。"
+
+#: defaults.php:1105 defaults.php:1124
+msgid "Posted a comment on the post %PostTitle%."
+msgstr "投稿 %PostTitle% にコメントを投稿しました。"
+
+#: defaults.php:1175
+msgid "Moved the %WidgetName% widget."
+msgstr "%WidgetName% ウィジェットを移動しました。"
+
+#: defaults.php:1216 defaults.php:1228 defaults.php:1260
+msgid "Item type"
+msgstr "項目タイプ"
+
+#: defaults.php:1292
+msgid "Moved item"
+msgstr "移動されたアイテム"
+
+#: defaults.php:1293
+msgid "as a sub-item of"
+msgstr "のサブ項目として"
+
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:453
+#: defaults.php:1705 defaults.php:1719 defaults.php:1733 defaults.php:1747
+#: defaults.php:1761 defaults.php:1776 defaults.php:1791 defaults.php:1805
+#: defaults.php:1819 defaults.php:1835 defaults.php:1864 defaults.php:1878
+#: defaults.php:1893 defaults.php:1908 defaults.php:1925 defaults.php:1939
+#: defaults.php:1954 defaults.php:1968 defaults.php:1982 defaults.php:1999
+#: defaults.php:2013 defaults.php:2027 defaults.php:2041 defaults.php:2054
+#: defaults.php:2068 defaults.php:2427
+msgid "First name"
+msgstr "名"
+
+#: defaults.php:1706 defaults.php:1720 defaults.php:1734 defaults.php:1748
+#: defaults.php:1762 defaults.php:1777 defaults.php:1792 defaults.php:1806
+#: defaults.php:1820 defaults.php:1836 defaults.php:1851 defaults.php:1879
+#: defaults.php:1894 defaults.php:1909 defaults.php:1926 defaults.php:1940
+#: defaults.php:1955 defaults.php:1969 defaults.php:1983 defaults.php:2000
+#: defaults.php:2014 defaults.php:2028 defaults.php:2042 defaults.php:2055
+#: defaults.php:2069 defaults.php:2428
+msgid "Last name"
+msgstr "姓"
+
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:396
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:452
+#: defaults.php:1718 defaults.php:2842
+msgid "Previous role"
+msgstr "以前の役割"
+
+#: defaults.php:1744
+msgid "Changed the password of the user %TargetUserData->Username%."
+msgstr "ユーザー %TargetUserData->Username% のパスワードを変更しました。"
+
+#: defaults.php:1763 defaults.php:1778
+msgid "Previous email address"
+msgstr "以前のメールアドレス"
+
+#: classes/WPSensors/Alerts/class-gravity-forms-custom-alerts.php:118
+#: classes/WPSensors/Alerts/class-gravity-forms-custom-alerts.php:352
+#: classes/WPSensors/Alerts/class-memberpress-custom-alerts.php:87
+#: classes/WPSensors/Alerts/class-memberpress-custom-alerts.php:130
+#: classes/WPSensors/Alerts/class-memberpress-custom-alerts.php:173
+#: classes/WPSensors/Alerts/class-memberpress-custom-alerts.php:200
+#: classes/WPSensors/Alerts/class-memberpress-custom-alerts.php:300
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:172
+#: classes/WPSensors/Alerts/class-tablepress-custom-alerts.php:212
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:476
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:686
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:703
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1896
+#: classes/WPSensors/Alerts/class-wpforms-custom-alerts.php:181
+#: classes/WPSensors/Alerts/class-wpforms-custom-alerts.php:322
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:493 defaults.php:1821
+#: defaults.php:2932 defaults.php:2964
+msgid "Previous value"
+msgstr "前の値"
+
+#: classes/WPSensors/Alerts/class-gravity-forms-custom-alerts.php:119
+#: classes/WPSensors/Alerts/class-gravity-forms-custom-alerts.php:353
+#: classes/WPSensors/Alerts/class-memberpress-custom-alerts.php:88
+#: classes/WPSensors/Alerts/class-memberpress-custom-alerts.php:131
+#: classes/WPSensors/Alerts/class-memberpress-custom-alerts.php:174
+#: classes/WPSensors/Alerts/class-memberpress-custom-alerts.php:201
+#: classes/WPSensors/Alerts/class-memberpress-custom-alerts.php:301
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:173
+#: classes/WPSensors/Alerts/class-tablepress-custom-alerts.php:213
+#: defaults.php:1822
+msgid "New value"
+msgstr "新しい値"
+
+#: defaults.php:1865
+msgid "Previous last name"
+msgstr "前の姓"
+
+#: defaults.php:1880
+msgid "Previous nickname"
+msgstr "前のニックネーム"
+
+#: defaults.php:1895
+msgid "Previous display name"
+msgstr "前の表示名"
+
+#: defaults.php:1965
+msgid "All application passwords from the user %login%."
+msgstr "ユーザー %login% からのすべてのアプリケーションパスワードです。"
+
+#: defaults.php:1978
+msgid "Admin sent a password reset request to a user"
+msgstr "管理者がユーザーにパスワードリセット要求を送信しました"
+
+#: defaults.php:1979
+msgid "Sent a password reset request to the user %login%."
+msgstr "ユーザー %login% にパスワードリセット要求を送信。"
+
+#: defaults.php:2024
+msgid "Added user %TargetUsername% to the site %SiteName%."
+msgstr "ユーザー %TargetUsername% をサイト %SiteName% に追加しました。"
+
+#: defaults.php:2038
+msgid "Removed user %TargetUsername% from the site %SiteName%"
+msgstr "ユーザー %TargetUsername% を サイト %SiteName% から削除しました"
+
+#: defaults.php:2040
+msgid "Site role"
+msgstr "サイト ロール"
+
+#: defaults.php:2099 defaults.php:2112 defaults.php:2125 defaults.php:2138
+#: defaults.php:2151 defaults.php:2195 defaults.php:2208 defaults.php:2235
+#: defaults.php:2248 defaults.php:2261 defaults.php:2274 defaults.php:2300
+#: defaults.php:2313
+msgid "Install location"
+msgstr "インストール場所"
+
+#: defaults.php:2150
+msgid "Updated version"
+msgstr "更新されたバージョン"
+
+#: defaults.php:3150 defaults.php:3162 defaults.php:3174 defaults.php:3186
+#: defaults.php:3198
+msgid "Table"
+msgstr "テーブル"
+
+#: defaults.php:2162
+msgid "The plugin created the post %PostTitle%."
+msgstr "プラグインは投稿 %PostTitle% を作成しました。"
+
+#: defaults.php:2177
+msgid "A plugin deleted the post %PostTitle%."
+msgstr "プラグインが投稿 %PostTitle% を削除しました。"
+
+#: defaults.php:3210 defaults.php:3222 defaults.php:3234 defaults.php:3246
+#: defaults.php:3258 defaults.php:3270 defaults.php:3282
+msgid "Tables"
+msgstr "テーブル"
+
+#: defaults.php:2273 defaults.php:2367
+msgid "New version"
+msgstr "新バージョン"
+
+#: defaults.php:2297
+msgid "Network activated the theme %Theme->Name%."
+msgstr "ネットワークはテーマ %Theme->Name% をアクティブにしました。"
+
+#: defaults.php:2310
+msgid "Network deactivated the theme %Theme->Name%."
+msgstr "ネットワークはテーマ %Theme->Name% を無効にしました。"
+
+#: defaults.php:3220
+msgid "An unknown component created these tables in the database."
+msgstr "不明なコンポーネントによって、これらのテーブルがデータベースに作成されました。"
+
+#: defaults.php:3244
+msgid "An unknown component deleted these tables from the database."
+msgstr "不明なコンポーネントがデータベースからこれらのテーブルを削除しました。"
+
+#: defaults.php:3256
+msgid "WordPress has created these tables in the database."
+msgstr "WordPress はデータベース内にこれらのテーブルを作成しました。"
+
+#: defaults.php:3280
+msgid "WordPress deleted these tables from the database."
+msgstr "WordPress は、データベースからこれらのテーブルを削除しました。"
+
+#: defaults.php:2152 defaults.php:2366
+msgid "Previous version"
+msgstr "以前のバージョン"
+
+#: defaults.php:2840
+msgid "Changed the <strong>New user default role</strong> WordPress setting."
+msgstr "<strong>新しいユーザーの既定のロール</strong> の WordPress 設定を変更しました。"
+
+#: defaults.php:2843
+msgid "New role"
+msgstr "新しい役割"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1013
+#: defaults.php:2855
+msgid "Previous address"
+msgstr "以前のアドレス"
+
+#: defaults.php:2856
+msgid "New address"
+msgstr "新しいアドレス"
+
+#: defaults.php:2868
+msgid "Previous permalinks"
+msgstr "前のパーマリンク"
+
+#: defaults.php:2869
+msgid "New permalinks"
+msgstr "新しいパーマリンク"
+
+#: defaults.php:2930
+msgid "Changed the value of the WordPress setting <strong>Automatically close comments after a number of days</strong> to %NewValue%."
+msgstr "<strong>数日後にコメントを 動的に閉じる</strong> WordPress 設定の値を %NewValue% に変更しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:197
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1182
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1220
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1380
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1392
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1404
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1416
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1451
+#: classes/WPSensors/Alerts/class-wp-2fa-custom-alerts.php:218
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:239
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:251
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:481
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:606
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:668
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:701 defaults.php:2492
+#: defaults.php:2526 defaults.php:3020 defaults.php:3107 defaults.php:3120
+msgid "Previous setting"
+msgstr "前の設定"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1258
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1270
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1282
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1294
+#: defaults.php:3032 defaults.php:3044
+msgid "Previous page"
+msgstr "前のページ"
+
+#: defaults.php:3057
+msgid "Previous timezone"
+msgstr "前のタイムゾーン"
+
+#: defaults.php:3069 defaults.php:3081
+msgid "Previous format"
+msgstr "前の形式"
+
+#: defaults.php:3092
+msgid "Changed the <strong>Automatic updates</strong> setting."
+msgstr "<strong>自動更新</strong>の設定を変更しました。"
+
+#: defaults.php:3094
+msgid "New setting status"
+msgstr "新しい設定ステータス"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:126
+msgid "The site: %SiteName%."
+msgstr "サイト: %SiteName%。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:160
+msgid "Previous size (MB)"
+msgstr "前のサイズ (MB)"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:185
+msgid "Previous size (KB)"
+msgstr "前のサイズ (KB)"
+
+#: defaults.php:2364
+msgid "Updated WordPress."
+msgstr "WordPress を更新しました。"
+
+#: defaults.php:1951
+msgid "All application passwords."
+msgstr "すべてのアプリケーションパスワード。"
+
+#: defaults.php:3268
+msgid "WordPress modified the structure of these database tables."
+msgstr "WordPress は、これらのデータベーステーブルの構造を変更しました。"
+
+#: defaults.php:2853
+msgid "Change the <strong>Administrator email address</strong> in the WordPress settings."
+msgstr "WordPress の設定で<strong>管理者の電子メールアドレス</strong>を変更します。"
+
+#: defaults.php:3104
+msgid "Option Site Language setting changed"
+msgstr "サイトの言語設定オプションを変更しました"
+
+#: classes/AlertFormatter.php:104
+msgid "Exclude custom field from the monitoring"
+msgstr "モニタリングからカスタムフィールドを除外"
+
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:636
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:654
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:671
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:687
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:704
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:722
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:739
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:755
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:772
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:789
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:806 defaults.php:86
+msgid "View the post in editor"
+msgstr "投稿をエディターで表示する"
+
+#: defaults.php:91
+msgid "View the order"
+msgstr "オーダーの表示"
+
+#: defaults.php:209
+msgid "IP address"
+msgstr "IPアドレス"
+
+#: defaults.php:221
+msgid "IP address(es)"
+msgstr "IP アドレス"
+
+#: defaults.php:281 defaults.php:293
+msgid "Directory"
+msgstr "ディレクトリ"
+
+#: defaults.php:318
+msgid "Created the post %PostTitle%."
+msgstr "投稿 %PostTitle% を作成しました。"
+
+#: classes/WPSensors/Alerts/class-acf-custom-alerts.php:399
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:630
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:647
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:665
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:682
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:698
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:715
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:733
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:750
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:766
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:783
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:800 defaults.php:320
+#: defaults.php:334 defaults.php:348 defaults.php:362 defaults.php:376
+#: defaults.php:390 defaults.php:404 defaults.php:420 defaults.php:435
+#: defaults.php:449 defaults.php:464 defaults.php:479 defaults.php:494
+#: defaults.php:509 defaults.php:523 defaults.php:537 defaults.php:551
+#: defaults.php:565 defaults.php:579 defaults.php:593 defaults.php:607
+#: defaults.php:621 defaults.php:635 defaults.php:649 defaults.php:665
+#: defaults.php:681 defaults.php:793 defaults.php:873 defaults.php:888
+#: defaults.php:904 defaults.php:919 defaults.php:936 defaults.php:951
+#: defaults.php:972 defaults.php:987 defaults.php:1002 defaults.php:1017
+#: defaults.php:1032 defaults.php:1047 defaults.php:1062 defaults.php:1077
+#: defaults.php:1092 defaults.php:1107 defaults.php:1126 defaults.php:2164
+#: defaults.php:2179
+msgid "Post ID"
+msgstr "投稿 ID"
+
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:631
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:648
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:666
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:683
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:699
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:716
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:734
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:751
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:767
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:784
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:801 defaults.php:321
+#: defaults.php:335 defaults.php:349 defaults.php:363 defaults.php:377
+#: defaults.php:391 defaults.php:405 defaults.php:421 defaults.php:436
+#: defaults.php:450 defaults.php:465 defaults.php:480 defaults.php:495
+#: defaults.php:510 defaults.php:524 defaults.php:538 defaults.php:552
+#: defaults.php:566 defaults.php:580 defaults.php:594 defaults.php:608
+#: defaults.php:622 defaults.php:636 defaults.php:650 defaults.php:666
+#: defaults.php:682 defaults.php:794 defaults.php:874 defaults.php:889
+#: defaults.php:905 defaults.php:920 defaults.php:937 defaults.php:952
+#: defaults.php:973 defaults.php:988 defaults.php:1003 defaults.php:1018
+#: defaults.php:1033 defaults.php:1048 defaults.php:1063 defaults.php:1078
+#: defaults.php:1093 defaults.php:1108 defaults.php:1127 defaults.php:2165
+#: defaults.php:2180
+msgid "Post type"
+msgstr "投稿タイプ"
+
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:632
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:649
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:667
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:684
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:700
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:717
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:735
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:752
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:768
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:785
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:802 defaults.php:322
+#: defaults.php:336 defaults.php:350 defaults.php:364 defaults.php:378
+#: defaults.php:392 defaults.php:406 defaults.php:422 defaults.php:451
+#: defaults.php:466 defaults.php:481 defaults.php:496 defaults.php:511
+#: defaults.php:525 defaults.php:539 defaults.php:553 defaults.php:567
+#: defaults.php:581 defaults.php:595 defaults.php:609 defaults.php:623
+#: defaults.php:637 defaults.php:651 defaults.php:667 defaults.php:683
+#: defaults.php:795 defaults.php:875 defaults.php:890 defaults.php:906
+#: defaults.php:921 defaults.php:938 defaults.php:953 defaults.php:974
+#: defaults.php:989 defaults.php:1004 defaults.php:1019 defaults.php:1034
+#: defaults.php:1049 defaults.php:1064 defaults.php:1079 defaults.php:1094
+#: defaults.php:1109 defaults.php:1128 defaults.php:2166 defaults.php:2181
+msgid "Post status"
+msgstr "投稿ステータス"
+
+#: defaults.php:332
+msgid "Published the post %PostTitle%."
+msgstr "投稿 %PostTitle% を公開しました。"
+
+#: defaults.php:346
+msgid "Modified the post %PostTitle%."
+msgstr "投稿 %PostTitle% を変更しました。"
+
+#: defaults.php:402
+msgid "Changed the URL of the post %PostTitle%."
+msgstr "投稿 %PostTitle% の URL を変更しました。"
+
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:122
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:259
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:186
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:545
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:718 defaults.php:407
+#: defaults.php:2996 defaults.php:3008
+msgid "Previous URL"
+msgstr "前の URL"
+
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:123
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:260
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:187
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:546
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:225
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:505
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:719 defaults.php:408
+msgid "New URL"
+msgstr "新しい URL"
+
+#: defaults.php:423
+msgid "Previous author"
+msgstr "前の著者"
+
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:94
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:231
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:325
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:596
+#: defaults.php:437
+msgid "Previous status"
+msgstr "前のステータス"
+
+#: defaults.php:452
+msgid "Previous visibility status"
+msgstr "以前の表示状態"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:221
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1879
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:2011
+#: defaults.php:467
+msgid "Previous date"
+msgstr "前の日付"
+
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:181
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1628
+#: defaults.php:482 defaults.php:834
+msgid "Previous parent"
+msgstr "前の親"
+
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:160
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:308 defaults.php:497
+msgid "Previous template"
+msgstr "前のテンプレート"
+
+#: defaults.php:549
+msgid "Submitted the post %PostTitle% for review."
+msgstr "投稿 %PostTitle% をレビューのためサブミットしました。"
+
+#: defaults.php:591
+msgid "Opened the post %PostTitle% in the editor."
+msgstr "投稿 %PostTitle% をエディターで開きました。"
+
+#: defaults.php:605
+msgid "Viewed the post %PostTitle%."
+msgstr "投稿 %PostTitle% を表示しました。"
+
+#: defaults.php:619
+msgid "Comments in the post %PostTitle%."
+msgstr "投稿 %PostTitle% にコメントしました。"
+
+#: defaults.php:633
+msgid "Pingbacks and Trackbacks in the post %PostTitle%."
+msgstr "投稿 %PostTitle% の pingback とトラックバック。"
+
+#: defaults.php:647
+msgid "The excerpt of the post %PostTitle%."
+msgstr "投稿 %PostTitle% の抜粋。"
+
+#: defaults.php:652
+msgid "Previous excerpt entry"
+msgstr "前の抜粋エントリ"
+
+#: defaults.php:653
+msgid "New excerpt entry"
+msgstr "新しい抜粋エントリ"
+
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:458 defaults.php:668
+msgid "Previous image"
+msgstr "前の画像"
+
+#: defaults.php:669
+msgid "New image"
+msgstr "新しい画像"
+
+#: defaults.php:696
+msgid "Added tag(s) to the post %PostTitle%."
+msgstr "投稿 %PostTitle% にタグを追加しました。"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:823
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:840
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:858
+#: defaults.php:700 defaults.php:715
+msgid "Status"
+msgstr "状態"
+
+#: defaults.php:701
+msgid "Added tag(s)"
+msgstr "追加されたタグ"
+
+#: defaults.php:711
+msgid "Removed tag(s) from the post %PostTitle%."
+msgstr "投稿 %PostTitle% からタグを削除しました。"
+
+#: defaults.php:716
+msgid "Removed tag(s)"
+msgstr "削除されたタグ"
+
+#: classes/WPSensors/Alerts/class-acf-custom-alerts.php:347
+#: classes/WPSensors/Alerts/class-acf-custom-alerts.php:361
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:332
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:346
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:358
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1682
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1696
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1708
+#: defaults.php:728 defaults.php:740 defaults.php:752 defaults.php:776
+#: defaults.php:809 defaults.php:821 defaults.php:833 defaults.php:846
+msgid "Slug"
+msgstr "スラッグ"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1928
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:343
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:387
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:593
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:650 defaults.php:777
+msgid "Previous description"
+msgstr "前の説明"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1929
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:594
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:651 defaults.php:778
+msgid "New description"
+msgstr "新しい説明"
+
+#: defaults.php:871
+msgid "Created the new custom field %MetaKey% in the post %PostTitle%."
+msgstr "投稿 %PostTitle% 内の新しいカスタムフィールド %MetaKey% を作成しました。"
+
+#: defaults.php:876 defaults.php:1837
+msgid "Custom field value"
+msgstr "カスタムフィールド値"
+
+#: defaults.php:891
+msgid "Previous custom field value"
+msgstr "前のカスタムフィールド値"
+
+#: defaults.php:892
+msgid "New custom field value"
+msgstr "新しいカスタムフィールド値"
+
+#: defaults.php:902
+msgid "Deleted the custom field %MetaKey% from the post %PostTitle%."
+msgstr "投稿 %PostTitle% からカスタムフィールド %MetaKey% を削除しました。"
+
+#: defaults.php:934
+msgid "Added relationships to the custom field %MetaKey% in the post %PostTitle%."
+msgstr "投稿 %PostTitle% 内のカスタムフィールド %MetaKey% に関連付けを追加しました。"
+
+#: defaults.php:939
+msgid "New relationships"
+msgstr "新しいリレーションシップ"
+
+#: defaults.php:949
+msgid "Removed relationships from the custom field %MetaKey% in the post %PostTitle%."
+msgstr "投稿 %PostTitle% 内のカスタムフィールド %MetaKey% からリレーションシップを削除しました。"
+
+#: defaults.php:954
+msgid "Removed relationships"
+msgstr "リレーションシップを削除"
+
+#: defaults.php:970
+msgid "Approved the comment posted by %Author% on the post %PostTitle%."
+msgstr "投稿 %PostTitle% 上で %Author% によって投稿されたコメントを承認しました。"
+
+#: defaults.php:975 defaults.php:990 defaults.php:1005 defaults.php:1020
+#: defaults.php:1035 defaults.php:1050 defaults.php:1065 defaults.php:1080
+#: defaults.php:1095 defaults.php:1110 defaults.php:1129
+msgid "Comment ID"
+msgstr "コメント ID"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1783
+#: defaults.php:1850
+msgid "Previous name"
+msgstr "前の名前"
+
+#: defaults.php:886
+msgid "Modified the value of the custom field %MetaKey% in the post %PostTitle%."
+msgstr "投稿 %PostTitle% 内のカスタムフィールド %MetaKey% の値を変更しました。"
+
+#: classes/WPSensors/Alerts/class-acf-custom-alerts.php:181
+#: classes/WPSensors/Alerts/class-acf-custom-alerts.php:319
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:68
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:80
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:92
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:104
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:116
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:128
+#: defaults.php:111 defaults.php:120
+msgid "URL"
+msgstr "URL"
+
+#: defaults.php:244 defaults.php:269
+msgid "Session ID"
+msgstr "セッション ID"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:2275
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:2291
+#: defaults.php:243 defaults.php:256 defaults.php:268 defaults.php:1704
+#: defaults.php:1732 defaults.php:1746 defaults.php:1760 defaults.php:1775
+#: defaults.php:1790 defaults.php:1804 defaults.php:1818 defaults.php:1834
+#: defaults.php:1849 defaults.php:1863 defaults.php:1877 defaults.php:1892
+#: defaults.php:1907 defaults.php:1924 defaults.php:1938 defaults.php:1953
+#: defaults.php:1967 defaults.php:1981 defaults.php:1998 defaults.php:2012
+#: defaults.php:2026 defaults.php:2067 defaults.php:2426
+msgid "Role"
+msgstr "権限グループ"
+
+#: defaults.php:663
+msgid "The featured image of the post %PostTitle%."
+msgstr "投稿 %PostTitle% のアイキャッチ画像。"
+
+#: defaults.php:207
+msgid "Login blocked because other session(s) already exist for this user."
+msgstr "このユーザーに対して他のセッションがすでに存在するため、ログインはブロックされています。"
+
+#: defaults.php:99
+msgid "Open the log file"
+msgstr "ログファイルを開く"
+
+#: classes/WPSensors/Alerts/class-acf-custom-alerts.php:385
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:372
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1722
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1770
+#: defaults.php:764 defaults.php:858
+msgid "Previous slug"
+msgstr "以前のスラグ"
+
+#: defaults.php:797
+msgid "Previous category(ies)"
+msgstr "以前のカテゴリー"
+
+#: defaults.php:807
+msgid "Created the category %CategoryName%."
+msgstr "%CategoryName%カテゴリーを作成しました。"
+
+#: defaults.php:819
+msgid "Deleted the category %CategoryName%."
+msgstr "%CategoryName%カテゴリーを削除しました。"
+
+#: classes/Views/Settings.php:837
+msgid "By default all installed plugins are listed in the plugins page. Set this option to Yes remove WP Activity Log from the list of installed plugins for users who are unable to access the WP Activity Log settings."
+msgstr "デフォルトでは、インストールされているすべてのプラグインがプラグインページに一覧されます。このオプションを 「はい」 に設定すると、WP Activity Log 設定にアクセスできないユーザーに対して表示されるインストール済みプラグインの一覧から WP Activity Log を削除します。"
+
+#: classes/Controllers/class-alert-manager.php:1269
+msgid "Revoked"
+msgstr "失効"
+
+#: classes/WPSensors/class-wp-content-sensor.php:823
+msgid "Default template"
+msgstr "デフォルトテンプレート"
+
+#: classes/Helpers/settings/class-settings-builder.php:1987
+#: classes/Helpers/settings/class-settings-builder.php:2001
+#: classes/Helpers/settings/class-settings-builder.php:2020
+#: classes/Helpers/settings/class-settings-builder.php:2048
+#: classes/WPSensors/class-wp-content-sensor.php:824
+#: classes/WPSensors/class-yoast-seo-sensor.php:656
+#: classes/WPSensors/class-yoast-seo-sensor.php:657
+#: classes/WPSensors/class-yoast-seo-sensor.php:1258
+#: classes/WPSensors/class-yoast-seo-sensor.php:1259
+#: classes/WPSensors/class-yoast-seo-sensor.php:1267
+#: classes/WPSensors/class-yoast-seo-sensor.php:1268
+msgid "Default"
+msgstr "デフォルト"
+
+#: classes/WPSensors/class-wp-content-sensor.php:932
+msgid "No previous image"
+msgstr "以前の画像はありません"
+
+#: classes/WPSensors/class-wp-content-sensor.php:933
+msgid "No image"
+msgstr "画像なし"
+
+#: classes/WPSensors/class-wp-multisite-sensor.php:97
+msgid "disabled"
+msgstr "無効"
+
+#: classes/WPSensors/class-wp-multisite-sensor.php:99
+msgid "users can register new sites"
+msgstr "ユーザーは新しいサイトを登録できます"
+
+#: classes/WPSensors/class-wp-multisite-sensor.php:100
+msgid "sites & users can be registered"
+msgstr "サイトとユーザーの登録が可能"
+
+#: classes/WPSensors/class-wp-system-sensor.php:225
+#: classes/WPSensors/class-wp-system-sensor.php:226
+msgid "latest posts"
+msgstr "最新の投稿"
+
+#: classes/WPSensors/class-wp-system-sensor.php:225
+#: classes/WPSensors/class-wp-system-sensor.php:226
+msgid "static page"
+msgstr "静的ページ"
+
+#: classes/WPSensors/class-wp-system-sensor.php:405
+msgid "automatically update to all new versions of WordPress"
+msgstr "自動的にWordPressのすべての新しいバージョンに更新します"
+
+#: classes/WPSensors/class-wp-system-sensor.php:405
+msgid "automatically update maintenance and security releases only"
+msgstr "メンテナンスリリースとセキュリティリリースのみを自動的に更新"
+
+#: classes/Views/Help.php:82 classes/Views/Help.php:252
+msgid "Contact Us"
+msgstr "私達に連絡"
+
+#: classes/Views/Help.php:139
+msgid "Help & Contact Us"
+msgstr "ヘルプとお問い合わせ"
+
+#: classes/Views/ToggleAlerts.php:148 classes/Views/ToggleAlerts.php:510
+msgid "Keep a log of user log in activity on custom login forms (such as WooCommerce & membership plugins)"
+msgstr "カスタムログインフォーム (WooCommerce &メンバーシッププラグインなど) でのユーザーログインアクティビティのログを保持する"
+
+#: defaults.php:107
+msgid "View menu"
+msgstr "メニューを表示"
+
+#: defaults.php:2974
+msgid "Modified the list of keywords for comments moderation in WordPress."
+msgstr "WordPress でコメントの変更のキーワードのリストを変更しました。"
+
+#: defaults.php:2984
+msgid "Modified the list of <strong>Disallowed comment keys</strong> (keywords) for comments blacklisting in WordPress."
+msgstr "WordPress でコメントブラックリストに登録するために、 <strong>許可されていないコメントキー</strong> (キーワード) のリストを修正しました。"
+
+#: defaults.php:3091
+msgid "Option Automatic updates setting changed"
+msgstr "オプション自動更新の設定が変更されました"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:137
+msgid "Allow site administrators to add new users to their sites settings changed"
+msgstr "サイト管理者がサイト設定に新しいユーザーを追加できるようにする"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:147
+msgid "Site upload space settings changed"
+msgstr "サイトアップロードスペースの設定変更"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:148
+msgid "Changed the status of the network setting <strong>Site upload space</strong> (to limit space allocated for each site's upload directory)."
+msgstr "ネットワーク設定 <strong>サイトアップロード領域</strong> のステータスを変更しました (各サイトのアップロードディレクトリに割り当てる領域を制限します)。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:157
+msgid "Site upload space file size settings changed"
+msgstr "サイトアップロードの容量ファイルサイズの設定が変更されました"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:169
+msgid "Site Upload file types settings changed"
+msgstr "サイトアップロードファイルの種類の設定が変更されました"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:182
+msgid "Site Max upload file size settings changed"
+msgstr "サイト最大アップロードファイルサイズの設定が変更されました"
+
+#. Translators: Expired message and time
+#: classes/class-wp-security-audit-log.php:694
+msgid "%s You need to renew your license to continue using premium features."
+msgstr "%s プレミアム機能を引き続き使用するには、ライセンスを更新する必要があります。"
+
+#: classes/WPSensors/class-wp-multisite-sensor.php:98
+msgid "user accounts only"
+msgstr "ユーザーアカウントのみ"
+
+#: defaults.php:82
+msgid "View page in the editor"
+msgstr "エディタ内でページを表示"
+
+#: defaults.php:3029
+msgid "Option homepage in WordPress settings changed"
+msgstr "WordPress の設定内のホームページオプションを変更しました"
+
+#: defaults.php:3017
+msgid "Option Your homepage displays in WordPress settings changed"
+msgstr "WordPress の設定内のホームページ表示オプションを変更しました"
+
+#: defaults.php:3041
+msgid "Option posts page in WordPress settings changed"
+msgstr "WordPress 設定の投稿ページオプションを変更しました"
+
+#: defaults.php:3054
+msgid "Option Timezone in WordPress settings changed"
+msgstr "WordPress 設定のタイムゾーンオプションを変更しました"
+
+#: defaults.php:3066
+msgid "Option Date format in WordPress settings changed"
+msgstr "WordPress 設定の日付形式オプションを変更しました"
+
+#: defaults.php:3078
+msgid "Option Time format in WordPress settings changed"
+msgstr "WordPress の設定中のオプション時刻形式を変更"
+
+#: classes/Controllers/class-alert-manager.php:1268
+#: classes/WPSensors/Helpers/class-gravityforms-helper.php:128
+msgid "Submitted"
+msgstr "サブミット済"
+
+#: defaults.php:2830
+msgid "The <strong>Membership</strong> setting <strong>Anyone can register</strong>."
+msgstr "<strong>メンバーシップ</strong>設定 <strong>誰でも登録できます</strong>。"
+
+#: defaults.php:1950
+msgid "User revoked all application passwords"
+msgstr "ユーザーがすべてのアプリケーションパスワードを取り消しました"
+
+#: defaults.php:1964
+msgid "User revoked all application passwords for a user"
+msgstr "ユーザーが、あるユーザーのすべてのアプリケーションパスワードを取り消しました"
+
+#: defaults.php:1921 defaults.php:1935
+msgid "User created an application password"
+msgstr "ユーザーがアプリケーションパスワードを作成しました"
+
+#: defaults.php:662
+msgid "User updated the featured image in a post"
+msgstr "ユーザーは投稿の注目の画像を更新しました"
+
+#: defaults.php:646
+msgid "User updated the excerpt in a post"
+msgstr "ユーザーは投稿の抜粋を更新しました"
+
+#: defaults.php:186
+msgid "%Attempts% failed login(s)."
+msgstr "%Attempts% ログインに失敗。"
+
+#: defaults.php:302
+msgid "User requested a password reset"
+msgstr "ユーザーがパスワードのリセットを要求しました"
+
+#: defaults.php:303
+msgid "User requested a password reset. This does not mean that the password was changed."
+msgstr "ユーザーがパスワードのリセットを要求しました。これは、パスワードが変更されたことを意味するものではありません。"
+
+#. Translators: 1: html that opens a link, 2: html that closes a link.
+#: classes/Entities/class-occurrences-entity.php:358
+msgid "This type of activity / change is no longer monitored. You can create your own custom event IDs to keep a log of such change. Read more about custom events %1$shere%2$s."
+msgstr "このタイプのアクティビティ/変更は監視されなくなりました。独自のカスタム イベント ID を作成して、このような変更のログを保持できます。カスタムイベントの詳細については%1$sここを%2$s参照してください。"
+
+#: classes/WPSensors/class-wp-content-sensor.php:1498
+msgid "no tags"
+msgstr "タグなし"
+
+#: defaults.php:2448
+msgid "Some WP Activity Log plugin settings on this site were propagated and overridden from the MainWP dashboard"
+msgstr "このサイトの WP Activity Log プラグインの設定の一部が反映され、MainWP ダッシュボードから上書きされました"
+
+#: defaults.php:2449
+msgid "Some <strong>WP Activity Log</strong> plugin settings on this site were propagated and overridden from the MainWP dashboard."
+msgstr "このサイトの <strong>WP Activity Log</strong> プラグインの設定の一部が反映され、MainWP ダッシュボードから上書きされました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:194
+msgid "Allow new registrations settings changed"
+msgstr "新しい登録の設定を変更可能"
+
+#: classes/Views/Settings.php:1791
+msgid "Plugin settings have been reset."
+msgstr "プラグインの設定がリセットされました。"
+
+#: classes/Views/Settings.php:1317
+msgid "Use this button to <em>factory reset</em> the plugin. This means that all the configured settings will be reset to default and all email notifications, scheduled reports, external database / third party services connections, archiving and mirroring rule will be deleted. NOTE: the activity log data will not be purged. Use the setting below to purge the activity log."
+msgstr "このボタンを使用して、プラグインを<em>工場出荷時にリセット</em>します。これは、構成されたすべての設定がデフォルトにリセットされ、すべての電子メール通知、スケジュールされたレポート、外部データベース / サードパーティサービス接続、アーカイブおよびミラーリングルールが削除されることを意味します。注意: アクティビティログのデータは消去されません。アクティビティログをパージするには、以下の設定を使用してください。"
+
+#: classes/Views/Settings.php:1536
+msgid "Please save any changes before switching tabs."
+msgstr "タブを切り替える前に変更を保存してください。"
+
+#: classes/Views/Settings.php:1419
+msgid "Are you sure you want to reset all the plugin settings to default? This action cannot be undone."
+msgstr "プラグインの全設定を初期化しますか？この操作は取り消せません。"
+
+#: classes/ListAdminEvents/class-list-events.php:703
+msgid "Unregistered user"
+msgstr "未登録ユーザー"
+
+#: defaults.php:3255
+msgid "WordPress created tables"
+msgstr "WordPress がテーブルを作成"
+
+#: defaults.php:3267
+msgid "WordPress modified tables structure"
+msgstr "WordPress がテーブル構造を変更しました"
+
+#: defaults.php:3279
+msgid "WordPress deleted tables"
+msgstr "WordPress がテーブルを削除しました"
+
+#: defaults.php:948
+msgid "User removed relationship from a custom field value for a post"
+msgstr "ユーザーが投稿のカスタムフィールド値から関係を削除しました"
+
+#: classes/Views/Settings.php:1370
+msgid "Admin blocking plugins support"
+msgstr "管理者ブロックプラグインのサポート"
+
+#: classes/Views/Settings.php:1377
+msgid "Enable early plugin loading on sites that use admin blocking plugins"
+msgstr "管理者ブロックプラグインを使用するサイトで早期プラグインの読み込みを有効にする"
+
+#: defaults.php:929
+msgid "Custom Fields (ACF)"
+msgstr "カスタムフィールド (ACF)"
+
+#: defaults.php:933
+msgid "User added relationship to a custom field value for a post"
+msgstr "ユーザーが投稿のカスタムフィールド値に関連付けを追加しました"
+
+#: classes/Views/Settings.php:762
+msgid "Can also view events"
+msgstr "イベントを表示することもできます"
+
+#: classes/Views/Settings.php:740
+msgid "Super administators only"
+msgstr "特権管理者限定"
+
+#: classes/Views/Settings.php:741
+msgid "Super administators and site administrators"
+msgstr "特権管理者およびサイト管理者"
+
+#: classes/Views/Settings.php:1830
+msgid "Activity log retention"
+msgstr "アクティビティログの保持"
+
+#: classes/Views/Settings.php:1000
+msgid "User information in Activity log"
+msgstr "アクティビティログのユーザー情報"
+
+#: classes/Views/Settings.php:757
+msgid "To allow someone who does not have an admin role to view the activity log, specify them in the below setting."
+msgstr "管理者ロールを持たないユーザーにアクティビティログの表示を許可するには、以下の設定で指定します。"
+
+#: classes/Views/Settings.php:718
+msgid "By default only super administrators and the child sites' administrators can view the WordPress activity log. Though you can change this by using the setting below."
+msgstr "デフォルトでは、スーパー管理者と子サイトの管理者のみが WordPress アクティビティログを表示できます。以下の設定を使用して変更することができます。"
+
+#: classes/Views/ExternalDB.php:51
+msgid "Activity log database & integration tools"
+msgstr "アクティビティログデータベースと統合ツール"
+
+#: classes/Views/AuditLog.php:274
+msgid "Log viewer"
+msgstr "ログ ビューア"
+
+#: classes/Views/EmailNotifications.php:30
+msgid "Notifications Extension"
+msgstr "通知拡張機能"
+
+#: classes/Views/ExternalDB.php:30
+msgid "External DB Extension"
+msgstr "外部 DB 拡張機能"
+
+#: classes/Views/Settings.php:1092
+msgid "Install plugin now"
+msgstr "今すぐプラグインをインストール"
+
+#: classes/Views/Settings.php:1102
+msgid "Configure how often file changes scan run and other settings from the"
+msgstr "ファイル変更のスキャン実行およびその他の設定の頻度を構成します"
+
+#: defaults.php:3301
+msgid "Monitor File Changes"
+msgstr "ファイルの変更を監視する"
+
+#: defaults.php:3305
+msgid "Dummy"
+msgstr "ダミー"
+
+#: classes/Helpers/class-view-manager.php:144
+msgid "WP Activity Log requires Website File Changes Monitor 1.6.0. Please upgrade that plugin."
+msgstr "WP Activity Log には、 Website File Changes Monitor 1.6.0 が必要です。そのプラグインをアップグレードしてください。"
+
+#. translators: Learn more link.
+#: classes/Views/Settings.php:675
+msgid "By default only users with administrator role (single site) and super administrator role (multisite) can change the settings of the plugin. Though you can restrict the privileges to just your user - %s."
+msgstr "既定では、管理者ロール (単一サイト) とスーパー管理者ロール (マルチサイト) を持つユーザーのみがプラグインの設定を変更できます。特権をユーザーだけに制限することはできますが、%s。"
+
+#: classes/Views/Settings.php:209
+msgid "Current user is not allowed to save settings."
+msgstr "現在のユーザーは設定を保存する権限がありません。"
+
+#: classes/Views/Help.php:302
+msgid "Add an extra layer of security to your login pages with 2FA & require your users to use it."
+msgstr "2FA でログインページにセキュリティ層を追加し、ユーザーに使用を要求します。"
+
+#: classes/Views/Help.php:226
+msgid "Rate WP Activity Log"
+msgstr "WP Activity Log の評価"
+
+#: classes/Views/Help.php:222
+msgid "List of activity logs event IDs"
+msgstr "アクティビティログイベント ID の一覧"
+
+#: classes/Views/class-setup-wizard.php:890
+msgid "Extension for "
+msgstr "の拡張 "
+
+#: classes/Views/class-setup-wizard.php:899
+msgid "Install Extension"
+msgstr "拡張機能をインストール"
+
+#: classes/Views/class-setup-wizard.php:866
+msgid "Monitoring changes done in third party plugins"
+msgstr "サードパーティプラグインで行われた変更の監視"
+
+#: classes/Views/class-setup-wizard.php:820
+msgid "Third Party Extensions"
+msgstr "サードパーティの拡張機能"
+
+#: classes/Views/class-setup-wizard.php:895
+msgid "Extension installed, activate now?"
+msgstr "拡張機能がインストール済です。今すぐ有効にしますか ?"
+
+#: classes/Views/class-setup-wizard.php:867
+msgid "We noticed that the below plugins are installed on this website. You can install our extensions to also keep a log of changes users do on these plugins."
+msgstr "このウェブサイトには、以下のプラグインがインストールされています。拡張機能をインストールすることで、ユーザーがこれらのプラグインに対して行った変更のログを残すことができます。"
+
+#: classes/Views/class-setup-wizard.php:758
+msgid "Getting started with the WP Activity Log plugin"
+msgstr "WP Activity Log プラグインの使用開始"
+
+#. translators: 1 - mysqli error code, 2 - mysqli error message
+#: classes/Controllers/class-connection.php:268
+msgid "Code %1$d: %2$s"
+msgstr "コード %1$d: %2$s"
+
+#: classes/Views/AuditLog.php:220
+msgid "Help WP Activity Log improve."
+msgstr "WP Activity Log の改善に役立ちます。"
+
+#: classes/Views/AuditLog.php:860
+msgid "Thank you for using WP Activity Log"
+msgstr "WP Activity Log をご利用いただきありがとうございます"
+
+#: classes/Views/Reports.php:30
+msgid "Reports Extension"
+msgstr "レポート拡張機能"
+
+#: classes/Views/Search.php:28
+msgid "Search Extension"
+msgstr "検索拡張機能"
+
+#. translators: 1 - an opening link tag, 2 - a closing link tag.
+#: classes/Views/class-setup-wizard.php:450
+msgid "You have reached an invaild step - %1$sreturn to the start of the wizard%2$s."
+msgstr "不明な点がありましたので、%1$sウィザードの最初に戻ってください%2$s。"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1589
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1616
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1631
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1646
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:1661
+#: defaults.php:65
+msgid "View category"
+msgstr "カテゴリーを表示"
+
+#: defaults.php:69
+msgid "Contact Support"
+msgstr "サポートに問い合わせる"
+
+#: defaults.php:124
+msgid "View the content changes"
+msgstr "コンテンツの変更を表示する"
+
+#: defaults.php:128
+msgid "View tag"
+msgstr "タグを表示する"
+
+#: classes/Views/class-setup-wizard.php:329
+msgid "WP Activity Log &rsaquo; Setup Wizard"
+msgstr "WP Activity Log &rsaquo; 設定ウィザード"
+
+#: classes/Actions/class-plugin-installer.php:97
+msgid "Tried to install a zip or slug that was not in the allowed list"
+msgstr "許可リストにない zip またはスラグをインストールしようとしました"
+
+#: classes/Views/AuditLog.php:251
+msgid "Activity Log Viewer"
+msgstr "アクティビティログビュアー"
+
+#: classes/Views/LogInUsers.php:30
+msgid "User Sessions Management Extension"
+msgstr "ユーザーセッション管理拡張機能"
+
+#: classes/WPSensors/Alerts/class-bbpress-custom-alerts.php:456
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:2280
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:2296
+#: defaults.php:95
+msgid "User profile page"
+msgstr "ユーザープロフィールページ"
+
+#: classes/Controllers/class-alert-manager.php:1312 defaults.php:918
+msgid "Post"
+msgstr "投稿"
+
+#: classes/Controllers/class-alert-manager.php:1313
+msgid "File"
+msgstr "ファイル"
+
+#: classes/Controllers/class-alert-manager.php:1314
+msgid "Tag"
+msgstr "タグ"
+
+#: classes/Controllers/class-alert-manager.php:1315
+#: classes/Writers/class-html-writer.php:478 defaults.php:73
+msgid "Comment"
+msgstr "コメント"
+
+#: classes/Controllers/class-alert-manager.php:1316
+msgid "Setting"
+msgstr "設定"
+
+#: classes/Controllers/class-alert-manager.php:1317
+msgid "System Setting"
+msgstr "システム設定"
+
+#: classes/Controllers/class-alert-manager.php:1320
+msgid "Category"
+msgstr "カテゴリー"
+
+#: classes/Controllers/class-alert-manager.php:1321
+msgid "Custom Field"
+msgstr "カスタムフィールド"
+
+#: classes/Controllers/class-alert-manager.php:1322
+msgid "Widget"
+msgstr "ウィジェット"
+
+#: classes/Controllers/class-alert-manager.php:1323
+msgid "Menu"
+msgstr "メニュー"
+
+#: classes/Controllers/class-alert-manager.php:1324
+msgid "Theme"
+msgstr "テーマ"
+
+#: classes/Controllers/class-alert-manager.php:1346
+msgid "unknown object"
+msgstr "不明なオブジェクト"
+
+#: classes/Controllers/class-alert-manager.php:1240
+msgid "Login"
+msgstr "ログイン"
+
+#: classes/Controllers/class-alert-manager.php:1241
+msgid "Logout"
+msgstr "ログアウト"
+
+#: classes/Controllers/class-alert-manager.php:1242
+#: classes/Views/AuditLog.php:760
+msgid "Installed"
+msgstr "インストール済"
+
+#: classes/Controllers/class-alert-manager.php:1243
+msgid "Activated"
+msgstr "有効化済み"
+
+#: classes/Controllers/class-alert-manager.php:1244
+msgid "Deactivated"
+msgstr "無効化済み"
+
+#: classes/Controllers/class-alert-manager.php:1245
+msgid "Uninstalled"
+msgstr "アンインストール済"
+
+#: classes/Controllers/class-alert-manager.php:1246
+msgid "Updated"
+msgstr "更新済"
+
+#: classes/Controllers/class-alert-manager.php:1247
+msgid "Created"
+msgstr "作成日"
+
+#: classes/Controllers/class-alert-manager.php:1248
+msgid "Modified"
+msgstr "更新日"
+
+#: classes/Controllers/class-alert-manager.php:1249
+msgid "Deleted"
+msgstr "削除済み"
+
+#: classes/Controllers/class-alert-manager.php:1250
+msgid "Published"
+msgstr "公開済み"
+
+#: classes/Controllers/class-alert-manager.php:1251
+msgid "Approved"
+msgstr "承認済み"
+
+#: classes/Controllers/class-alert-manager.php:1252
+msgid "Unapproved"
+msgstr "未承認"
+
+#: classes/Controllers/class-alert-manager.php:1255
+msgid "Added"
+msgstr "追加"
+
+#: classes/Controllers/class-alert-manager.php:1256
+msgid "Failed Login"
+msgstr "ログイン失敗"
+
+#: classes/Controllers/class-alert-manager.php:1257
+msgid "Blocked"
+msgstr "ブロック済み"
+
+#: classes/Controllers/class-alert-manager.php:1258
+msgid "Uploaded"
+msgstr "アップロード済み"
+
+#: classes/Controllers/class-alert-manager.php:1259
+msgid "Restored"
+msgstr "復元済み"
+
+#: classes/Controllers/class-alert-manager.php:1260
+msgid "Opened"
+msgstr "開封済"
+
+#: classes/Controllers/class-alert-manager.php:1261
+msgid "Viewed"
+msgstr "表示済み"
+
+#: classes/Controllers/class-alert-manager.php:1262
+msgid "Started"
+msgstr "開始済"
+
+#: classes/Controllers/class-alert-manager.php:1264
+msgid "Removed"
+msgstr "削除済み"
+
+#: classes/Controllers/class-alert-manager.php:1265
+msgid "Unblocked"
+msgstr "解除済み"
+
+#: classes/Controllers/class-alert-manager.php:1266
+msgid "Renamed"
+msgstr "変更"
+
+#: classes/Controllers/class-alert-manager.php:1267
+msgid "Duplicated"
+msgstr "複製"
+
+#: classes/Controllers/class-alert-manager.php:1288
+msgid "unknown type"
+msgstr "不明なタイプ"
+
+#: classes/Helpers/class-widget-manager.php:88
+#: classes/ListAdminEvents/class-list-events.php:289
+msgid "Object"
+msgstr "オブジェクト"
+
+#: classes/Helpers/class-widget-manager.php:89
+#: classes/ListAdminEvents/class-list-events.php:290
+msgid "Event Type"
+msgstr "イベントタイプ"
+
+#: classes/Controllers/class-constants.php:130
+msgid "High"
+msgstr "高い"
+
+#: classes/Controllers/class-constants.php:102
+#: classes/Controllers/class-constants.php:137
+msgid "Medium"
+msgstr "中程度"
+
+#: classes/Controllers/class-constants.php:144
+msgid "Low"
+msgstr "低い"
+
+#: classes/Controllers/class-constants.php:151
+msgid "Informational"
+msgstr "情報"
+
+#. Translators: %s: Home URL
+#: classes/Helpers/class-email-helper.php:62
+msgid "WP Activity Log plugin disabled on %s"
+msgstr "WP Activity Log プラグインは%sで無効"
+
+#: classes/ListAdminEvents/class-list-events.php:288
+msgid "IP"
+msgstr "IP"
+
+#: classes/ListAdminEvents/class-list-events.php:284 defaults.php:698
+#: defaults.php:713
+msgid "ID"
+msgstr "ID"
+
+#: classes/Controllers/class-alert-manager.php:1319
+#: classes/WPSensors/Helpers/class-mainwp-server-helper.php:47
+msgid "MainWP"
+msgstr "MainWP"
+
+#: classes/Controllers/class-alert-manager.php:1318
+msgid "MainWP Network"
+msgstr "MainWP ネットワーク"
+
+#: classes/Controllers/class-alert-manager.php:1263
+msgid "Stopped"
+msgstr "停止中"
+
+#. Translators: Event ID
+#: classes/Controllers/class-alert-manager.php:653
+msgid "Event %s already registered with WP Activity Log."
+msgstr "%sイベントはすでに WP Activity Log に登録済です。"
+
+#: classes/class-wp-security-audit-log.php:915
+#: classes/Views/class-setup-wizard.php:295
+#: classes/Views/class-setup-wizard.php:897
+msgid "Extension installed"
+msgstr "インストールされている拡張機能"
+
+#: classes/class-wp-security-audit-log.php:913
+#: classes/Views/class-setup-wizard.php:293
+msgid "Installing, please wait"
+msgstr "インストール中。お待ちください"
+
+#: classes/class-wp-security-audit-log.php:916
+#: classes/Views/class-setup-wizard.php:296
+msgid "Extension activated"
+msgstr "拡張が有効化されました"
+
+#: classes/class-wp-security-audit-log.php:917
+#: classes/Views/class-setup-wizard.php:297
+msgid "Install failed"
+msgstr "インストールに失敗しました"
+
+#: classes/class-wp-security-audit-log.php:668
+msgid "Activate the licence key now"
+msgstr "今すぐライセンスキーを有効化します"
+
+#: classes/class-wp-security-audit-log.php:914
+#: classes/Views/class-setup-wizard.php:294
+msgid "Already installed"
+msgstr "インストール済み"
+
+#. translators: The license key.
+#: classes/class-wp-security-audit-log.php:664
+msgid "You need to activate the license key to use WP Activity Log Premium. %s"
+msgstr "WP Activity Log Premium を使用するには、ライセンス キーを有効にする必要があります。%s"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:44
+msgid "Multisite Network Sites"
+msgstr "マルチサイトネットワークサイト"
+
+#: defaults.php:2292
+msgid "Themes on Multisite"
+msgstr "マルチサイトのテーマ"
+
+#: defaults.php:3143
+msgid "Database Events"
+msgstr "データベース イベント"
+
+#: defaults.php:2322
+msgid "WordPress & System"
+msgstr "WordPress & システム"
+
+#: defaults.php:2383
+msgid "Advertising Extensions"
+msgstr "広告の拡張機能"
+
+#: defaults.php:2403
+msgid "Reset the activity log plugin's settings to default."
+msgstr "アクティビティログプラグインの設定をデフォルトにリセットします。"
+
+#: defaults.php:2825
+msgid "WordPress Site Settings"
+msgstr "WordPress サイト設定"
+
+#: defaults.php:2388
+msgid "Activity log plugin"
+msgstr "アクティビティログプラグイン"
+
+#: defaults.php:1991
+msgid "Multisite User Profiles"
+msgstr "マルチサイトユーザープロフィール"
+
+#: defaults.php:1188
+msgid "Changed the position of the %WidgetName% widget in %Sidebar%."
+msgstr "%Sidebar% で %WidgetName% ウィジェットの位置を変更しました。"
+
+#: defaults.php:1204
+msgid "New menu called %MenuName%."
+msgstr "新しいメニュー %MenuName% が呼ばれました。"
+
+#: defaults.php:1684
+msgid "User Accounts"
+msgstr "ユーザーアカウント"
+
+#: defaults.php:618
+msgid "User enabled/disabled comments in a post"
+msgstr "ユーザーが投稿内のコメントを有効/無効にしました"
+
+#: classes/Controllers/class-constants.php:124
+msgid "Critical severity events."
+msgstr "重大度が重大なイベント。"
+
+#: classes/Controllers/class-constants.php:131
+msgid "High severity events."
+msgstr "重大度の高いイベント。"
+
+#: classes/Controllers/class-constants.php:138
+msgid "Medium severity events."
+msgstr "重大度の中程度のイベント。"
+
+#: classes/Controllers/class-constants.php:145
+msgid "Low severity events."
+msgstr "重大度の低いイベント。"
+
+#: classes/Controllers/class-constants.php:152
+msgid "Informational events."
+msgstr "情報イベント。"
+
+#: defaults.php:160
+msgid "Users Logins & Sessions Events"
+msgstr "ユーザーログインとセッションイベント"
+
+#: defaults.php:161
+msgid "User Activity"
+msgstr "ユーザーアクティビティ"
+
+#. Plugin Name of the plugin
+#: wp-security-audit-log.php classes/Controllers/class-alert-manager.php:1326
+#: classes/MainWPAddon/class-mainwp-addon.php:144
+msgid "WP Activity Log"
+msgstr "WP Activity Log"
+
+#: classes/Controllers/class-alert.php:89
+msgid "Alert message not found."
+msgstr "警告メッセージが見つかりません。"
+
+#: classes/ListAdminEvents/class-list-events.php:639
+msgid "Alert description not found."
+msgstr "アラートの説明が見つかりません。"
+
+#: classes/Views/Settings.php:978
+msgid "Show Milliseconds"
+msgstr "ミリ秒を表示"
+
+#: classes/Views/Settings.php:985
+msgid "Show Milliseconds in list view"
+msgstr "リスト ビューでミリ秒を表示"
+
+#: classes/class-wp-security-audit-log.php:840
+msgid "Excluded Objects"
+msgstr "除外オブジェクト"
+
+#: classes/Views/class-setup-wizard.php:615
+msgid "If you are not sure about this setting, check if the Membership setting in the WordPress General settings is checked or not. If it is not checked (default) select No."
+msgstr "この設定について不明な場合は、WordPress の全般設定内の 「メンバーシップ」 の設定がオンになっているかどうかを確認します。チェックされていなければ (デフォルト) 「いいえ」を選択します。"
+
+#: classes/Views/class-setup-wizard.php:604
+msgid "Can visitors register as a user on your website?"
+msgstr "訪問者はウェブサイトでユーザー登録できますか ?"
+
+#: classes/class-wp-security-audit-log.php:878
+msgid "You can enable this alert again from the Enable/Disable Alerts node in the plugin menu."
+msgstr "このアラートは、プラグインメニュー内の 「アラートを有効/無効にする」ノードから再度有効にすることができます。"
+
+#. translators: Alert code which is no longer monitored.
+#: classes/class-wp-security-audit-log.php:876
+msgid "Alert %1$s is no longer being monitored. %2$s"
+msgstr "アラート %1$s は監視されなくなりました。%2$s"
+
+#: classes/Views/class-setup-wizard.php:210
+msgid "Log In"
+msgstr "ログイン"
+
+#: classes/Views/class-setup-wizard.php:215
+msgid "User Registrations"
+msgstr "ユーザー登録"
+
+#: classes/Views/class-setup-wizard.php:551
+msgid "Do you or your users use other pages to log in to WordPress other than the default login page ( /wp-admin/ )?"
+msgstr "あなたやあなたのユーザーは、デフォルトのログインページ (/wp-admin/) 以外の WordPress にログインするために他のページを使用していますか?"
+
+#: classes/Views/class-setup-wizard.php:555
+msgid "Yes, we use other pages to login to WordPress."
+msgstr "はい、WordPress にログインするために他のページを使用しています。"
+
+#: classes/Views/class-setup-wizard.php:560
+msgid "No, we only use the default WordPress login page."
+msgstr "いいえ、デフォルトの WordPress ログインページのみを使用します。"
+
+#: classes/Views/class-setup-wizard.php:562
+msgid "If your website is a membership or ecommerce website most probably you have more than one area from where the users can login. If you are not sure, select Yes."
+msgstr "ウェブサイトが会員制サイトや eコマースサイトの場合、おそらくユーザーがログインできるエリアが複数あると思います。よくわからない場合は、「はい」を選択してください。"
+
+#: classes/Views/ToggleAlerts.php:147 classes/Views/ToggleAlerts.php:468
+msgid "Keep a log when a visitor registers a user on the website. Only enable this if you allow visitors to register as users on your website. User registration is disabled by default in WordPress."
+msgstr "訪問者がウェブサイトでユーザーを登録するときにログを保持します。訪問者がウェブサイト上のユーザーとして登録することを許可する場合にのみ、これを有効にします。ユーザー登録は WordPress でデフォルトで無効になっています。"
+
+#: classes/Helpers/class-wp-helper.php:651
+#: classes/Helpers/class-wp-helper.php:663
+msgid "Unknown Site"
+msgstr "不明サイト"
+
+#: classes/Views/Help.php:320
+msgid "Our other WordPress plugins"
+msgstr "私たちの他の WordPress のプラグイン"
+
+#: classes/Views/Help.php:331
+msgid "LEARN MORE"
+msgstr "詳細はこちら"
+
+#: classes/Controllers/class-connection.php:260
+msgid "Error establishing a database connection. DB username or password are not valid."
+msgstr "データベース接続の確立中にエラーが発生しました。DB ユーザー名またはパスワードが無効です。"
+
+#: classes/Views/AuditLog.php:224
+msgid "No, thank you"
+msgstr "いいえ結構です"
+
+#: classes/Views/AuditLog.php:223
+msgid "Sure, opt-in"
+msgstr "はい、参加します"
+
+#: classes/Views/AuditLog.php:122
+msgid "Unlock these and other powerful features with WP Activity Log Premium."
+msgstr "WP Activity Log Premium でこれらの機能とその他の強力な機能のロックを解除します。"
+
+#: classes/Views/AuditLog.php:459
+msgid "Thank you for installing WP Activity Log. Do you want to run the wizard to configure the basic plugin settings?"
+msgstr "WP Activity Log をインストールしていただきありがとうございます。ウィザードを実行して、基本的なプラグイン設定を構成しますか?"
+
+#: classes/Views/class-setup-wizard.php:468
+msgid "This wizard helps you configure the basic plugin settings. All these settings can be changed at a later stage from the plugin settings."
+msgstr "このウィザードでは、基本的なプラグイン設定を構成できます。これらの設定はすべて、プラグイン設定から後の段階で変更できます。"
+
+#: classes/Views/AuditLog.php:117
+msgid "Instant SMS & email alerts, search & filters, reports, users sessions management and much more!"
+msgstr "SMS やメールでのインスタントアラート、検索やフィルター、レポート、ユーザーセッション管理など、様々な機能があります。"
+
+#: classes/Views/AuditLog.php:118
+msgid "Upgrade to premium to get more out of your activity logs!"
+msgstr "プレミアムにアップグレードすると、より多くのアクティビティログを取得できます。"
+
+#: classes/Views/AuditLog.php:121
+msgid "See who logged in on your site in real-time, generate reports, get SMS & email alerts of critical changes and more!"
+msgstr "誰がサイトにログインしたかをリアルタイムで確認したり、レポートを作成したり、重要な変更があった場合に SMS やメールで通知したりすることができます。"
+
+#: classes/Views/Settings.php:1183
+msgid "You can exclude an individual IP address or a range of IP addresses. To exclude a range use the following format: [first IP]-[last octet of the last IP]. Example: 172.16.180.6-127."
+msgstr "個別の IP アドレスまたは IP アドレスの範囲を除外することができます。範囲を除外するには、次の形式を使用します: [最初のIP]-[最後のIPの最後のオクテット]。例：172.16.180.6-127。"
+
+#: classes/Views/EmailNotifications.php:63
+msgid "Getting started is really easy. You can use one of the plugin’s built-in notifications or create your own using the easy to use trigger builder."
+msgstr "始めるのは本当に簡単です。プラグインの組み込み通知のいずれかを使用するか、使いやすいトリガービルダーを使用して独自のものを作成できます。"
+
+#: classes/Views/EmailNotifications.php:70
+msgid "Easily enable any of the built-in security and user management notifications."
+msgstr "組み込みのセキュリティ通知とユーザー管理通知を簡単に有効にできます。"
+
+#: classes/Views/Search.php:49
+msgid "Search & Filters for the Activity Log"
+msgstr "アクティビティログの検索とフィルタ"
+
+#: classes/Views/Search.php:54
+msgid "Easily find when and who did a specific change on your site"
+msgstr "サイトで特定の変更を行った時期とユーザーを簡単に見つける"
+
+#: classes/Views/Search.php:55
+msgid "Easily identify and track back suspicious user behaviour"
+msgstr "疑わしいユーザーの行動を簡単に特定して追跡"
+
+#: classes/Views/Search.php:56
+msgid "Search for the cause of a problem and ease troubleshooting"
+msgstr "問題の原因を検索し、トラブルシューティングを容易にする"
+
+#: classes/Views/Search.php:57
+msgid "Save search terms and filters for future use and improved productivity"
+msgstr "検索用語とフィルターを保存して、将来の使用と生産性の向上を実現"
+
+#: classes/Views/Search.php:62
+msgid "Configure any filter you need to fine tune the search results and find what you are looking for with much less effort."
+msgstr "検索結果を微調整し、探しているものを少しの労力で見つけるために必要なフィルタを設定します。"
+
+#: classes/Views/Search.php:66
+msgid "Save search terms and filters to run the searches again in the future with just a single click."
+msgstr "検索語句とフィルターを保存して、後で 1 回のクリックで検索を再実行します。"
+
+#. Translators: Number of sites
+#: classes/class-wp-security-audit-log.php:697
+msgid "The license is limited to %s sub-sites. You need to upgrade your license to cover all the sub-sites on this network."
+msgstr "ライセンスは %s サブサイトに制限されています。このネットワーク上のすべてのサブサイトをカバーするには、ライセンスをアップグレードする必要があります。"
+
+#: classes/Views/EmailNotifications.php:66
+msgid "Email and SMS notifications instantly alert you of important changes on your WordPress site."
+msgstr "電子メールと SMS 通知は即座に WordPress サイト上の重要な変更を警告します。"
+
+#: classes/Views/EmailNotifications.php:74
+msgid "Use the trigger builder to configure any type of email and SMS notification to get instantly alerted of site changes that are important to you and your business."
+msgstr "トリガービルダーを使って、あらゆるタイプのメールや SMS の通知を設定し、あなたにとって重要なサイトの変更を即座に通知することができます。"
+
+#: classes/Views/EmailNotifications.php:78
+msgid "All email and SMS templates are configurable, allowing you to personalize them."
+msgstr "メールや SMS のテンプレートはすべて設定可能で、パーソナライズすることができます。"
+
+#: classes/Views/EmailNotifications.php:57
+msgid "Receive notifications for when users login, change their password or change content"
+msgstr "ユーザーがログインしたとき、パスワードを変更したとき、またはコンテンツを変更したときの通知を受け取る"
+
+#: classes/Views/EmailNotifications.php:58
+msgid "Get alerted of site changes like plugin installs, theme changes etc"
+msgstr "プラグインのインストール、テーマの変更などのサイトの変更のアラートを取得します"
+
+#: classes/Views/EmailNotifications.php:60
+msgid "Personalize all email and SMS templates"
+msgstr "すべてのメールテンプレートとSMSテンプレートをパーソナライズ"
+
+#: classes/Views/EmailNotifications.php:61
+msgid "Use the trigger builder to configure any type of notification criteria!"
+msgstr "トリガー・ビルダーを使用して、任意のタイプの通知基準を構成します。"
+
+#: classes/Views/LogInUsers.php:59
+msgid "Terminate any users’ session with a click of a button"
+msgstr "ボタンをクリックしてユーザーのセッションを終了する"
+
+#: classes/Views/LogInUsers.php:60
+msgid "Limit or block multiple sessions for the same user"
+msgstr "同じユーザーの複数のセッションを制限またはブロックする"
+
+#: classes/Views/LogInUsers.php:65
+msgid "See who is logged in to your WordPress site and multisite network in real-time."
+msgstr "リアルタイムであなたの WordPress サイトとマルチサイトネットワークにログインしている人を参照してください。"
+
+#: classes/Views/LogInUsers.php:69
+msgid "Limit, manage and block multiple same user sessions easily."
+msgstr "複数の同じユーザーセッションを簡単に制限、管理、ブロックできます。"
+
+#: classes/Views/EmailNotifications.php:52
+msgid "Get instantly alerted of important changes on your site via email notifications & SMS messages. Upgrade to premium and:"
+msgstr "SMS や電子メール通知を介して、サイト上の重要な変更を即座に警告します。プレミアムにアップグレード:"
+
+#: classes/Views/EmailNotifications.php:59
+msgid "Enable built-in security email notifications of suspicious user activity"
+msgstr "不審なユーザーアクティビティの、組み込みのセキュリティメール通知を有効にする"
+
+#: classes/Views/LogInUsers.php:61
+msgid "Get alerted of multiple same user sessions"
+msgstr "複数の同じユーザーセッションの警告を受け取る"
+
+#: classes/Views/EmailNotifications.php:55
+msgid "Configure any type of email notification"
+msgstr "任意のメール通知タイプを構成します"
+
+#: classes/Views/LogInUsers.php:51
+msgid "Real-Time Users Sessions Management"
+msgstr "リアルタイムユーザーセッション管理"
+
+#: classes/Views/LogInUsers.php:56
+msgid "See who is logged in to your site"
+msgstr "サイトにログインしているユーザーを確認する"
+
+#: classes/Views/LogInUsers.php:58
+msgid "The last change they have done in real-time"
+msgstr "彼らがリアルタイムで行った最後の変更"
+
+#: classes/Views/Reports.php:58
+msgid "Create statistics reports about users’ views, logins, activity from IP addresses & more"
+msgstr "ユーザーのビュー、ログイン、IP アドレスからのアクティビティに関する統計レポートの作成など"
+
+#: classes/Views/Reports.php:60
+msgid "Reports are vital to the success of your business and management of your site."
+msgstr "レポートは、サイトのビジネスと管理の成功に不可欠です。"
+
+#: classes/Views/Reports.php:63
+msgid "Generate a HTML or CSV report."
+msgstr "HTML または CSV レポートを生成します。"
+
+#: classes/Views/Reports.php:67
+msgid "Easily configure a criteria for your reports."
+msgstr "レポートの条件を簡単に設定できます。"
+
+#: classes/Views/LogInUsers.php:52
+msgid "Better manage your users’ logins and sessions. Upgrade to premium and:"
+msgstr "ユーザーのログインとセッションをより適切に管理できます。プレミアムにアップグレードすれば以下の事が可能です:"
+
+#: classes/Views/Reports.php:71
+msgid "Schedule reports that are sent to you by email automatically."
+msgstr "メールで自動的に送信されるレポートをスケジュールします。"
+
+#: classes/Views/ExternalDB.php:55
+msgid "Store the audit logs of your sites on an external database"
+msgstr "外部データベースにサイトの監査ログを保存する"
+
+#: classes/Views/ExternalDB.php:56
+msgid "Configuring archiving and store older log data in a segregated database"
+msgstr "分離されたデータベースにアーカイブを構成し、古いログデータを保存する"
+
+#: classes/Views/ExternalDB.php:57
+msgid "Mirror the logs to syslog, Slack, Papertrail and central business communication services"
+msgstr "ログをシスログ、Slack、ペーパートレイル、中央ビジネスコミュニケーションサービスにミラーリング"
+
+#: classes/Views/ExternalDB.php:58
+msgid "Configure filters to filter what is mirrored and archived in the databases and services"
+msgstr "データベースとサービスでミラーリングおよびアーカイブされる内容をフィルター処理するフィルターを構成する"
+
+#: classes/Views/ExternalDB.php:63
+msgid "Easily configure integration and database connections thanks to a user friendly wizard."
+msgstr "ユーザーフレンドリーなウィザードにより、統合とデータベース接続を簡単に構成できます。"
+
+#: classes/Views/ExternalDB.php:71
+msgid "Configure an unlimited number of connections to different databases and third party services."
+msgstr "異なるデータベースやサード パーティのサービスへの接続数を無制限に設定します。"
+
+#: classes/Views/Reports.php:51
+msgid "Individual, Scheduled & Automated Reports"
+msgstr "個別、スケジュール、自動レポート"
+
+#: classes/Views/Reports.php:52
+msgid "Many are not fans of reports, however reports are vital in business. With them you can make informed decisions that allow you to improve user productivity and the business. Upgrade to Premium so you can:"
+msgstr "多くはレポートのファンではありませんが、レポートはビジネスに不可欠です。ユーザーの生産性とビジネスを向上させる情報に基づいた意思決定を行うことができます。プレミアムにアップグレードして、次の作業を行うことができます:"
+
+#: classes/Views/Reports.php:55
+msgid "Generate any type of user and site (in multisite) activity report"
+msgstr "ユーザーおよびサイト (マルチサイト内) 活動レポートの任意のタイプを生成します"
+
+#: classes/Views/Reports.php:56
+msgid "Automate and schedule daily, weekly, monthly and quarterly reports"
+msgstr "毎日、毎週、毎月、四半期ごとのレポートを自動化およびスケジュールする"
+
+#: classes/Views/Settings.php:351
+msgid "Message sent successfully."
+msgstr "メッセージが正常に送信されました。"
+
+#: classes/Views/Settings.php:411
+msgid "Send Message"
+msgstr "メッセージを送信"
+
+#: defaults.php:253
+msgid "Switched to another user"
+msgstr "別のユーザーに切り替え"
+
+#: classes/Views/Reports.php:57
+msgid "Received reports automatically via email"
+msgstr "メールで自動的にレポートを受信"
+
+#: classes/Views/ExternalDB.php:52
+msgid "There are several benefits to segregating the logs from the main site database, and to be able to mirror the logs to third party and centralized business solutions. Upgrade to premium and:"
+msgstr "メインサイトデータベースからログを分離し、ログをサードパーティおよび集中型ビジネスソリューションにミラーリングできる利点がいくつかあります。プレミアムにアップグレード:"
+
+#: classes/Views/ExternalDB.php:67
+msgid "Configure activity log filters for third party services connections."
+msgstr "サードパーティのサービス接続のアクティビティログフィルタを構成します。"
+
+#: classes/Helpers/class-email-helper.php:65
+msgid "Hello admin,"
+msgstr "こんにちは、管理者、"
+
+#: classes/Views/Settings.php:531 classes/Views/Settings.php:534
+msgid "Admin Bar Notification Updates"
+msgstr "管理バー通知の更新"
+
+#: classes/Views/Settings.php:543
+msgid "Update in near real time"
+msgstr "ほぼリアルタイムで更新"
+
+#: classes/Views/Settings.php:548
+msgid "Update only on page refreshes"
+msgstr "ページの更新時のみ更新"
+
+#. Translators: 1. User display name, 2. Home URL, 3. Date and time
+#: classes/Helpers/class-email-helper.php:70
+msgid "This is a notification to let you know that the user %1$s has deactivated the plugin WP Activity Log on the website %2$s on %3$s."
+msgstr "これは、%1$sユーザーが%3$sのウェブサイト%2$s上の WP Activity Log プラグインを無効にしたことを知らせる通知です。"
+
+#: classes/Controllers/class-cron-jobs.php:199
+msgid "Every 6 hours"
+msgstr "6時間ごと"
+
+#: classes/Controllers/class-cron-jobs.php:211
+msgid "Every 15 minutes"
+msgstr "15分ごと"
+
+#: classes/Views/Settings.php:698
+msgid "All superadmins"
+msgstr "すべての特権管理者"
+
+#: defaults.php:1398
+msgid "Created a new custom field %MetaKey% with value %MetaValue% in custom post %PostTitle% of type %PostType%. %EditorLinkPost%.<br>%MetaLink%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% の、 値 %MetaValue% の新しいカスタムフィールド %MetaKey% を作成しました。%EditorLinkPost%。<br>%MetaLink%。"
+
+#: defaults.php:1404
+msgid "Modified the value of the custom field %MetaKey% from %MetaValueOld% to %MetaValueNew% in custom post %PostTitle% of type %PostType% %EditorLinkPost%.<br>%MetaLink%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% 内の、カスタムフィールド %MetaKey% の値を %MetaValueOld% から %MetaValueNew% へ変更しました。%EditorLinkPost%。<br>%MetaLink%。"
+
+#: defaults.php:1410
+msgid "Deleted the custom field %MetaKey% with id %MetaID% from custom post %PostTitle% of type %PostType% %EditorLinkPost%.<br>%MetaLink%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% から ID %MetaID% のカスタム フィールド %MetaKey% を削除しました。%EditorLinkPost%。<br>%MetaLink%。"
+
+#: defaults.php:1416
+msgid "Changed the custom field name from %MetaKeyOld% to %MetaKeyNew% in custom post %PostTitle% of type %PostType% %EditorLinkPost%.<br>%MetaLink%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% でカスタムフィールド名を %MetaKeyOld% から %MetaKeyNew% へ変更しました。%EditorLinkPost%。<br>%MetaLink%。"
+
+#: defaults.php:1422
+msgid "Modified the content of the published custom post type %PostTitle%. Post URL is %PostUrl%. %EditorLinkPost%."
+msgstr "公開されたカスタム投稿タイプ %PostTitle% の内容を変更しました。投稿 URL は %PostUrl% です。%EditorLinkPost%。"
+
+#: defaults.php:1434
+msgid "Modified the content of the draft custom post type %PostTitle%.%EditorLinkPost%."
+msgstr "下書きカスタム投稿タイプ %PostTitle% の内容を変更しました。%EditorLinkPost%。"
+
+#: defaults.php:1440
+msgid "Modified the content of post %PostTitle% which is submitted for review.%RevisionLink% %EditorLinkPost%."
+msgstr "レビューのためにサブミットされた投稿 %PostTitle% の内容が変更されました。%EditorLinkPost%。"
+
+#: defaults.php:1577
+msgid "Modified the value of the custom field %MetaKey% from %MetaValueOld% to %MetaValueNew% in the page %PostTitle% %EditorLinkPage%.<br>%MetaLink%."
+msgstr "ページ %PostTitle% のカスタムフィールド %MetaKey% 値を %MetaValueOld% から %MetaValueNew% に変更しました。 %EditorLinkPage%。<br>%MetaLink%。"
+
+#: defaults.php:1583
+msgid "Deleted the custom field %MetaKey% with id %MetaID% from page %PostTitle% %EditorLinkPage%<br>%MetaLink%."
+msgstr "ページ %PostTitle% から ID %MetaID% のカスタムフィールド %MetaKey% を削除しました。%EditorLinkPage%<br>%MetaLink%。"
+
+#: defaults.php:1589
+msgid "Changed the custom field name from %MetaKeyOld% to %MetaKeyNew% in the page %PostTitle% %EditorLinkPage%.<br>%MetaLink%."
+msgstr "ページ %PostTitle% のカスタムフィールド名を %MetaKeyOld% から %MetaKeyNewnew% へ変更しました。%EditorLinkPage%。<br>%MetaLink%。"
+
+#: defaults.php:1601
+msgid "Modified the content of draft page %PostTitle%.%RevisionLink% %EditorLinkPage%."
+msgstr "下書きページ %PostTitle% のコンテンツを修正しました。%RevisionLink% %EditorLinkPage%。"
+
+#: defaults.php:1428
+msgid "Modified the content of the draft post %PostTitle%.%RevisionLink% %EditorLinkPost%."
+msgstr "下書きポスト%PostTitle%の内容を変更しました。%RevisionLink% %EditorLinkPost%。"
+
+#: defaults.php:1571
+msgid "Created a new custom field called %MetaKey% with value %MetaValue% in the page %PostTitle% %EditorLinkPage%.<br>%MetaLink%."
+msgstr "%PostTitle% ページの値 %MetaValue% を持つ新しいカスタムフィールド%MetaKey%を作成しました。 %EditorLinkPage%。<br>%MetaLink%。"
+
+#: defaults.php:843
+msgid "User changed category name"
+msgstr "ユーザーがカテゴリー名を変更しました"
+
+#: defaults.php:855
+msgid "User changed category slug"
+msgstr "ユーザーがカテゴリースラッグを変更しました"
+
+#. Translators: 1.CSS classes, 2. Notice, 3. Contact us link
+#: classes/Controllers/class-alert-manager.php:696
+msgid "%4$s to help you solve this issue."
+msgstr "この問題を解決するには、%4$s を参考にしてください。"
+
+#: classes/Controllers/class-alert-manager.php:700
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+#: classes/Views/AuditLog.php:910
+msgid "You do not have sufficient permissions to dismiss this notice."
+msgstr "この通知を却下するための十分なアクセス許可がありません。"
+
+#: classes/Views/Settings.php:470
+msgid "Display latest events widget in Dashboard & Admin bar"
+msgstr "ダッシュボードと管理バーに最新のイベントウィジェットを表示する"
+
+#. translators: Max number of dashboard widget alerts.
+#: classes/Views/Settings.php:475
+msgid "The events widget displays the latest %d security events in the dashboard and the admin bar notification displays the latest event."
+msgstr "イベントウィジェットには、最新の %d セキュリティイベントがダッシュボードに表示され、管理バー通知に最新のイベントが表示されます。"
+
+#: classes/Views/Settings.php:504 classes/Views/Settings.php:507
+msgid "Admin Bar Notification"
+msgstr "管理バー通知"
+
+#: defaults.php:2402
+msgid "Reset the plugin's settings to default"
+msgstr "プラグインの設定をデフォルトにリセットする"
+
+#: classes/Controllers/class-alert-manager.php:693
+msgid "You have custom events that are using the same ID or IDs which are already registered in the plugin, so they have been disabled."
+msgstr "プラグインにすでに登録されている同じ id または IDs を使用しているカスタムイベントがあるため無効になっています。"
+
+#: classes/Controllers/class-alert-manager.php:698
+msgid "ERROR:"
+msgstr "エラー:"
+
+#: defaults.php:2412
+msgid "Purged the activity log"
+msgstr "アクティビティログを削除しました"
+
+#: classes/Views/Settings.php:1345
+msgid "This option is enabled automatically when the plugin detects the MainWP Child plugin on the site. When this setting is enabled plugin access is restricted to the administrator who installs the plugin, the plugin is not shown in the list of installed plugins and no admin notifications are shown. Disable this option to change the plugin to the default setup."
+msgstr "このオプションは、プラグインがサイト上の MainWP Child プラグインを検出すると自動的に有効になります。この設定を有効にすると、プラグインのアクセスはプラグインをインストールした管理者に制限され、プラグインはインストールされたプラグインのリストに表示されず、管理者通知も表示されません。このオプションを無効にすると、プラグインがデフォルトの設定に変更されます。"
+
+#: classes/Views/Settings.php:1349
+msgid "Enable MainWP Child Site Stealth Mode"
+msgstr "MainWP 子サイトステルスモードを有効にする"
+
+#: classes/Views/class-setup-wizard.php:287
+msgid "Specified value in not an IP address."
+msgstr "IP アドレスではなく、指定された値。"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:45
+msgid "Products"
+msgstr "商品"
+
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:48
+msgid "Post Changes"
+msgstr "変更の投稿"
+
+#: classes/Views/ToggleAlerts.php:535
+msgid "Log Level Updated"
+msgstr "ログ レベルの更新"
+
+#. translators: Alerts log level.
+#: classes/Views/ToggleAlerts.php:539
+msgid "The %s log level has been successfully loaded and applied."
+msgstr "%s ログレベルが正常に読み込まれ、適用されました。"
+
+#: defaults.php:691
+msgid "Tags"
+msgstr "タグ"
+
+#: classes/WPSensors/class-yoast-seo-sensor.php:1624 defaults.php:786
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: defaults.php:2227
+msgid "Themes"
+msgstr "テーマ"
+
+#: classes/Views/ToggleAlerts.php:543
+msgid "OK"
+msgstr "OK"
+
+#: classes/Views/Settings.php:1453
+msgid "MainWP Child plugin is not active on this website."
+msgstr "MainWP Child プラグインはこのウェブサイト上で有効ではありません。"
+
+#: defaults.php:2413
+msgid "Purged the activity log."
+msgstr "アクティビティログを削除しました。"
+
+#: classes/Views/Settings.php:375
+msgid "Old data successfully purged."
+msgstr "古いデータが正常に削除されました。"
+
+#: classes/Views/Settings.php:381
+msgid "No data is old enough to be purged."
+msgstr "パージできるほど古いデータはありません。"
+
+#: classes/Views/Settings.php:1344
+msgid "MainWP Child Site Stealth Mode"
+msgstr "MainWP 子サイトステルスモード"
+
+#: classes/Controllers/class-alert-manager.php:1327
+msgid "Multisite Network"
+msgstr "マルチサイト ネットワーク"
+
+#: classes/Views/ToggleAlerts.php:296
+msgid "Third party plugins"
+msgstr "サードパーティ製プラグイン"
+
+#: classes/Views/class-setup-wizard.php:752
+msgid "Your plugin is all set and it is ready to start keeping a record of everything that is happening on your WordPress in a WordPress activity log."
+msgstr "あなたのプラグインはすべて設定されており、WordPress のアクティビティログで起こっているすべての記録を保持し始める準備ができています。"
+
+#: classes/Views/class-setup-wizard.php:753
+msgid "Below are a few useful links you might need to refer to:"
+msgstr "以下に、参考にする必要がある便利なリンクをいくつか示します:"
+
+#: classes/Views/class-setup-wizard.php:763
+msgid "Knowledge Base & Support Documents"
+msgstr "ナレッジ ベースとサポート ドキュメント"
+
+#: classes/Views/ToggleAlerts.php:275
+msgid "Basic"
+msgstr "基本"
+
+#: classes/Views/ToggleAlerts.php:276
+msgid "Geek"
+msgstr "オタク"
+
+#: classes/Views/ToggleAlerts.php:277
+msgid "Custom"
+msgstr "カスタム"
+
+#: classes/Views/ToggleAlerts.php:307
+msgid "Log Level: "
+msgstr "ログレベル: "
+
+#: classes/Helpers/class-user-utils.php:127
+#: classes/MainWPAddon/class-mainwp-helper.php:847
+msgid "Username: "
+msgstr "ユーザー名:"
+
+#: classes/Views/class-setup-wizard.php:506
+#: classes/Views/class-setup-wizard.php:567
+#: classes/Views/class-setup-wizard.php:620
+#: classes/Views/class-setup-wizard.php:684
+#: classes/Views/class-setup-wizard.php:685
+#: classes/Views/class-setup-wizard.php:912
+#: classes/Views/class-setup-wizard.php:913
+msgid "Next"
+msgstr "次へ"
+
+#: classes/Views/class-setup-wizard.php:565
+#: classes/Views/class-setup-wizard.php:618
+#: classes/Views/class-setup-wizard.php:676
+msgid "Note: You can change the WordPress activity log retention settings at any time from the plugin settings later on."
+msgstr "注: 後でプラグインの設定から、WordPress のアクティビティログの保存設定をいつでも変更できます。"
+
+#: classes/Views/class-setup-wizard.php:658
+msgid "How long do you want to keep the data in the WordPress activity Log?"
+msgstr "どのくらいの期間、WordPress のアクティビティログにデータを保持しますか?"
+
+#: classes/Views/class-setup-wizard.php:663
+msgid "6 months (data older than 6 months will be deleted)"
+msgstr "6か月 (6か月以上経過したデータは削除されます)"
+
+#: classes/Views/class-setup-wizard.php:668
+msgid "12 months (data older than 12 months will be deleted)"
+msgstr "12か月 (12か月以上経過したデータは削除されます)"
+
+#: classes/Views/class-setup-wizard.php:673
+msgid "Keep all data."
+msgstr "すべてのデータを保持する。"
+
+#: classes/Views/class-setup-wizard.php:503
+msgid "Note: You can change the WordPress logging level from the plugin’s settings anytime."
+msgstr "注: いつでもプラグインの設定から WordPress のログレベルを変更することができます。"
+
+#: classes/Views/Settings.php:1527
+msgid "The specified value is not a valid URL!"
+msgstr "指定された値は有効な URL ではありません。"
+
+#: classes/Views/Settings.php:1528
+msgid "The specified value is not a valid post type!"
+msgstr "指定された値は有効な投稿タイプではありません。"
+
+#: classes/Views/Settings.php:1530
+msgid "The specified value is not a valid IP address!"
+msgstr "指定された値は有効な IP アドレスではありません。"
+
+#: classes/Views/Settings.php:1531
+msgid "The specified value is not a user nor a role!"
+msgstr "指定された値は、ユーザーでもロールでもありません。"
+
+#: classes/Views/Settings.php:1532
+msgid "Filename cannot be added because it contains invalid characters."
+msgstr "ファイル名に無効な文字が含まれているため、追加できません。"
+
+#: classes/Views/Settings.php:1533
+msgid "File extension cannot be added because it contains invalid characters."
+msgstr "ファイル拡張子に無効な文字が含まれているため、追加できません。"
+
+#: classes/Views/Settings.php:1534
+msgid "Directory cannot be added because it contains invalid characters."
+msgstr "無効な文字が含まれているため、ディレクトリを追加できません。"
+
+#: classes/Views/Settings.php:1813
+msgid "Tables has been reset."
+msgstr "テーブルはリセットされました。"
+
+#: classes/Views/class-setup-wizard.php:201
+msgid "Welcome"
+msgstr "ようこそ"
+
+#: classes/Views/class-setup-wizard.php:205
+msgid "Log Details"
+msgstr "ログ詳細"
+
+#: classes/Views/class-setup-wizard.php:220
+msgid "Log Retention"
+msgstr "ログの保持"
+
+#: classes/Views/class-setup-wizard.php:225
+#: classes/Views/class-setup-wizard.php:786
+#: classes/Views/class-setup-wizard.php:787
+msgid "Finish"
+msgstr "完了"
+
+#: classes/Views/class-setup-wizard.php:285
+msgid "Specified value in not a user."
+msgstr "ユーザーではなく指定された値。"
+
+#: classes/Views/class-setup-wizard.php:286
+msgid "Specified value in not a role."
+msgstr "ロールではない指定された値。"
+
+#: classes/Views/class-setup-wizard.php:349
+msgid "Close Wizard"
+msgstr "ウィザードを閉じる"
+
+#: classes/Views/class-setup-wizard.php:473
+msgid "Start Configuring the Plugin"
+msgstr "プラグインの設定を開始"
+
+#: classes/Views/class-setup-wizard.php:477
+msgid "Exit Wizard"
+msgstr "ウィザードを終了"
+
+#: classes/Views/class-setup-wizard.php:492
+msgid "Please select the level of detail for your WordPress activity logs:"
+msgstr "WordPress のアクティビティログの詳細レベルを選択してください:"
+
+#: classes/Views/class-setup-wizard.php:496
+msgid "Basic (I want a high level overview and I am not interested in the detail)"
+msgstr "基本 (概要を表示したい、詳細には興味がありません)"
+
+#: classes/Views/class-setup-wizard.php:501
+msgid "Geek (I want to know everything that is happening on my WordPress)"
+msgstr "ギーク (私は自分の WordPress で起こっているすべてを知りたい)"
+
+#: classes/Views/Settings.php:1390
+msgid "The plugin saves the activity log data and settings in the WordPress database. By default upon uninstalling the plugin the data is kept in the database so if it is installed again, you can still access the data. If the data is deleted it is not possible to recover it so you won't be able to access it again even when you reinstall the plugin."
+msgstr "プラグインは、WordPress データベースにアクティビティログデータと設定を保存します。プラグインをアンインストールするとデフォルトでデータはデータベースに保存されるため、再度インストールした場合でもデータにアクセスできます。データが削除された場合、それを回復することができないので、プラグインを再インストールしても再びアクセスすることはできません。"
+
+#: classes/Views/Settings.php:1429
+msgid "Are you sure you want to purge all the activity log data?"
+msgstr "本当にすべてのアクティビティログデータを削除してもよいですか?"
+
+#: classes/Views/Settings.php:1815
+msgid "Reset query failed."
+msgstr "クエリーのリセットは失敗しました。"
+
+#: classes/Views/Settings.php:1284
+msgid "You can use the * wildcard to exclude multiple matching custom fields. For example to exclude all custom fields starting with wp123 enter wp123*"
+msgstr "* ワイルドカードを使用して、複数の一致するカスタム・フィールドを除外できます。たとえば、wp123 で始まるすべてのカスタムフィールドを除外するには wp123* と入力します"
+
+#: classes/Views/Settings.php:1312
+msgid "These settings are for advanced users."
+msgstr "これらの設定は、上級ユーザー向けです。"
+
+#: classes/Views/Settings.php:1316
+msgid "Reset plugin settings to default"
+msgstr "プラグイン設定をデフォルトにリセット"
+
+#: classes/Views/Settings.php:1321
+msgid "Reset Settings"
+msgstr "設定をリセット"
+
+#: classes/Views/Settings.php:1323
+msgid "RESET"
+msgstr "リセット"
+
+#: classes/Views/Settings.php:1329
+msgid "Purge the WordPress activity log"
+msgstr "WordPress アクティビティログをパージする"
+
+#: classes/Views/Settings.php:1336
+msgid "PURGE"
+msgstr "パージ"
+
+#: classes/Views/Settings.php:1389
+msgid "Do you want to delete the plugin data from the database upon uninstall?"
+msgstr "アンインストール時に、データベースからプラグインデータを削除しますか ?"
+
+#: classes/Views/Settings.php:1334
+msgid "Purge Activity Log"
+msgstr "アクティビティログをパージ"
+
+#: classes/Views/Settings.php:1205
+msgid "WordPress has the post and page post types by default though your website might use more post types (custom post types). You can exclude all post types, including the default WordPress ones."
+msgstr "WordPress には、デフォルトで投稿タイプとページ投稿タイプがありますが、サイトではもっと多くの投稿タイプ (カスタム投稿タイプ) を使用しているかもしれません。WordPress のデフォルトの投稿タイプを含め、すべての投稿タイプを除外することができます。"
+
+#: classes/Views/Settings.php:1330
+msgid "Click the Purge button below to delete all the data from the WordPress activity log and start afresh."
+msgstr "下の [削除] ボタンをクリックして、WordPress アクティビティログからすべてのデータを削除し、新たに開始します。"
+
+#: classes/Views/Settings.php:1189
+msgid "Exclude Post Type:"
+msgstr "投稿の種類を除外:"
+
+#: classes/Views/Settings.php:1121
+msgid "By default the plugin keeps a log of all user changes done on your WordPress website. Use the setting below to exclude any objects from the activity log. When an object is excluded from the activity log, any event in which that object is referred will not be logged in the activity log."
+msgstr "デフォルトでは、プラグインは、WordPress のウェブサイト上で行われたすべてのユーザーの変更のログを保持します。以下の設定を使用して、アクティビティログからオブジェクトを除外します。オブジェクトがアクティビティログから除外されると、そのオブジェクトが参照されるイベントはアクティビティログに記録されません。"
+
+#: classes/Views/Settings.php:1029
+msgid "WordPress does a lot of things in the background that you do not necessarily need to know about, such as; deletion of post revisions, deletion of auto saved drafts etc. By default the plugin does not report them since there might be a lot and are irrelevant to the user."
+msgstr "WordPress は、バックグラウンドで、必ずしも知る必要がない多くのことを行います。投稿の削除、自動保存された下書きの削除などデフォルトでは、プラグインは、多くがあり、ユーザーには無関係であるため、それらを報告しません。"
+
+#: classes/Views/Settings.php:1027
+msgid "Do you want to keep a log of WordPress background activity?"
+msgstr "あなたは WordPress の背景活動のログを保持したいですか?"
+
+#: classes/Views/Settings.php:996
+msgid "Usernames might not be the same as a user's first and last name so it can be difficult to recognize whose user was that did a change. When there is no first & last name or public display name configured the plugin will revert back to the WordPress username."
+msgstr "ユーザー名はユーザーの姓と同じ名前ではないため、変更を行ったユーザーを認識するのは困難です。名と名またはパブリック表示名が設定されていない場合、プラグインは WordPress のユーザー名に戻ります。"
+
+#: classes/Views/Settings.php:1006
+msgid "WordPress username"
+msgstr "WordPress ユーザー名"
+
+#: classes/Views/Settings.php:1016
+msgid "Configured public display name"
+msgstr "構成済みのパブリック表示名"
+
+#: classes/Views/Settings.php:813
+msgid "Use another email address"
+msgstr "別のメールアドレスを使用する"
+
+#: classes/Views/Settings.php:836
+msgid "Do you want to hide the plugin from the list of installed plugins?"
+msgstr "インストールされているプラグインのリストからプラグインを非表示にしますか?"
+
+#: classes/Views/Settings.php:851
+msgid "No, do not hide the plugin"
+msgstr "いいえ、プラグインを非表示にしないでください"
+
+#: classes/Views/Settings.php:918
+msgid "The plugin uses an efficient way to store the activity log data in the WordPress database, though the more data you keep the more disk space will be required. "
+msgstr "プラグインは、より多くのディスク領域を維持するより多くのデータが必要になりますが、WordPress データベースにアクティビティログデータを格納するための効率的な方法を使用しています。 "
+
+#: classes/Views/Settings.php:941
+msgid "Note that the WordPress' timezone might be different from that configured on the server so when you switch from UTC to WordPress timezone or vice versa you might notice a big difference."
+msgstr "WordPress のタイムゾーンはサーバー上で設定されているタイムゾーンと異なる場合があるため、UTC から WordPress タイムゾーンに切り替えた場合、またはその逆では大きな違いに気付くかもしれません。"
+
+#: classes/Views/Settings.php:1837
+msgid "Keep all data"
+msgstr "すべてのデータを保持する"
+
+#: classes/Views/Settings.php:1855
+msgid "Years"
+msgstr "年"
+
+#: classes/Views/Settings.php:1898
+msgid "You can run the purging process now by clicking the button below."
+msgstr "下のボタンをクリックすると、パージ処理を実行できます。"
+
+#: classes/Views/Settings.php:1914
+msgid "Purge Old Data"
+msgstr "古いデータを消去"
+
+#: classes/Views/Settings.php:971
+msgid "Timezone configured on this WordPress website"
+msgstr "この WordPress サイト上で設定されたタイムゾーン"
+
+#: classes/Views/Settings.php:940
+msgid "What timestamp you would like to see in the WordPress activity log?"
+msgstr "WordPress のアクティビティログに表示させたいタイムスタンプは ?"
+
+#: classes/Views/Settings.php:798
+msgid "By default when the plugin sends an email notification it uses the email address specified in this website’s general settings. Though you can change the email address and display name from this section."
+msgstr "デフォルトでは、プラグインがメール通知を送信すると、このサイトの一般設定で指定されたメールアドレスが使用されます。一方、このセクションからメールアドレスと表示名を変更することができます。"
+
+#: classes/Views/Settings.php:1891
+msgid "The next scheduled purging of activity log data that is older than "
+msgstr "次にスケジュールされた、次の以前のアクティビティログデータの削除 "
+
+#: classes/Views/Settings.php:808
+msgid "Use the email address from the WordPress general settings"
+msgstr "WordPress の一般的な設定からメールアドレスを使用します"
+
+#: classes/Views/Settings.php:995
+msgid "What user information should be displayed in the WordPress activity log?"
+msgstr "WordPress アクティビティログに表示するユーザー情報"
+
+#: classes/Views/Settings.php:915
+msgid "For how long do you want to keep the activity log events (Retention settings)?"
+msgstr "アクティビティログイベント (保存設定) を保持する期間を指定します。"
+
+#: classes/Views/Settings.php:771
+msgid "Specify the username or the users which do not have an admin role but can also see the WordPress activity role. You can also specify roles."
+msgstr "ユーザー名または管理者ロールを持たないが、WordPress アクティビティロールを表示できるユーザーを指定します。ロールを指定することもできます。"
+
+#: classes/Views/Settings.php:797
+msgid "Which email address should the plugin use as a from address?"
+msgstr "プラグインはどのメールアドレスを from アドレスとして使用しますか?"
+
+#: classes/Views/Settings.php:630 classes/Views/Settings.php:676
+#: classes/Views/Settings.php:724
+msgid "learn more"
+msgstr "詳細を読む"
+
+#: classes/Views/Settings.php:647
+msgid "Filter internal IP addresses from the proxy headers. Enable this option only if you are\tare still seeing the internal IP addresses of the firewall or proxy."
+msgstr "プロキシ ヘッダーから内部 IP アドレスをフィルター処理します。ファイアウォールまたはプロキシの内部 IP アドレスがまだ表示されている場合にのみ、このオプションを有効にします。"
+
+#: classes/Views/Settings.php:663
+msgid "Who can change the plugin settings?"
+msgstr "プラグインの設定を変更できるユーザー"
+
+#: classes/Views/Settings.php:691 classes/Views/Settings.php:739
+msgid "Only me"
+msgstr "自分のみ"
+
+#: classes/Views/Settings.php:700
+msgid "All administrators"
+msgstr "すべての管理者"
+
+#: classes/Views/Settings.php:713
+msgid "Allow other users to view the activity log"
+msgstr "他のユーザーにアクティビティログの表示を許可"
+
+#. translators: Learn more link.
+#: classes/Views/Settings.php:629
+msgid "If your website is running behind a firewall set this option to yes so the plugin retrieves the end user’s IP address from the proxy header - %s."
+msgstr "サイトがファイアウォールの背後で実行されている場合は、このオプションを yes に設定して、プラグインがプロキシヘッダーからエンドユーザーの IP アドレスを取得します - %s。"
+
+#. translators: Event ID
+#: classes/Controllers/class-alert-manager.php:580
+msgid "Event with code %d has not be registered."
+msgstr "コード %d が登録されていないイベント。"
+
+#: classes/Controllers/class-alert-manager.php:1325
+msgid "Activity log"
+msgstr "アクティビティログ"
+
+#: classes/Controllers/class-constants.php:95
+#: classes/Controllers/class-constants.php:123
+msgid "Critical"
+msgstr "重大"
+
+#: classes/Controllers/class-constants.php:109
+msgid "Notification"
+msgstr "通知"
+
+#: classes/Views/AuditLog.php:461 classes/Views/class-setup-wizard.php:608
+#: classes/Views/Settings.php:489 classes/Views/Settings.php:516
+#: classes/Views/Settings.php:582 classes/Views/Settings.php:642
+#: classes/Views/Settings.php:1039 classes/Views/Settings.php:1354
+#: classes/Views/Settings.php:1401 classes/Views/Settings.php:1422
+#: classes/Views/Settings.php:1432
+msgid "Yes"
+msgstr "はい"
+
+#: classes/Views/class-setup-wizard.php:101 classes/Views/Settings.php:227
+#: classes/Views/Settings.php:1778 classes/Views/Settings.php:1800
+msgid "Access Denied."
+msgstr "アクセスが拒否されました。"
+
+#: classes/Views/class-setup-wizard.php:124 classes/Views/Settings.php:252
+msgid "Invalid input."
+msgstr "入力値が不正です。"
+
+#: classes/Views/Settings.php:483
+msgid "Dashboard Widget"
+msgstr "ダッシュボードウィジェット"
+
+#: classes/Views/Settings.php:128
+msgid "Advanced settings"
+msgstr "高度な設定"
+
+#: classes/Views/Settings.php:215
+msgid "Unknown settings tab."
+msgstr "未知の設定タブ。"
+
+#: classes/Views/Settings.php:558
+msgid "Add user notification on the WordPress login page"
+msgstr "WordPress のログインページでユーザー通知を追加"
+
+#: classes/Views/Settings.php:624
+msgid "Is your website running behind a firewall or reverse proxy?"
+msgstr "ウェブサイトはファイアウォールまたはリバースプロキシの内側で動作していますか?"
+
+#: classes/Views/ToggleAlerts.php:421
+msgid "Your website is a single site so the multisite events have been disabled."
+msgstr "ウェブサイトが単一サイトのため、マルチサイトイベントは無効になっています。"
+
+#: classes/Views/Help.php:89 classes/Views/Help.php:284
+msgid "System Info"
+msgstr "システム情報"
+
+#: classes/Controllers/class-cron-jobs.php:203
+msgid "Every 45 minutes"
+msgstr "45分ごと"
+
+#: classes/Controllers/class-cron-jobs.php:207
+msgid "Every 30 minutes"
+msgstr "30分ごと"
+
+#: classes/Controllers/class-cron-jobs.php:215
+msgid "Every 10 minutes"
+msgstr "10分毎"
+
+#: classes/Controllers/class-cron-jobs.php:219
+msgid "Every 5 minutes"
+msgstr "5分ごと"
+
+#: classes/Controllers/class-alert-manager.php:1253
+#: classes/WPSensors/class-gravity-forms-sensor.php:862
+msgid "Enabled"
+msgstr "有効"
+
+#: classes/Controllers/class-alert-manager.php:1254
+#: classes/WPSensors/class-gravity-forms-sensor.php:861
+msgid "Disabled"
+msgstr "無効"
+
+#: defaults.php:3300
+msgid "File Changes"
+msgstr "ファイルの変更"
+
+#: classes/Views/ToggleAlerts.php:558
+msgid "Enable File Integrity Scanner"
+msgstr "ファイル整合性スキャナーを有効にする"
+
+#: classes/Views/ToggleAlerts.php:560
+msgid "The file integrity scanner is switched off. To enable this event it has to be switched on."
+msgstr "ファイル整合性スキャナの電源がオフになります。このイベントを有効にするには、オンにする必要があります。"
+
+#: classes/Views/ToggleAlerts.php:564
+msgid "SWITCH ON"
+msgstr "スイッチオン"
+
+#: classes/Views/ToggleAlerts.php:565
+msgid "DISABLE EVENT"
+msgstr "イベントを無効にする"
+
+#: classes/Helpers/class-widget-manager.php:62
+msgid "Latest Events"
+msgstr "最新イベント"
+
+#: classes/Views/AuditLog.php:462 classes/Views/class-setup-wizard.php:613
+#: classes/Views/Settings.php:494 classes/Views/Settings.php:521
+#: classes/Views/Settings.php:614 classes/Views/Settings.php:652
+#: classes/Views/Settings.php:1044 classes/Views/Settings.php:1361
+#: classes/Views/Settings.php:1408 classes/Views/Settings.php:1423
+#: classes/Views/Settings.php:1433
+msgid "No"
+msgstr "いいえ"
+
+#: classes/Views/AuditLog.php:662
+msgid "Freemius opt choice selected."
+msgstr "Freemius opt を選択。"
+
+#: classes/Views/AuditLog.php:669
+msgid "Freemius opt choice not found."
+msgstr "Freemius opt が見つかりません。"
+
+#: classes/Views/AuditLog.php:858
+msgid "WordPress Activity Log"
+msgstr "WordPress Activity Log"
+
+#: classes/Views/AuditLog.php:859
+msgid "When a user makes a change on your website the plugin will keep a record of that event here. Right now there is nothing because this is a new install."
+msgstr "ユーザーがあなたのサイト上で変更を加えると、プラグインはそのイベントの記録をここに残します。今のところ、新規インストールのため何もありません。"
+
+#: classes/Views/Settings.php:608
+msgid "<strong>Note: </strong>"
+msgstr "<strong>注意: </strong>"
+
+#: classes/Views/Settings.php:559
+msgid "Many compliance regulations (such as the GDPR) require website administrators to tell the users of their website that all the changes they do when logged in are being logged."
+msgstr "多くのコンプライアンス規制 (GDPR など) では、ログイン時に行ったすべての変更がログに記録されていることをサイト管理者に伝える必要があります。"
+
+#: classes/Views/Settings.php:608
+msgid "The only HTML code allowed in the login page notification is for links ( < a href >< /a > )."
+msgstr "ログインページの通知で許可される HTML コードは、リンク ( < a href >< /a > ) に対してのみ許可されます。"
+
+#: classes/ListAdminEvents/class-list-events.php:799
+msgid "View all details of this change"
+msgstr "この変更のすべての詳細を表示"
+
+#: classes/Views/Settings.php:1783 classes/Views/Settings.php:1805
+msgid "Nonce Verification Failed."
+msgstr "Nonce 認証に失敗しました。"
+
+#: classes/Views/AuditLog.php:597
+msgid "No users found."
+msgstr "ユーザーが見つかりませんでした。"
+
+#: classes/AlertFormatter.php:221
+msgid "Download the log file."
+msgstr "ログファイルをダウンロードします。"
+
+#: defaults.php:1123
+msgid "Visitor posted a comment"
+msgstr "訪問者はコメントを投稿しました"
+
+#: classes/AlertFormatter.php:229
+msgid "published"
+msgstr "掲載"
+
+#: classes/ListAdminEvents/class-list-events.php:285
+#: classes/Views/ToggleAlerts.php:330 classes/Views/ToggleAlerts.php:355
+msgid "Severity"
+msgstr "重大度"
+
+#: defaults.php:313
+msgid "Content"
+msgstr "コンテンツ"
+
+#: defaults.php:401
+msgid "User changed post URL"
+msgstr "ユーザーが投稿 URL を変更しました"
+
+#: defaults.php:534
+msgid "User modified the content of a post"
+msgstr "ユーザーは投稿のコンテンツを変更しました"
+
+#: defaults.php:695
+msgid "User added post tag"
+msgstr "ユーザーが投稿タグを追加しました"
+
+#: defaults.php:710
+msgid "User removed post tag"
+msgstr "ユーザーが投稿タグを削除しました"
+
+#: defaults.php:738
+msgid "Deleted the tag %TagName%."
+msgstr "タグ %TagName% を削除しました。"
+
+#: defaults.php:331
+msgid "User published a post"
+msgstr "ユーザーが投稿を公開しました"
+
+#: defaults.php:830
+msgid "Changed the parent of a category"
+msgstr "親カテゴリを変更しました"
+
+#: defaults.php:345
+msgid "User modified a post"
+msgstr "ユーザーが投稿を修正しました"
+
+#: classes/class-wp-security-audit-log.php:1127
+msgid "For security and auditing purposes, a record of all of your logged-in actions and changes within the WordPress dashboard will be recorded in an activity log with the <a href=\"https://melapress.com/\" target=\"_blank\">WP Activity Log plugin</a>. The audit log also includes the IP address where you accessed this site from."
+msgstr "セキュリティと監査を目的として、WordPressのダッシュボード内でのすべてのログイン操作と変更の記録は、<a href=\"https://melapress.com/\" target=\"_blank\">WP Activity Log プラグイン</a>を使ってアクティビティログに記録されます。監査ログには、お客様がこのサイトにアクセスしたIPアドレスも含まれます。"
+
+#: classes/class-wp-security-audit-log.php:588
+#: classes/class-wp-security-audit-log.php:623
+msgid "NO ACTIVITY LOG ACTIVITY & DATA IS SENT BACK TO OUR SERVERS."
+msgstr "アクティビティログのアクティビティとデータは当社のサーバーに送信されません。"
+
+#: classes/class-wp-security-audit-log.php:787
+msgid "Error: You do not have sufficient permissions to disable this custom field."
+msgstr "エラー: このカスタムフィールドを無効にするための十分なアクセス許可がありません。"
+
+#: classes/class-wp-security-audit-log.php:855
+msgid "Error: You do not have sufficient permissions to disable this alert."
+msgstr "エラー: このアラートを無効にするための十分なアクセス許可がありません。"
+
+#. Translators: %s: PHP Version
+#: classes/class-wp-security-audit-log.php:969
+msgid "You are using a version of PHP that is older than %s, which is no longer supported."
+msgstr "%s より古いバージョンの PHP を使用していますが、これはサポートされていません。"
+
+#. translators: 1: Plugin name. 2: Plugin name. 2: Freemius link. 4: Plugin
+#. name.
+#: classes/class-wp-security-audit-log.php:616
+msgid "Please help us improve %1$s! If you opt-in, some non-sensitive data about your usage of %2$s will be sent to %3$s, a diagnostic tracking service we use. If you skip this, that's okay! %2$s will still work just fine."
+msgstr "%1$s を改善するのに役立ちます! オプトインした場合、%2$sの使用状況に関する機密以外のデータが、当社が使用する診断追跡サービスである%3$sに送信されます。これをスキップすれば大丈夫です! %2$s はまだうまくいくでしょう。"
+
+#: classes/Views/Help.php:217
+msgid "For more technical information about the WP Activity Log plugin please visit the plugin’s knowledge base."
+msgstr "WP Activity Log プラグインの詳細な技術情報については、プラグインのナレッジベースをご覧ください。"
+
+#: classes/Views/Help.php:221
+msgid "Knowledge Base"
+msgstr "ナレッジベース"
+
+#: classes/Views/Help.php:228
+msgid "We work really hard to deliver a plugin that enables you to keep a record of all the changes that are happening on your WordPress."
+msgstr "私たちは、あなたの WordPress で起こっているすべての変更の記録を保持することを可能にするプラグインを提供するために本当に懸命に働きます。"
+
+#: classes/Views/Help.php:229
+msgid "It takes thousands of man-hours every year and endless amount of dedication to research, develop and maintain the free edition of WP Activity Log."
+msgstr "毎年何千もの工数が必要であり、WP アクティビティログの無料版を研究、開発、維持するための無限の献身が必要です。"
+
+#: classes/Views/Help.php:230
+msgid "Therefore if you like what you see, and find WP Activity Log useful we ask you nothing more than to please rate our plugin."
+msgstr "あなたが見るものが好きで、WP Activity Log が役に立つと思うなら、私たちはあなたに私たちのプラグインを評価していただく以外に何も頼みません。"
+
+#: classes/Views/LogInUsers.php:57
+msgid "When they logged in and from where"
+msgstr "彼らがログインしたときとどこから"
+
+#: classes/Views/Settings.php:1854
+msgid "Months"
+msgstr "月"
+
+#: defaults.php:1595
+msgid "Modified the content of the published page %PostTitle%. Page URL is %PostUrl%. %RevisionLink% %EditorLinkPage%."
+msgstr "公開されたページ %PostTitle% の内容を変更しました。ページの URL は %PostUrl% です。%RevisionLink% %EditorLinkPage%。"
+
+#: defaults.php:2993
+msgid "Option WordPress Address (URL) in WordPress settings changed"
+msgstr "WordPress の設定内のオプション WordPress アドレス(URL) が変更されました"
+
+#: defaults.php:3005
+msgid "Option Site Address (URL) in WordPress settings changed"
+msgstr "WordPress の設定内のオプションサイトアドレス (URL) を変更しました"
+
+#: classes/class-wp-security-audit-log.php:587
+#: classes/class-wp-security-audit-log.php:622
+msgid "Note: "
+msgstr "注: "
+
+#: classes/Views/Help.php:241
+msgid "Rate Plugin"
+msgstr "プラグインを評価"
+
+#: classes/Views/Settings.php:563
+msgid "Login Page Notification"
+msgstr "ログインページ通知"
+
+#: classes/Views/Help.php:231
+msgid "We appreciate every star!"
+msgstr "すべてのスターに感謝します。"
+
+#: classes/Views/Help.php:218
+msgid "Refer to the list of WordPress security events for a complete list of Events and IDs that the plugin uses to keep a log of all the changes in the WordPress activity log."
+msgstr "WordPress のアクティビティログのすべての変更のログを保持するためにプラグインが使用するイベントと ID の完全なリストについては、WordPress のセキュリティイベントの一覧を参照してください。"
+
+#: classes/class-wp-security-audit-log.php:586
+msgid "Never miss an important update! Opt-in to our security and feature updates notifications, and non-sensitive diagnostic tracking with freemius.com."
+msgstr "重要なアップデートを見逃すことはありません! 当社のセキュリティと機能の更新通知、および freemius.com を使用した非機密診断の追跡にオプトインします。"
+
+#: classes/Views/Help.php:200
+msgid "Getting started with WP Activity Log is really easy; once the plugin is installed it will automatically keep a log of everything that is happening on your website and you do not need to do anything. Watch the video below for a quick overview of the plugin."
+msgstr "WP Activity Log の使用方法は簡単です。プラグインがインストールされると、自動的にサイト上で起こっているすべてのログを保持し、何もする必要はありません。プラグインの概要については、以下のビデオをご覧ください。"
+
+#: classes/Views/AuditLog.php:573 classes/Views/AuditLog.php:581
+#: classes/Views/AuditLog.php:622 classes/Views/AuditLog.php:924
+#: classes/Views/class-setup-wizard.php:114 classes/Views/Settings.php:242
+#: classes/Views/Settings.php:1768
+msgid "Nonce verification failed."
+msgstr "Nonce 認証に失敗しました。"
+
+#: classes/Views/Help.php:199
+msgid "Getting Started"
+msgstr "はじめてみよう"
+
+#: classes/Views/addons/html-view.php:97
+msgid "Screenshots"
+msgstr "スクリーンショット"
+
+#: defaults.php:749
+msgid "Renamed the tag %old_name% to %new_name%."
+msgstr "タグの名前を %old_name% から %new_name% へ変更しました。"
+
+#: defaults.php:761
+msgid "User changed tag slug"
+msgstr "ユーザーがタグのスラッグを変更しました"
+
+#: defaults.php:773
+msgid "User changed tag description"
+msgstr "ユーザーがタグ説明を変更しました"
+
+#: defaults.php:774
+msgid "Changed the description of the tag %tag%."
+msgstr "タグ %tag% の説明を変更。"
+
+#: defaults.php:1860
+msgid "User changed last name for a user"
+msgstr "ユーザーがユーザーの姓が変更しました"
+
+#: defaults.php:1874
+msgid "User changed nickname for a user"
+msgstr "ユーザーがユーザーのニックネームが変更しました"
+
+#: defaults.php:1889
+msgid "User changed the display name for a user"
+msgstr "ユーザーがユーザーの表示名を変更しました"
+
+#: defaults.php:1846
+msgid "User changed first name for a user"
+msgstr "ユーザーがユーザー名を変更しました"
+
+#: defaults.php:725
+msgid "User created new tag"
+msgstr "ユーザーが新しいタグを作成しました"
+
+#: defaults.php:737
+msgid "User deleted tag"
+msgstr "ユーザーがタグを削除しました"
+
+#: classes/Controllers/class-alert-manager.php:1328
+msgid "IP Address"
+msgstr "IPアドレス"
+
+#: defaults.php:866
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+#: defaults.php:1831
+msgid "User created a custom field value for a user"
+msgstr "ユーザーがユーザーのカスタムフィールド値を作成しました"
+
+#: classes/ListAdminEvents/class-list-events.php:748
+#: classes/ListAdminEvents/class-list-events.php:759
+msgid "Show me all activity originating from this IP Address"
+msgstr "この IP アドレスから発信されたすべてのアクティビティを表示"
+
+#: classes/Views/Settings.php:1011
+msgid "First name & last name"
+msgstr "名,姓"
+
+#: defaults.php:360
+msgid "Permanently deleted the post %PostTitle%."
+msgstr "投稿 %PostTitle% を完全に削除しました。"
+
+#: defaults.php:1523
+msgid "Permanently deleted the page %PostTitle%."
+msgstr "ページ %PostTitle% を完全に削除しました。"
+
+#: defaults.php:1815
+msgid "User updated a custom field value for a user"
+msgstr "ユーザーのカスタムフィールド値を更新しました"
+
+#: defaults.php:240
+msgid "User session destroyed and logged out"
+msgstr "ユーザー セッションが破棄され、ログアウトしました"
+
+#: classes/Views/ToggleAlerts.php:381 defaults.php:1309
+msgid "Custom Post Types"
+msgstr "カスタム投稿タイプ"
+
+#: defaults.php:230
+msgid "User logged out all other sessions with the same username"
+msgstr "ユーザーは同じユーザー名で他のすべてのセッションをログアウトしました"
+
+#: defaults.php:231
+msgid "Logged out all other sessions with the same user."
+msgstr "同じユーザーで他のすべてのセッションをログアウト。"
+
+#: defaults.php:312
+msgid "Content & Comments"
+msgstr "コンテンツとコメント"
+
+#: defaults.php:632
+msgid "User enabled/disabled trackbacks and pingbacks in a post"
+msgstr "ユーザーが投稿内のトラックバックと pingback を有効/無効にしました"
+
+#: defaults.php:1630
+msgid "User disabled Comments/Trackbacks and Pingbacks on a draft post"
+msgstr "ユーザーが下書き投稿でコメント / トラックバックと Pingback を無効にしました"
+
+#: defaults.php:1631
+msgid "Disabled %Type% on the draft post %PostTitle%. View the post: %PostUrl%."
+msgstr "下書き投稿 %PostTitle% で %Type% を無効にしました。投稿を表示: %PostUrl%。"
+
+#: defaults.php:1636
+msgid "User enabled Comments/Trackbacks and Pingbacks on a draft post"
+msgstr "ユーザーが下書き投稿でコメント / トラックバックと Pingback を有効にしました"
+
+#: defaults.php:1637
+msgid "Enabled %Type% on the draft post %PostTitle%. View the post: %PostUrl%."
+msgstr "下書き投稿 %PostTitle% で %Type% を有効にしました。投稿を表示: %PostUrl%。"
+
+#: defaults.php:1642
+msgid "User disabled Comments/Trackbacks and Pingbacks on a published page"
+msgstr "ユーザーが公開されたページでコメント / トラックバックと Pingback を無効にしました"
+
+#: defaults.php:1643
+msgid "Disabled %Type% on the published page %PostTitle%. View the page: %PostUrl%."
+msgstr "公開されたページ %PostTitle% で %Type% を無効にします。ページを表示: %PostUrl%。"
+
+#: defaults.php:1648
+msgid "User enabled Comments/Trackbacks and Pingbacks on a published page"
+msgstr "ユーザーが公開されたページでコメント/トラックバックと Pingback を有効にしました"
+
+#: defaults.php:1649
+msgid "Enabled %Type% on the published page %PostTitle%. View the page: %PostUrl%."
+msgstr "公開されたページ %PostTitle% で %Type% を有効にします。ページを表示: %PostUrl%。"
+
+#: defaults.php:1654
+msgid "User disabled Comments/Trackbacks and Pingbacks on a draft page"
+msgstr "ユーザーが下書きページでコメント / トラックバックと Pingback を無効にしました"
+
+#: defaults.php:1655
+msgid "Disabled %Type% on the draft page %PostTitle%. View the page: %PostUrl%."
+msgstr "下書きページ %PostTitle% で %Type% を無効にしました。ページを表示: %PostUrl%。"
+
+#: defaults.php:1660
+msgid "User enabled Comments/Trackbacks and Pingbacks on a draft page"
+msgstr "ユーザーが下書きページでコメント / トラックバックと Pingback を有効にしました"
+
+#: defaults.php:1661
+msgid "Enabled %Type% on the draft page %PostTitle%. View the page: %PostUrl%."
+msgstr "下書きページ %PostTitle% で %Type% を有効にしました。ページを表示: %PostUrl%。"
+
+#: defaults.php:2878
+msgid "Enabled/Disabled the option Discourage search engines from indexing this site"
+msgstr "検索エンジンがこのサイトのインデックス作成を阻止するのを有効/無効にするオプション"
+
+#: defaults.php:2909
+msgid "Enabled/Disabled the option Users must be logged in and registered to comment"
+msgstr "ユーザーはログインし、コメントに登録する必要があるオプションを 有効/無効 にします"
+
+#: defaults.php:2919
+msgid "Enabled/Disabled the option to automatically close comments"
+msgstr "コメントを自動的に閉じるオプションを有効/無効にする"
+
+#: defaults.php:2929
+msgid "Changed the value of the option Automatically close comments"
+msgstr "自動的にコメントを閉じる オプションの値を変更しました"
+
+#: defaults.php:2941
+msgid "Enabled/Disabled the option for comments to be manually approved"
+msgstr "コメントを手動で承認するオプションを有効/無効にする"
+
+#: defaults.php:2951
+msgid "Enabled/Disabled the option for an author to have previously approved comments for the comments to appear"
+msgstr "作成者が先にコメントを承認して表示するオプションを有効/無効にします"
+
+#: defaults.php:2961
+msgid "Changed the number of links that a comment must have to be held in the queue"
+msgstr "キューに保持する必要があるコメントのリンク数を変更しました"
+
+#: defaults.php:2973
+msgid "Modified the list of keywords for comments moderation"
+msgstr "コメントモデレーションのキーワードのリストを変更しました"
+
+#: defaults.php:2983
+msgid "Modified the list of keywords for comments blacklisting"
+msgstr "コメントブラックリストのキーワードのリストを変更しました"
+
+#: defaults.php:2888
+msgid "Enabled/Disabled comments on all the website"
+msgstr "すべてのウェブサイトのコメントの有効化 / 無効化"
+
+#: defaults.php:2899
+msgid "Enabled/Disabled the option Comment author must fill out name and email"
+msgstr "コメント作成者が名前とメールアドレスを入力するオプションを有効/無効にする "
+
+#: defaults.php:1801
+msgid "User opened the profile page of another user"
+msgstr "ユーザーが別のユーザーのプロフィールページを開きました"
+
+#: classes/WPSensors/Alerts/class-woocommerce-custom-alerts.php:44
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: classes/WPSensors/class-woocommerce-public-sensor.php:459
+#: classes/WPSensors/class-woocommerce-sensor.php:3371
+msgid "Out of stock"
+msgstr "在庫切れ"
+
+#: classes/WPSensors/class-woocommerce-public-sensor.php:457
+#: classes/WPSensors/class-woocommerce-sensor.php:3369
+msgid "In stock"
+msgstr "在庫あり"
+
+#: classes/ListAdminEvents/class-list-events.php:660
+msgid "Disable this type of events."
+msgstr "この種類のイベントを無効にします。"
+
+#: defaults.php:1481
+msgid "A plugin modified a custom post"
+msgstr "プラグインがカスタム投稿を変更しました"
+
+#: defaults.php:1482
+msgid "Plugin modified the custom post %PostTitle%. View the post: %EditorLinkPost%."
+msgstr "プラグインがカスタム投稿 %PostTitle% を変更しました。投稿を表示: %EditorLinkPost%。"
+
+#: defaults.php:1678
+msgid "A plugin modified a page"
+msgstr "プラグインがページを変更しました"
+
+#: defaults.php:1679
+msgid "Plugin modified the page %PostTitle%. View the page: %EditorLinkPage%."
+msgstr "プラグインはページ %PostTitle% を変更しました。ページを表示: %EditorLinkPage%。"
+
+#: defaults.php:604
+msgid "User viewed a post"
+msgstr "ユーザーが投稿を表示しました"
+
+#: defaults.php:1458
+msgid "Opened the custom post %PostTitle% of type %PostType% in the editor. View the post: %EditorLinkPost%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% をエディターを開きました。投稿を表示: %EditorLinkPost%。"
+
+#: defaults.php:1463
+msgid "User viewed a custom post type"
+msgstr "ユーザーがカスタム投稿タイプを表示しました"
+
+#: defaults.php:1464
+msgid "Viewed the custom post %PostTitle% of type %PostType%. View the post: %PostUrl%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% を表示しました。投稿を表示: %PostUrl%。"
+
+#: defaults.php:1619
+msgid "Opened the page %PostTitle% in the editor. View the page: %EditorLinkPage%."
+msgstr "ページ %PostTitle% をエディターを開きました。ページを表示: %EditorLinkPage%。"
+
+#: defaults.php:1624
+msgid "User viewed a page"
+msgstr "ユーザーがページを表示しました"
+
+#: defaults.php:1625
+msgid "Viewed the page %PostTitle%. View the page: %PostUrl%."
+msgstr "ページ %PostTitle% を表示しました。ページを表示: %PostUrl%。"
+
+#: defaults.php:1457
+msgid "User opened a custom post type in the editor"
+msgstr "ユーザーがエディターでカスタム投稿タイプを開きました"
+
+#: defaults.php:1618
+msgid "User opened a page in the editor"
+msgstr "ユーザーがエディターでページを開きました"
+
+#: defaults.php:590
+msgid "User opened a post in the editor"
+msgstr "ユーザーがエディターで投稿を開きました"
+
+#: classes/Views/Settings.php:101
+msgid "General"
+msgstr "一般"
+
+#: classes/Views/Settings.php:121
+msgid "Exclude objects"
+msgstr "除外オブジェクト"
+
+#: defaults.php:965
+msgid "Comments"
+msgstr "コメント"
+
+#: defaults.php:969
+msgid "User approved a comment"
+msgstr "ユーザーがコメントを承認しました"
+
+#: defaults.php:999
+msgid "User replied to a comment"
+msgstr "ユーザーがコメントに返信しました"
+
+#: defaults.php:1014
+msgid "User edited a comment"
+msgstr "ユーザーがコメントを編集しました"
+
+#: defaults.php:1029
+msgid "User marked a comment as Spam"
+msgstr "ユーザーはコメントをスパムとしてマークしました"
+
+#: defaults.php:1044
+msgid "User marked a comment as Not Spam"
+msgstr "ユーザーはコメントをスパムではないとマークしました"
+
+#: defaults.php:1059
+msgid "User moved a comment to trash"
+msgstr "ユーザーがコメントをゴミ箱に移動しました"
+
+#: defaults.php:1089
+msgid "User permanently deleted a comment"
+msgstr "ユーザーがコメントを完全に削除しました"
+
+#: defaults.php:1104
+msgid "User posted a comment"
+msgstr "ユーザーがコメントを投稿しました"
+
+#: defaults.php:1469
+msgid "A plugin created a custom post"
+msgstr "プラグインがカスタム投稿を作成しました"
+
+#: defaults.php:1470
+msgid "A plugin automatically created the following custom post: %PostTitle%."
+msgstr "プラグインが次のカスタム投稿を自動的に作成しました: %PostTitle%。"
+
+#: defaults.php:1475
+msgid "A plugin deleted a custom post"
+msgstr "プラグインがカスタム投稿を削除しました"
+
+#: defaults.php:1476
+msgid "A plugin automatically deleted the following custom post: %PostTitle%."
+msgstr "プラグインが次のカスタム投稿を自動的に削除しました: %PostTitle%。"
+
+#: defaults.php:1666
+msgid "A plugin created a page"
+msgstr "プラグインがページを作成しました"
+
+#: defaults.php:1667
+msgid "A plugin automatically created the following page: %PostTitle%."
+msgstr "プラグインは自動的に次のページを作成しました: %PostTitle%。"
+
+#: defaults.php:1672
+msgid "A plugin deleted a page"
+msgstr "プラグインがページを削除しました"
+
+#: defaults.php:1673
+msgid "A plugin automatically deleted the following page: %PostTitle%."
+msgstr "プラグインが次のページを自動的に削除しました: %PostTitle%。"
+
+#: defaults.php:2161
+msgid "A plugin created a post"
+msgstr "プラグインが投稿を作成しました"
+
+#: defaults.php:2176
+msgid "A plugin deleted a post"
+msgstr "プラグインが投稿を削除しました"
+
+#: defaults.php:2270
+msgid "User updated a theme"
+msgstr "ユーザーがテーマを更新しました"
+
+#: defaults.php:2384
+msgid "%PromoName% %PromoMessage%"
+msgstr "%PromoName% %PromoMessage%"
+
+#: defaults.php:1074
+msgid "User restored a comment from the trash"
+msgstr "ユーザーがゴミ箱からコメントを復元しました"
+
+#: defaults.php:984
+msgid "User unapproved a comment"
+msgstr "ユーザーがコメントを未承認にしました"
+
+#: defaults.php:1289
+msgid "User moved objects as a sub-item"
+msgstr "ユーザーがオブジェクトをサブアイテムとして移動しました"
+
+#: classes/Views/Settings.php:817
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: defaults.php:165
+msgid "User logged in"
+msgstr "ユーザーログイン"
+
+#: classes/Views/Settings.php:802
+msgid "From Email & Name"
+msgstr "メールと名前から"
+
+#: classes/Views/Settings.php:822
+msgid "Display Name"
+msgstr "表示名"
+
+#: defaults.php:175
+msgid "User logged out"
+msgstr "ユーザーがログアウトしました"
+
+#: defaults.php:1314
+msgid "Modified the draft post with the %PostTitle%. %EditorLinkPost%."
+msgstr "%PostTitle% の下書き投稿を修正しました。%EditorLinkPost%。"
+
+#: defaults.php:1326
+msgid "Published a custom post %PostTitle% of type %PostType%. Post URL is %PostUrl%. %EditorLinkPost%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% を公開しました。投稿 URL は %PostUrl% です。%EditorLinkPost%。"
+
+#: defaults.php:1332
+msgid "Modified the custom post %PostTitle% of type %PostType%. Post URL is %PostUrl%. %EditorLinkPost%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% を変更しました。投稿 URL は %PostUrl% です。%EditorLinkPost%。"
+
+#: defaults.php:1338
+msgid "Modified the draft custom post %PostTitle% of type is %PostType%. %EditorLinkPost%."
+msgstr "タイプ %PostType% の下書きのカスタム投稿 %PostTitle% を変更しました。%EditorLinkPost%。"
+
+#: defaults.php:1350
+msgid "Moved the custom post %PostTitle% of type %PostType% to trash. Post URL was %PostUrl%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% をゴミ箱を移動しました。投稿 URL は %PostUrl% でした。"
+
+#: defaults.php:1368
+msgid "Changed the URL of the custom post %PostTitle% of type %PostType% from %OldUrl% to %NewUrl%. %EditorLinkPost%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% の URL を %OldUrl% から %NewUrl% へ変更しました。%EditorLinkPost%。"
+
+#: defaults.php:1392
+msgid "Changed the date of the custom post %PostTitle% of type %PostType% from %OldDate% to %NewDate%. %EditorLinkPost%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% の日付を %OldDate% から %NewDate% へ変更しました。%EditorLinkPost%。"
+
+#: defaults.php:1452
+msgid "Changed the title of the custom post %OldTitle% to %NewTitle%. %EditorLinkPost%."
+msgstr "カスタム投稿のタイトルの %OldTitle% を %NewTitle% に変更しました。%EditorLinkPost%。"
+
+#: defaults.php:1499
+msgid "Created a new page called %PostTitle% and saved it as draft. %EditorLinkPage%."
+msgstr "%PostTitlend% という名前の新しいページを作成し下書きとして保存しました。%EditorLinkPage%。"
+
+#: defaults.php:1505
+msgid "Published a page called %PostTitle%. Page URL is %PostUrl%. %EditorLinkPage%."
+msgstr "%PostTitle% というページを公開しました。ページの URL は %PostUrl% です。%EditorLinkPage%。"
+
+#: defaults.php:1511
+msgid "Modified the published page %PostTitle%. Page URL is %PostUrl%. %EditorLinkPage%."
+msgstr "発行されたページ %PostTitle% を変更しました。ページの URL は %PostUrl% です。%EditorLinkPage%。"
+
+#: defaults.php:1517
+msgid "Modified the draft page %PostTitle%. Page ID is %PostID%. %EditorLinkPage%."
+msgstr "下書きページ %PostTitle% を変更しました。ページ ID は %PostID% です。%EditorLinkPage%。"
+
+#: defaults.php:1541
+msgid "Changed the URL of the page %PostTitle% from %OldUrl% to %NewUrl%. %EditorLinkPage%."
+msgstr "ページ %PostTitle% の URL を %OldUrl% から %NewUrl% へ変更しました。%EditorLinkPage%。"
+
+#: defaults.php:1547
+msgid "Changed the author of the page %PostTitle% from %OldAuthor% to %NewAuthor%. %EditorLinkPage%."
+msgstr "ページ %PostTitle% の作成者を %OldAuthor% から %NewAuthor% へ変更しました。%EditorLinkPage%。"
+
+#: defaults.php:1553
+msgid "Changed the status of the page %PostTitle% from %OldStatus% to %NewStatus%. %EditorLinkPage%."
+msgstr "ページ %PostTitle% のステータスを %OldStatus% から %NewStatus% へ変更しました。%EditorLinkPage%。"
+
+#: defaults.php:1559
+msgid "Changed the visibility of the page %PostTitle% from %OldVisibility% to %NewVisibility%. %EditorLinkPage%."
+msgstr "ページ %PostTitle% の可視性を %OldVisibility% から %NewVisibility% へ変更しました。%EditorLinkPage%。"
+
+#: defaults.php:1565
+msgid "Changed the date of the page %PostTitle% from %OldDate% to %NewDate%. %EditorLinkPage%."
+msgstr "ページ %PostTitle% の日付を %OldDate% から %NewDate% へ変更しました。%EditorLinkPage%。"
+
+#: defaults.php:1613
+msgid "Changed the title of the page %OldTitle% to %NewTitle%. %EditorLinkPage%."
+msgstr "ページのタイトル %OldTitle% を %NewTitle% に変更しました。%EditorLinkPage%。"
+
+#: defaults.php:1607
+msgid "Scheduled the page %PostTitle% to be published %PublishingDate%. %EditorLinkPage%."
+msgstr "固定ページ「%PostTitle%」を%PublishingDate%に公開予約しました。%EditorLinkPage%。"
+
+#: defaults.php:1446
+msgid "Scheduled the custom post type %PostTitle% to be published %PublishingDate%. %EditorLinkPost%."
+msgstr "カスタム投稿タイプ「%PostTitle%」を%PublishingDate%に公開予約しました。%EditorLinkPost%。"
+
+#: defaults.php:1356
+msgid "The custom post %PostTitle% of type %PostType% has been restored from trash. %EditorLinkPost%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% をゴミ箱から復元しました。%EditorLinkPost%。"
+
+#: defaults.php:1529
+msgid "Moved the page %PostTitle% to trash. Page URL was %PostUrl%."
+msgstr "ページ %PostTitle% をゴミ箱に移動しました。ページ URL は %PostUrl% でした。"
+
+#: defaults.php:1535
+msgid "Page %PostTitle% has been restored from trash. %EditorLinkPage%."
+msgstr "ページ %PostTitle% をゴミ箱から復元しました。%EditorLinkPage%。"
+
+#: classes/ListAdminEvents/class-list-events.php:174
+msgid "Search"
+msgstr "検索"
+
+#: classes/ListAdminEvents/class-list-events.php:701 defaults.php:2091
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: classes/Views/LogInUsers.php:37
+msgid "Logged In Users ✛"
+msgstr "ログインユーザー +"
+
+#: defaults.php:206
+msgid "Login blocked"
+msgstr "ログインがブロックされました"
+
+#: defaults.php:218
+msgid "User logged in with existing session(s)"
+msgstr "既存のセッションでログインしているユーザー"
+
+#: classes/Views/Settings.php:945
+msgid "Events Timestamp"
+msgstr "イベント タイムスタンプ"
+
+#: classes/Views/Settings.php:965
+msgid "UTC"
+msgstr "UTC"
+
+#: classes/WPSensors/Alerts/class-yoast-custom-alerts.php:627 defaults.php:576
+msgid "User changed title of a post"
+msgstr "ユーザーが投稿のタイトルを変更しました"
+
+#: defaults.php:577
+msgid "Changed the title of the post %OldTitle% to %NewTitle%."
+msgstr "投稿 %OldTitle% のタイトルを %NewTitle% に変更しました。"
+
+#: defaults.php:1451
+msgid "User changed title of a custom post type"
+msgstr "ユーザーがカスタム投稿タイプのタイトルを変更しました"
+
+#: defaults.php:1612
+msgid "User changed title of a page"
+msgstr "ユーザーがページのタイトルを変更しました"
+
+#: defaults.php:1203
+msgid "User created new menu"
+msgstr "ユーザーが新しいメニューを作成しました"
+
+#: defaults.php:1213
+msgid "User added content to a menu"
+msgstr "ユーザーがメニューにコンテンツを追加した"
+
+#: defaults.php:1225
+msgid "User removed content from a menu"
+msgstr "ユーザーがメニューからコンテンツを削除した"
+
+#: defaults.php:1237
+msgid "User deleted menu"
+msgstr "ユーザーがメニューを削除しました"
+
+#: defaults.php:1238
+msgid "Deleted the menu %MenuName%."
+msgstr "メニュー %MenuName% を削除。"
+
+#: defaults.php:1247
+msgid "User changed menu setting"
+msgstr "ユーザーがメニュー設定を変更しました"
+
+#: defaults.php:1257
+msgid "User modified content in a menu"
+msgstr "ユーザーがメニュー内でコンテンツを変更しました"
+
+#: defaults.php:1269
+msgid "User changed name of a menu"
+msgstr "ユーザーがメニュー名を変更しました"
+
+#: defaults.php:1279
+msgid "User changed order of the objects in a menu"
+msgstr "ユーザーはメニュー内のオブジェクトの順序を変更しました"
+
+#: defaults.php:1280
+msgid "Changed the order of the items in the menu %MenuName%."
+msgstr "メニュー %MenuName% の項目の順序を変更しました。"
+
+#: defaults.php:1199
+msgid "Menus"
+msgstr "メニュー"
+
+#: defaults.php:562
+msgid "User scheduled a post"
+msgstr "ユーザーが投稿を予約しました"
+
+#: defaults.php:1606
+msgid "User scheduled a page"
+msgstr "ユーザーがページを予約しました"
+
+#: defaults.php:1445
+msgid "User scheduled a custom post type"
+msgstr "ユーザーがカスタム投稿タイプを予約しました"
+
+#: defaults.php:563
+msgid "Scheduled the post %PostTitle% to be published on %PublishingDate%."
+msgstr "投稿「%PostTitle%」を%PublishingDate%に公開予約しました。"
+
+#: classes/WPSensors/Helpers/class-bbpress-helper.php:46
+msgid "BBPress Forum"
+msgstr "BBPress フォーラム"
+
+#: classes/Controllers/class-alert-manager.php:1310
+#: classes/ListAdminEvents/class-list-events.php:699 defaults.php:2167
+#: defaults.php:2182
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: classes/Controllers/class-alert-manager.php:1311
+msgid "Database"
+msgstr "データベース"
+
+#: defaults.php:291
+msgid "Deleted the file %FileName%."
+msgstr "%FileName% ファイルを削除。"
+
+#: defaults.php:3147
+msgid "Plugin created table"
+msgstr "プラグイン作成テーブル"
+
+#: defaults.php:3159
+msgid "Plugin modified table structure"
+msgstr "プラグイン変更テーブル構造"
+
+#: defaults.php:3171
+msgid "Plugin deleted table"
+msgstr "プラグインがテーブルを削除しました"
+
+#: defaults.php:3183
+msgid "Theme created tables"
+msgstr "テーマがテーブルを作成しました"
+
+#: defaults.php:3195
+msgid "Theme modified tables structure"
+msgstr "テーマがテーブル構造を変更しました"
+
+#: defaults.php:3207
+msgid "Theme deleted tables"
+msgstr "テーマがテーブルを削除しました"
+
+#: defaults.php:3219
+msgid "Unknown component created tables"
+msgstr "不明なコンポーネントがテーブルを作成しました"
+
+#: defaults.php:3231
+msgid "Unknown component modified tables structure"
+msgstr "不明なコンポーネントがテーブル構造を変更しました"
+
+#: defaults.php:3232
+msgid "An unknown component modified the structure of these database tables."
+msgstr "不明なコンポーネントによって、これらのデータベース テーブルの構造が変更されました。"
+
+#: defaults.php:3243
+msgid "Unknown component deleted tables"
+msgstr "不明なコンポーネントがテーブルを削除しました"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:65
+msgid "New site added on the network"
+msgstr "ネットワークに追加された新しいサイト"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:77
+msgid "Existing site archived"
+msgstr "アーカイブ済みの既存のサイト"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:89
+msgid "Archived site has been unarchived"
+msgstr "アーカイブされたサイトは非アーカイブされました"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:90
+msgid "Unarchived the site %SiteName%."
+msgstr "サイト %SiteName% をアーカイブ解除しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:125
+msgid "Existing site deleted from network"
+msgstr "ネットワークから削除された既存のサイト"
+
+#: defaults.php:2296
+msgid "Activated theme on network"
+msgstr "ネットワークから有効化されたテーマ\t"
+
+#: defaults.php:2309
+msgid "Deactivated theme from network"
+msgstr "ネットワークから非有効化されたテーマ"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:101
+msgid "Deactivated site has been activated"
+msgstr "非有効化されたサイトが有効化されました"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:102
+msgid "Activated the site %SiteName% on the network."
+msgstr "サイト %SiteName% をネットワーク上で有効化しました。"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:113
+msgid "Site has been deactivated"
+msgstr "サイトが非有効化されました"
+
+#: defaults.php:1140
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#: classes/Helpers/class-widget-manager.php:90
+#: classes/Views/ToggleAlerts.php:331 classes/Views/ToggleAlerts.php:356
+msgid "Description"
+msgstr "説明"
+
+#: defaults.php:1730
+msgid "Changed the password."
+msgstr "パスワードを変更しました"
+
+#: classes/WPSensors/Alerts/class-multisite-custom-alerts.php:45
+msgid "MultiSite"
+msgstr "マルチサイト"
+
+#: defaults.php:2333
+msgid "PHP error"
+msgstr "PHP エラー"
+
+#: classes/Controllers/class-alert-manager.php:1308
+#: classes/Helpers/class-widget-manager.php:87
+#: classes/ListAdminEvents/class-list-events.php:287 defaults.php:1692
+msgid "User"
+msgstr "ユーザー"
+
+#: classes/Helpers/settings/class-settings-builder.php:2165
+#: classes/Views/ToggleAlerts.php:343 classes/Views/ToggleAlerts.php:525
+msgid "Save Changes"
+msgstr "変更保存"
+
+#: defaults.php:1685
+msgid "User Profiles"
+msgstr "ユーザープロフィール"
+
+#: classes/Views/ToggleAlerts.php:381 defaults.php:1494
+msgid "Pages"
+msgstr "ページ"
+
+#: classes/Views/Settings.php:1167
+msgid "Exclude IP Address(es):"
+msgstr "IP アドレスを除外:"
+
+#: classes/Views/ToggleAlerts.php:38 classes/Views/ToggleAlerts.php:52
+msgid "Enable/Disable Events"
+msgstr "イベントの有効化 / 無効化"
+
+#: classes/Helpers/class-widget-manager.php:82
+msgid "No events found."
+msgstr "イベントが見つかりませんでした。"
+
+#: defaults.php:317
+msgid "User created a new post and saved it as draft"
+msgstr "ユーザーは新しい投稿を作成し、下書きとして保存しました"
+
+#: defaults.php:359
+msgid "User permanently deleted a post from the trash"
+msgstr "ユーザーがゴミ箱から投稿を完全に削除しました"
+
+#: defaults.php:373
+msgid "User moved a post to the trash"
+msgstr "ユーザーが投稿をゴミ箱に移動しました"
+
+#: defaults.php:388
+msgid "Restored the post %PostTitle% from trash."
+msgstr "投稿 %PostTitle% をゴミ箱から復元しました。"
+
+#: defaults.php:432
+msgid "User changed post status"
+msgstr "ユーザーが投稿の状態を変更しました"
+
+#: defaults.php:446
+msgid "User changed the visibility of a post"
+msgstr "ユーザーが投稿の表示を変更しました"
+
+#: defaults.php:461
+msgid "User changed the date of a post"
+msgstr "ユーザーが投稿の日付を変更しました"
+
+#: defaults.php:476
+msgid "User changed the parent of a page"
+msgstr "ユーザーがページの親を変更しました"
+
+#: defaults.php:491
+msgid "User changed the template of a page"
+msgstr "ユーザーがページのテンプレートを変更しました"
+
+#: defaults.php:507
+msgid "Set the post %PostTitle% as sticky."
+msgstr "投稿 %PostTitle% を固定に設定しました。"
+
+#: defaults.php:535
+msgid "Modified the content of the post %PostTitle%."
+msgstr "投稿 %PostTitle% の内容を変更しました。"
+
+#: defaults.php:818
+msgid "User deleted category"
+msgstr "ユーザーがカテゴリーを削除しました"
+
+#: defaults.php:870
+msgid "User created a custom field for a post"
+msgstr "ユーザーが投稿用のカスタムフィールドを作成しました"
+
+#: defaults.php:885
+msgid "User updated a custom field value for a post"
+msgstr "ユーザーが投稿のカスタムフィールド値を更新しました"
+
+#: defaults.php:901
+msgid "User deleted a custom field from a post"
+msgstr "ユーザーが投稿からユーザー設定フィールドを削除しました"
+
+#: defaults.php:915
+msgid "User updated a custom field name for a post"
+msgstr "ユーザーが投稿のカスタムフィールド名を更新しました"
+
+#: defaults.php:1144
+msgid "User added a new widget"
+msgstr "ユーザーは新しいウィジェットを追加しました"
+
+#: defaults.php:1145
+msgid "Added a new %WidgetName% widget in %Sidebar%."
+msgstr "%Sidebar% に新しい %WidgetName% ウィジェットを追加しました。"
+
+#: defaults.php:1154
+msgid "User modified a widget"
+msgstr "ユーザーがウィジェットを変更しました"
+
+#: defaults.php:1155
+msgid "Modified the %WidgetName% widget in %Sidebar%."
+msgstr "%Sidebar% で %WidgetName% ウィジェットを変更しました。"
+
+#: defaults.php:1164
+msgid "User deleted widget"
+msgstr "ユーザーがウィジェットを削除しました"
+
+#: defaults.php:1165
+msgid "Deleted the %WidgetName% widget from %Sidebar%."
+msgstr "%Sidebar% から %WidgetName% ウィジェットを削除しました。"
+
+#: defaults.php:1174
+msgid "User moved widget"
+msgstr "ユーザーがウィジェットを移動しました"
+
+#: defaults.php:1187
+msgid "User changed widget position"
+msgstr "ユーザーがウィジェットの位置を変更しました"
+
+#: defaults.php:1313
+msgid "User modified a draft blog post"
+msgstr "ユーザーが下書きブログ投稿を変更しました"
+
+#: defaults.php:1319
+msgid "User created a new post with custom post type and saved it as draft"
+msgstr "ユーザーはカスタム投稿タイプを持つ新しい投稿を作成し、下書きとして保存しました"
+
+#: defaults.php:1320
+msgid "Created a new custom post called %PostTitle% of type %PostType%. %EditorLinkPost%."
+msgstr "%PostTitle% 型の %PostType% という名前の新しいカスタム投稿を作成しました。%EditorLinkPost%。"
+
+#: defaults.php:1325
+msgid "User published a post with custom post type"
+msgstr "ユーザーがカスタム投稿タイプの投稿を公開しました"
+
+#: defaults.php:1331
+msgid "User modified a post with custom post type"
+msgstr "ユーザーがカスタム投稿タイプの投稿を変更しました"
+
+#: defaults.php:1337
+msgid "User modified a draft post with custom post type"
+msgstr "ユーザーがカスタム投稿タイプで下書き投稿を変更しました"
+
+#: defaults.php:1343
+msgid "User permanently deleted post with custom post type"
+msgstr "ユーザーがカスタム投稿タイプの投稿を完全に削除しました"
+
+#: defaults.php:1344
+msgid "Permanently Deleted the custom post %PostTitle% of type %PostType%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% を完全に削除しました。"
+
+#: defaults.php:1349
+msgid "User moved post with custom post type to trash"
+msgstr "ユーザーはカスタム投稿タイプを持つ投稿をゴミ箱に移動しました"
+
+#: defaults.php:1362
+msgid "Changed the category(ies) of the custom post %PostTitle% of type %PostType% from %OldCategories% to %NewCategories%. %EditorLinkPost%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% のカテゴリーを %OldCategories% から %NewCategories% へ変更しました。%EditorLinkPost%。"
+
+#: defaults.php:1367
+msgid "User changed the URL of a post with custom post type"
+msgstr "ユーザーがカスタム投稿タイプの投稿の URL を変更しました"
+
+#: defaults.php:1374
+msgid "Changed the author of custom post %PostTitle% of type %PostType% from %OldAuthor% to %NewAuthor%. %EditorLinkPost%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% の著者を %OldAuthor% から %NewAuthor% へ変更しました。%EditorLinkPost%。"
+
+#: defaults.php:1379
+msgid "User changed the status of post with custom post type"
+msgstr "ユーザーはカスタム投稿タイプで投稿のステータスを変更しました"
+
+#: defaults.php:1380
+msgid "Changed the status of custom post %PostTitle% of type %PostType% from %OldStatus% to %NewStatus%. %EditorLinkPost%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% のステータスを %OldStatus% から %NewStatus% へ変更しました。%EditorLinkPost%。"
+
+#: defaults.php:1385
+msgid "User changed the visibility of a post with custom post type"
+msgstr "ユーザーはカスタム投稿タイプの投稿の表示を変更しました"
+
+#: defaults.php:1386
+msgid "Changed the visibility of the custom post %PostTitle% of type %PostType% from %OldVisibility% to %NewVisibility%. %EditorLinkPost%."
+msgstr "タイプ %PostType% のカスタム投稿 %PostTitle% の表示設定を %NewVisibility% に変更しました。%EditorLinkPost%。"
+
+#: defaults.php:1391
+msgid "User changed the date of post with custom post type"
+msgstr "ユーザーはカスタム投稿タイプで投稿の日付を変更しました"
+
+#: defaults.php:1397
+msgid "User created a custom field for a custom post type"
+msgstr "ユーザーがカスタム投稿タイプのカスタムフィールドを作成しました"
+
+#: defaults.php:1403
+msgid "User updated a custom field for a custom post type"
+msgstr "ユーザーがカスタム投稿タイプのカスタムフィールドを更新しました"
+
+#: defaults.php:1415
+msgid "User updated a custom field name for a custom post type"
+msgstr "ユーザーがカスタム投稿タイプのカスタムフィールド名を更新しました"
+
+#: defaults.php:1421
+msgid "User modified content for a published custom post type"
+msgstr "ユーザーが公開されたカスタム投稿タイプのコンテンツを変更しました"
+
+#: defaults.php:1427
+msgid "User modified content for a draft post"
+msgstr "ユーザーが下書き投稿のコンテンツを変更しました"
+
+#: defaults.php:1433
+msgid "User modified content for a draft custom post type"
+msgstr "ユーザーが下書きカスタム投稿タイプのコンテンツを変更しました"
+
+#: defaults.php:1439
+msgid "User modified content of a post"
+msgstr "ユーザーが投稿のコンテンツを変更しました"
+
+#: defaults.php:1498
+msgid "User created a new WordPress page and saved it as draft"
+msgstr "ユーザーは新しい WordPress のページを作成し、下書きとして保存しました"
+
+#: defaults.php:1504
+msgid "User published a WordPress page"
+msgstr "ユーザーは WordPress のページを公開しました"
+
+#: defaults.php:1510
+msgid "User modified a published WordPress page"
+msgstr "ユーザーが、公開された WordPress ページを変更しました"
+
+#: defaults.php:1516
+msgid "User modified a draft WordPress page"
+msgstr "ユーザーが下書き WordPress ページを変更しました"
+
+#: defaults.php:1522
+msgid "User permanently deleted a page from the trash"
+msgstr "ユーザーがゴミ箱からページを完全に削除しました"
+
+#: defaults.php:1546
+msgid "User changed page author"
+msgstr "ユーザーがページ作成者を変更しました"
+
+#: defaults.php:1552
+msgid "User changed page status"
+msgstr "ユーザーがページの状態を変更しました"
+
+#: defaults.php:1558
+msgid "User changed the visibility of a page post"
+msgstr "ユーザーがページ投稿の表示を変更しました"
+
+#: defaults.php:1564
+msgid "User changed the date of a page post"
+msgstr "ユーザーがページ投稿の日付を変更しました"
+
+#: defaults.php:1570
+msgid "User created a custom field for a page"
+msgstr "ユーザーがページのカスタムフィールドを作成しました"
+
+#: defaults.php:1576
+msgid "User updated a custom field value for a page"
+msgstr "ユーザーがページのカスタムフィールド値を更新しました"
+
+#: defaults.php:1582
+msgid "User deleted a custom field from a page"
+msgstr "ユーザーがページからカスタムフィールドを削除しました"
+
+#: defaults.php:1588
+msgid "User updated a custom field name for a page"
+msgstr "ユーザーがページのカスタムフィールド名を更新しました"
+
+#: defaults.php:1594
+msgid "User modified content for a published page"
+msgstr "ユーザーが公開ページのコンテンツを変更しました"
+
+#: defaults.php:1600
+msgid "User modified content for a draft page"
+msgstr "ユーザーが下書きページのコンテンツを変更しました"
+
+#: defaults.php:1689
+msgid "New user was created on WordPress"
+msgstr "新しいユーザーが WordPress 上で作成されました"
+
+#: defaults.php:1701
+msgid "User created another WordPress user"
+msgstr "ユーザーは別の WordPress のユーザーを作成しました"
+
+#: defaults.php:1715
+msgid "The role of a user was changed by another WordPress user"
+msgstr "ユーザーの役割は別の WordPress のユーザーによって変更されました"
+
+#: defaults.php:1729
+msgid "User has changed his or her password"
+msgstr "ユーザーが自分のパスワードを変更しました"
+
+#: defaults.php:1743
+msgid "User changed another user's password"
+msgstr "ユーザーが別のユーザーのパスワードを変更しました"
+
+#: defaults.php:1757
+msgid "User changed his or her email address"
+msgstr "ユーザーが自分のメールアドレスを変更しました"
+
+#: defaults.php:1772
+msgid "User changed another user's email address"
+msgstr "ユーザーが別のユーザーのメールアドレスを変更しました"
+
+#: defaults.php:1787
+msgid "User was deleted by another user"
+msgstr "ユーザーが他のユーザーによって削除されました"
+
+#: defaults.php:1995
+msgid "User granted Super Admin privileges"
+msgstr "ユーザーが特権管理者特権を付与しました"
+
+#: defaults.php:1996
+msgid "Granted Super Admin privileges to the user %TargetUsername%."
+msgstr "ユーザー %TargetUsername% にスーパー管理者特権を付与しました。"
+
+#: defaults.php:2009
+msgid "User revoked from Super Admin privileges"
+msgstr "ユーザーがスーパー管理者特権から取り消されました"
+
+#: defaults.php:2010
+msgid "Revoked Super Admin privileges from %TargetUsername%."
+msgstr "%TargetUsername% からスーパー管理者特権を取り消しました。"
+
+#: defaults.php:2023
+msgid "Existing user added to a site"
+msgstr "サイトに追加された既存のユーザー"
+
+#: defaults.php:2037
+msgid "User removed from site"
+msgstr "ユーザーはサイトから削除されました"
+
+#: defaults.php:2052
+msgid "Created the new network user %NewUserData->Username%."
+msgstr "新しいネットワーク ユーザー %NewUserData->Username% を作成しました。"
+
+#: defaults.php:2090
+msgid "Plugins & Themes"
+msgstr "プラグインとテーマ"
+
+#: defaults.php:2108
+msgid "User activated a WordPress plugin"
+msgstr "ユーザーは WordPress のプラグインを有効化しました"
+
+#: defaults.php:2121
+msgid "User deactivated a WordPress plugin"
+msgstr "ユーザーはWordPress のプラグインを無効にしました"
+
+#: defaults.php:2134
+msgid "User uninstalled a plugin"
+msgstr "ユーザーがプラグインをアンインストールしました"
+
+#: defaults.php:2147
+msgid "User upgraded a plugin"
+msgstr "ユーザーがプラグインをアップグレードしました"
+
+#: defaults.php:2231
+msgid "User installed a theme"
+msgstr "ユーザーがテーマをインストールしました"
+
+#: defaults.php:2327
+msgid "Unknown Error"
+msgstr "不明なエラー"
+
+#: defaults.php:2328
+msgid "An unexpected error has occurred."
+msgstr "予期しないエラーが発生しました。"
+
+#: defaults.php:2334 defaults.php:2340 defaults.php:2346 defaults.php:2352
+#: defaults.php:2358
+msgid "%Message%."
+msgstr "%Message%。"
+
+#: defaults.php:2339
+msgid "PHP warning"
+msgstr "PHP 警告"
+
+#: defaults.php:2345
+msgid "PHP notice"
+msgstr "PHP 通知"
+
+#: defaults.php:2351
+msgid "PHP exception"
+msgstr "PHP 例外"
+
+#: defaults.php:2357
+msgid "PHP shutdown error"
+msgstr "PHP シャットダウン エラー"
+
+#: defaults.php:2363
+msgid "WordPress was updated"
+msgstr "WordPress が更新されました"
+
+#: defaults.php:2392
+msgid "Events automatically pruned by system"
+msgstr "システムによって自動的にプルーニングされるイベント"
+
+#: defaults.php:2829
+msgid "Option Anyone Can Register in WordPress settings changed"
+msgstr "誰でも WordPress に登録することができるオプションを変更しました"
+
+#: defaults.php:2839
+msgid "New User Default Role changed"
+msgstr "新しいユーザーの既定の役割が変更されました"
+
+#: defaults.php:2852
+msgid "WordPress Administrator Notification email changed"
+msgstr "WordPress 管理者通知メールが変更されました"
+
+#: defaults.php:2865
+msgid "User changes the WordPress Permalinks"
+msgstr "ユーザーは WordPress のパーマリンクを変更します"
+
+#: defaults.php:548
+msgid "User submitted a post for review"
+msgstr "ユーザーが投稿のレビュー依頼を送信しました"
+
+#: defaults.php:1540
+msgid "User changed page URL"
+msgstr "ユーザーがページの URL を変更しました"
+
+#: defaults.php:417
+msgid "User changed post author"
+msgstr "ユーザーが投稿者を変更しました"
+
+#: defaults.php:2095
+msgid "User installed a plugin"
+msgstr "ユーザーがプラグインをインストールしました"
+
+#: defaults.php:2244
+msgid "User activated a theme"
+msgstr "ユーザーがテーマを有効化しました"
+
+#: defaults.php:2283
+msgid "User changed a file using the theme editor"
+msgstr "ユーザーがテーマエディターを使用してファイルを変更しました"
+
+#: defaults.php:2218
+msgid "User changed a file using the plugin editor"
+msgstr "ユーザーがプラグインエディターを使用してファイルを変更しました"
+
+#: defaults.php:2051
+msgid "New network user created"
+msgstr "新しいネットワークユーザーを作成しました"
+
+#: defaults.php:790
+msgid "User changed post category"
+msgstr "ユーザーが投稿カテゴリーを変更しました"
+
+#: defaults.php:806
+msgid "User created new category"
+msgstr "ユーザーが新しいカテゴリーを作成しました"
+
+#: defaults.php:1355
+msgid "User restored post with custom post type from trash"
+msgstr "ユーザーがごみ箱からカスタム投稿タイプの投稿を復元しました"
+
+#: defaults.php:1361
+msgid "User changed the category of a post with custom post type"
+msgstr "ユーザーがカスタム投稿タイプの投稿のカテゴリーを変更しました"
+
+#: defaults.php:1373
+msgid "User changed the author or post with custom post type"
+msgstr "ユーザーはカスタム投稿タイプの投稿のカテゴリーを変更しました"
+
+#: defaults.php:1409
+msgid "User deleted a custom field from a custom post type"
+msgstr "ユーザーがカスタム投稿タイプからカスタムフィールドを削除しました"
+
+#: defaults.php:1528
+msgid "User moved WordPress page to the trash"
+msgstr "ユーザーが WordPress のページをごみ箱に移動しました"
+
+#: defaults.php:1534
+msgid "User restored a WordPress page from trash"
+msgstr "ユーザーが投稿をゴミ箱から復元しました"
+
+#: defaults.php:374
+msgid "Moved the post %PostTitle% to trash."
+msgstr "投稿 %PostTitle% をゴミ箱へ移動しました。"
+
+#: defaults.php:387
+msgid "User restored a post from trash"
+msgstr "ユーザーが投稿をゴミ箱から復元しました"
+
+#: defaults.php:290
+msgid "User deleted file from Uploads directory"
+msgstr "ユーザーがアップロードディレクトリからファイルを削除しました"
+
+#: defaults.php:278
+msgid "User uploaded file to the Uploads directory"
+msgstr "ユーザーがアップロードディレクトリにファイルをアップロードしました"
+
+#: defaults.php:506
+msgid "User set a post as sticky"
+msgstr "ユーザーが投稿を先頭固定表示として設定しました"
+
+#: defaults.php:520
+msgid "User removed post from sticky"
+msgstr "ユーザーが先頭固定表示から投稿を削除しました"
+
+#: defaults.php:521
+msgid "Removed the post %PostTitle% from sticky."
+msgstr "投稿 %PostTitle% を先頭固定表示から削除しました。"
+
+#: defaults.php:2257
+msgid "User uninstalled a theme"
+msgstr "ユーザーがテーマをアンインストールしました"
+
+#: classes/Views/Help.php:73 classes/Views/Help.php:125
+msgid "Help"
+msgstr "ヘルプ"
+
+#: classes/Views/Help.php:204
+msgid "Plugin Support"
+msgstr "プラグインサポート"
+
+#: classes/Controllers/class-constants.php:116
+#: classes/Controllers/class-constants.php:339
+#: classes/Helpers/class-user-utils.php:210
+#: classes/ListAdminEvents/class-list-events.php:676
+msgid "Unknown"
+msgstr "不明"
+
+#: classes/WPSensors/class-woocommerce-sensor.php:2839
+#: classes/WPSensors/class-woocommerce-sensor.php:2873
+#: classes/WPSensors/class-woocommerce-sensor.php:2922
+#: classes/WPSensors/class-yoast-seo-sensor.php:1223
+#: classes/WPSensors/class-yoast-seo-sensor.php:1224
+msgid "None"
+msgstr "なし"
+
+#: classes/WPSensors/class-wpforms-sensor.php:944
+msgid "Other"
+msgstr "その他"
+
+#: classes/Views/Settings.php:177 classes/Views/Settings.php:191
+#: classes/WPSensors/Helpers/class-gravityforms-helper.php:178
+msgid "Settings"
+msgstr "設定"
+
+#: defaults.php:2081
+msgid "Username"
+msgstr "ユーザー名"
+
+#: classes/Views/Help.php:215
+msgid "Plugin Documentation"
+msgstr "プラグインドキュメント"
+
+#: defaults.php:2098 defaults.php:2111 defaults.php:2124 defaults.php:2137
+#: defaults.php:2234 defaults.php:2247 defaults.php:2260 defaults.php:2299
+#: defaults.php:2312
+msgid "Version"
+msgstr "バージョン"
+
+#: classes/ListAdminEvents/class-list-events.php:306
+msgid "Message"
+msgstr "メッセージ"
+
+#: classes/Views/AuditLog.php:396 classes/Views/Settings.php:339
+#: classes/Views/ToggleAlerts.php:227
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページを表示する権限がありません。"
+
+#: classes/Views/ToggleAlerts.php:354
+msgid "Code"
+msgstr "コード"
+
+#: classes/WPSensors/Alerts/class-wpforms-custom-alerts.php:213
+#: defaults.php:699 defaults.php:714
+msgid "Type"
+msgstr "タイプ"
+
+#: classes/ListAdminEvents/class-list-events.php:286
+#: classes/WPSensors/class-yoast-seo-sensor.php:1387
+#: classes/WPSensors/class-yoast-seo-sensor.php:1619
+msgid "Date"
+msgstr "日時"
+
+#: classes/Views/Settings.php:1092
+msgid "Learn More"
+msgstr "もっと学ぶ"
+
+#: classes/Controllers/class-alert-manager.php:1309
+#: classes/Controllers/class-alert-manager.php:1458
+#: classes/ListAdminEvents/class-list-events.php:707
+#: classes/Migration/class-migration.php:802
+#: classes/Migration/class-migration.php:807 defaults.php:2323
+msgid "System"
+msgstr "システム"
+
+#: classes/ListAdminEvents/class-list-events.php:295
+#: classes/ListAdminEvents/class-list-events.php:302
+msgid "Site"
+msgstr "サイト"
+
+#: classes/ListAdminEvents/class-list-events.php:1221
+#: classes/MainWPAddon/class-mainwp-helper.php:130
+msgid "All Sites"
+msgstr "すべてのサイト"
+
+#: classes/Views/Help.php:220
+msgid "Plugin Website"
+msgstr "プラグイン・ウェブサイト"
+
+#: classes/WPSensors/class-woocommerce-sensor.php:1261
+#: classes/WPSensors/class-woocommerce-sensor.php:1269
+#: classes/WPSensors/class-wp-content-sensor.php:1312
+#: classes/WPSensors/class-wp-content-sensor.php:1320
+msgid "Password Protected"
+msgstr "パスワードで保護されています"
+
+#: classes/WPSensors/class-woocommerce-sensor.php:1265
+#: classes/WPSensors/class-woocommerce-sensor.php:1273
+#: classes/WPSensors/class-wp-content-sensor.php:1314
+#: classes/WPSensors/class-wp-content-sensor.php:1322
+msgid "Private"
+msgstr "プライベート"
+
+#: classes/WPSensors/class-woocommerce-sensor.php:1263
+#: classes/WPSensors/class-woocommerce-sensor.php:1271
+#: classes/WPSensors/class-wp-content-sensor.php:1316
+#: classes/WPSensors/class-wp-content-sensor.php:1324
+msgid "Public"
+msgstr "パブリック"
+
+#: classes/Views/Help.php:206
+msgid "Have you encountered or noticed any issues while using WP Activity Log plugin?"
+msgstr "WP Activity Log プラグインを使用中に問題が発生したか、または気付きましたか ?"
+
+#: classes/Views/Help.php:207
+msgid "Or you want to report something to us? Click any of the options below to post on the plugin's forum or contact our support directly."
+msgstr "それとも、私たちに何かを報告したいですか ? プラグインのフォーラムに投稿する、または直接サポートに連絡するには、以下のオプションのいずれかをクリックしてください。"
+
+#: classes/Views/Help.php:209
+msgid "Free Support Forum"
+msgstr "無料サポートフォーラム"
+
+#: classes/Views/Help.php:211
+msgid "Free Support Email"
+msgstr "無料サポートメール"
+
+#: classes/Views/Settings.php:355 classes/Views/ToggleAlerts.php:239
+msgid "Settings have been saved."
+msgstr "設定を保存しました。"
+
+#: classes/Views/Settings.php:733 classes/Views/Settings.php:762
+msgid "Can view events"
+msgstr "イベントを表示できる"
+
+#: classes/Views/Settings.php:841
+msgid "Hide Plugin in Plugins Page"
+msgstr "プラグインページでプラグインを非表示にする"
+
+#: classes/Views/Settings.php:1034
+msgid "Enable Events for WordPress Background Activity"
+msgstr "WordPress のバックグラウンド アクティビティのイベントを有効にする"
+
+#: classes/Views/Settings.php:1125
+msgid "Exclude Users:"
+msgstr "追跡のユーザーを除く:"
+
+#: classes/Views/Settings.php:1146
+msgid "Exclude Roles:"
+msgstr "権限グループの除外:"
+
+#: classes/Views/Settings.php:1394
+msgid "Remove Data on Uninstall"
+msgstr "アンインストール時にデータを削除する"
+
+#: classes/Views/Settings.php:1870
+msgid "Delete events older than"
+msgstr "次の値より古いイベントを削除する"
+
+#: classes/Controllers/class-constants.php:117
+#: classes/Controllers/class-constants.php:340
+msgid "Unknown error code."
+msgstr "不明なエラーコードです。"
+
+#: classes/Views/Settings.php:686
+msgid "Restrict plugin access"
+msgstr "プラグインのアクセスを制限します"
+
+#: classes/Views/Settings.php:637
+msgid "Reverse Proxy / Firewall Options"
+msgstr "リバース プロキシー/ファイアウォールオプション"
+
+#: classes/Views/Settings.php:362 classes/Views/ToggleAlerts.php:245
+msgid "Error: "
+msgstr "エラー:"

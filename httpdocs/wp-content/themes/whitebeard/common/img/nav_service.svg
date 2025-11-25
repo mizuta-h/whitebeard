@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="グループ_34" data-name="グループ 34" transform="translate(-868 -453)">
+    <g id="長方形_141" data-name="長方形 141" transform="translate(868 453)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="35" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="34" height="34" fill="none"/>
+    </g>
+    <g id="グループ_33" data-name="グループ 33">
+      <g id="長方形_142" data-name="長方形 142" transform="translate(871 454)" fill="#fff" stroke="#171c61" stroke-width="3">
+        <rect width="29" height="33" rx="3" stroke="none"/>
+        <rect x="1.5" y="1.5" width="26" height="30" rx="1.5" fill="none"/>
+      </g>
+      <line id="線_31" data-name="線 31" x2="9" transform="translate(881 464.5)" fill="none" stroke="#171c61" stroke-linecap="round" stroke-width="3"/>
+      <line id="線_32" data-name="線 32" x2="9" transform="translate(881 470.5)" fill="none" stroke="#171c61" stroke-linecap="round" stroke-width="3"/>
+      <line id="線_33" data-name="線 33" x2="4" transform="translate(886 476.5)" fill="none" stroke="#171c61" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
