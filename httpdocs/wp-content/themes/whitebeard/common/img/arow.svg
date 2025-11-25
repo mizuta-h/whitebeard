@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="グループ_44745" data-name="グループ 44745" transform="translate(-195 -15)">
+    <path id="Icon_awesome-arrow-right" data-name="Icon awesome-arrow-right" d="M4.171,3.288,4.657,2.8a.523.523,0,0,1,.742,0L9.655,7.056a.523.523,0,0,1,0,.742L5.4,12.054a.523.523,0,0,1-.742,0l-.486-.486a.526.526,0,0,1,.009-.751L6.818,8.3H.525A.524.524,0,0,1,0,7.778v-.7a.524.524,0,0,1,.525-.525H6.818L4.179,4.039A.522.522,0,0,1,4.171,3.288Z" transform="translate(205 22.353)" fill="#fff"/>
+    <g id="楕円形_318" data-name="楕円形 318" transform="translate(195 15)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="15" cy="15" r="15" stroke="none"/>
+      <circle cx="15" cy="15" r="14.5" fill="none"/>
+    </g>
+  </g>
+</svg>
