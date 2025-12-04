@@ -5,7 +5,7 @@
 html {
   font-family: "Noto Sans JP", sans-serif;
   --color--black: #000;
-  --color--white: #FFF;
+  --color--white: #fff;
   --color--main: #793f05;
   --color--sub: #a67853;
   --color--sub2: #eb9212;
@@ -13,7 +13,7 @@ html {
   --color--bg: #fbf7f4;
   --color--bg2: #e4d8ce;
   --color--lgray: #f4f4f4;
-  --color--gray: #CCC;
+  --color--gray: #ccc;
   scroll-behavior: smooth;
   scroll-padding-top: 220px;
   color: var(--color--text);
@@ -289,17 +289,21 @@ a {
   #gHeader .section_inner .toggler span:nth-of-type(3) {
     width: 60%;
   }
-  #gHeader .section_inner .toggler:hover span:nth-of-type(1), #gHeader .section_inner .toggler.is-active span:nth-of-type(1) {
+  #gHeader .section_inner .toggler:hover span:nth-of-type(1),
+  #gHeader .section_inner .toggler.is-active span:nth-of-type(1) {
     transform: translateY(12px) rotate(45deg);
     width: 90%;
   }
-  #gHeader .section_inner .toggler:hover span:nth-of-type(2), #gHeader .section_inner .toggler.is-active span:nth-of-type(2) {
+  #gHeader .section_inner .toggler:hover span:nth-of-type(2),
+  #gHeader .section_inner .toggler.is-active span:nth-of-type(2) {
     display: none;
   }
-  #gHeader .section_inner .toggler:hover span:nth-of-type(3), #gHeader .section_inner .toggler.is-active span:nth-of-type(3) {
+  #gHeader .section_inner .toggler:hover span:nth-of-type(3),
+  #gHeader .section_inner .toggler.is-active span:nth-of-type(3) {
     display: none;
   }
-  #gHeader .section_inner .toggler:hover span:nth-of-type(4), #gHeader .section_inner .toggler.is-active span:nth-of-type(4) {
+  #gHeader .section_inner .toggler:hover span:nth-of-type(4),
+  #gHeader .section_inner .toggler.is-active span:nth-of-type(4) {
     transform: rotate(-45deg);
     width: 90%;
   }
@@ -515,17 +519,17 @@ h3.subtitle.asCase:after {
 table {
   border-collapse: collapse;
   width: 100%;
-  border: #CCC 3px solid;
+  border: #ccc 3px solid;
   background: var(--color--white);
 }
 
 table th {
-  border: 1px solid #CCC;
+  border: 1px solid #ccc;
   padding: 10px;
 }
 
 table td {
-  border: 1px solid #CCC;
+  border: 1px solid #ccc;
   padding: 10px;
 }
 
@@ -1175,12 +1179,12 @@ section.cases article .price strong {
 section.cases article .youtube {
   position: relative;
 }
-section.cases article .youtube .palybtn {
+section.cases article .youtube .playbtn {
   position: absolute;
   bottom: -60px;
   right: 40px;
 }
-section.cases article .youtube .palybtn img {
+section.cases article .youtube .playbtn img {
   transition: center center;
   animation: btnExpand 2s infinite;
 }
@@ -1228,10 +1232,10 @@ section#sec_case01 .bg {
   section#sec_case01 article h2 {
     background-size: 300px;
   }
-  section#sec_case01 article .youtube .palybtn {
+  section#sec_case01 article .youtube .playbtn {
     right: 20px;
   }
-  section#sec_case01 article .youtube .palybtn img {
+  section#sec_case01 article .youtube .playbtn img {
     width: 100px;
   }
 }
@@ -1273,10 +1277,10 @@ section#sec_case02 article {
   section#sec_case02 article .price {
     margin-bottom: 15px;
   }
-  section#sec_case02 article .youtube .palybtn {
+  section#sec_case02 article .youtube .playbtn {
     right: 20px;
   }
-  section#sec_case02 article .youtube .palybtn img {
+  section#sec_case02 article .youtube .playbtn img {
     width: 100px;
   }
 }
@@ -1454,13 +1458,13 @@ footer .flex-wrapper ul.menu li {
 /*----------------------------
 * form
 *----------------------------*/
-input[type=text],
-input[type=tel],
-input[type=email],
+input[type="text"],
+input[type="tel"],
+input[type="email"],
 textarea {
   width: 100%;
   background: var(--color--white);
-  border: 1px solid #CCC;
+  border: 1px solid #ccc;
   border-radius: 6px;
   padding: 0.5em;
 }
@@ -1471,11 +1475,11 @@ textarea {
   padding: 15px;
 }
 
-input[type=checkbox] {
+input[type="checkbox"] {
   margin-right: 5px;
 }
 
-input[type=radio] {
+input[type="radio"] {
   margin-right: 5px;
 }
 
@@ -1495,7 +1499,7 @@ label.error {
   margin-bottom: 5px;
 }
 
-input[type=submit] {
+input[type="submit"] {
   background: var(--color--sub2);
   color: var(--color--white);
   padding: 8px 30px;
@@ -1506,7 +1510,7 @@ input[type=submit] {
   font-size: 1em;
 }
 
-input[type=button] {
+input[type="button"] {
   background: #999;
   color: var(--color--white);
   padding: 8px 30px;
@@ -1673,4 +1677,4 @@ hamburger(ハンバーガーアイコン)
 .open .black-bg {
   opacity: 0.3;
   visibility: visible;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
